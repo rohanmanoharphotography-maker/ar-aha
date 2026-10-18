@@ -1,0 +1,492 @@
+{
+  "slug": "bullet-energy",
+  "title": "Where Does the Bullet's Energy Go?",
+  "topic": "Energy loss when a bullet is fired into a block of wood",
+  "audience": "Grade 10, Cambridge IGCSE Physics 0625 (Core + Extended)",
+  "style": "editorial",
+  "stage": "wide",
+  "voice": "bm_george",
+  "keywords": [
+    "four hundred metres per second",
+    "where",
+    "chemical store",
+    "kinetic energy store",
+    "kinetic store",
+    "air resistance",
+    "work",
+    "thermal energy store",
+    "thermal store",
+    "sound",
+    "deforming",
+    "destroyed",
+    "conservation of energy",
+    "dissipated",
+    "efficiency",
+    "kilograms",
+    "zero point zero one kilograms",
+    "square the speed",
+    "eight hundred joules",
+    "zero point zero eight metres",
+    "ten thousand newtons",
+    "momentum is conserved",
+    "one point nine nine metres per second",
+    "four joules",
+    "seven hundred and ninety six joules",
+    "not conserved",
+    "inelastic collision",
+    "square v",
+    "grams to kilograms",
+    "mark scheme"
+  ],
+  "beats": [
+    {
+      "id": 1,
+      "text": "A bullet is moving at four hundred metres per second. A tenth of a second later, it has stopped dead inside a block of wood. So where did all that energy go?"
+    },
+    {
+      "id": 2,
+      "text": "Pause the video, and make your guess.",
+      "pauseAfter": 4
+    },
+    {
+      "id": 3,
+      "text": "Let's follow the energy. When the bullet is fired, energy in the chemical store of the gunpowder is transferred to the kinetic energy store of the bullet."
+    },
+    {
+      "id": 4,
+      "text": "As it flies, a little energy is transferred to the surroundings by air resistance."
+    },
+    {
+      "id": 5,
+      "text": "Then it hits the wood. The wood pushes back with a large force, and that force does work on the bullet, emptying its kinetic store."
+    },
+    {
+      "id": 6,
+      "text": "That energy ends up in the thermal energy store of the bullet and the wood, as sound, and in splitting and deforming the wood."
+    },
+    {
+      "id": 7,
+      "text": "None of it is destroyed. That's the principle of conservation of energy. But the energy has been dissipated: spread out into the surroundings, where it can't easily be used again."
+    },
+    {
+      "id": 8,
+      "text": "Here's the whole journey as an energy flow diagram. The width of each arrow shows how much energy goes that way. The useful share that reaches the bullet's kinetic store, divided by the total input, is the efficiency."
+    },
+    {
+      "id": 9,
+      "text": "Now let's put numbers on it. Example one: find the kinetic energy of a ten gram bullet moving at four hundred metres per second."
+    },
+    {
+      "id": 10,
+      "text": "First, convert the mass into kilograms. Ten grams is zero point zero one kilograms. This is the step students forget most often."
+    },
+    {
+      "id": 11,
+      "text": "Kinetic energy equals one half m v squared. Pause the video and try it.",
+      "pauseAfter": 5
+    },
+    {
+      "id": 12,
+      "text": "One half, times zero point zero one, times four hundred squared, gives eight hundred joules. And don't forget to square the speed."
+    },
+    {
+      "id": 13,
+      "text": "Example two. The bullet stops after travelling eight centimetres into the wood. What average force does the wood exert on it?"
+    },
+    {
+      "id": 14,
+      "text": "All eight hundred joules is removed by work done, and work done equals force times distance. Eight centimetres is zero point zero eight metres. Pause and try it.",
+      "pauseAfter": 5
+    },
+    {
+      "id": 15,
+      "text": "Force equals eight hundred joules, divided by zero point zero eight metres. That's ten thousand newtons."
+    },
+    {
+      "id": 16,
+      "text": "Now the extended part. The same bullet hits a two kilogram block resting on a smooth surface. It embeds, and the bullet and block slide off together."
+    },
+    {
+      "id": 17,
+      "text": "Momentum is conserved. So zero point zero one times four hundred equals two point zero one times v. Pause, and find v.",
+      "pauseAfter": 5
+    },
+    {
+      "id": 18,
+      "text": "Four kilogram metres per second, divided by two point zero one kilograms, gives about one point nine nine metres per second."
+    },
+    {
+      "id": 19,
+      "text": "Now the kinetic energy afterwards: one half, times two point zero one, times one point nine nine squared. That's only about four joules."
+    },
+    {
+      "id": 20,
+      "text": "Eight hundred joules before. About four joules after. Around seven hundred and ninety six joules of kinetic energy have gone. Kinetic energy is not conserved. This is an inelastic collision."
+    },
+    {
+      "id": 21,
+      "text": "So where did it go? Into the thermal store of the bullet and block, into sound, and into deforming the wood. Momentum is conserved, but kinetic energy is not."
+    },
+    {
+      "id": 22,
+      "text": "Watch out for four classic mistakes. Saying energy is destroyed. Forgetting to square v. Not converting grams to kilograms. And assuming kinetic energy is conserved when the bullet embeds."
+    },
+    {
+      "id": 23,
+      "text": "Now it's your turn. Try the three exam style questions on screen, then check your answers with the mark scheme. You've got this."
+    }
+  ],
+  "scenes": [
+    {
+      "id": "hook",
+      "type": "bullet-hook",
+      "beats": [
+        1,
+        2
+      ],
+      "props": {
+        "speed": 400,
+        "question": [
+          "WHERE DID",
+          "THE ENERGY GO?"
+        ],
+        "cues": {
+          "fly": "bullet",
+          "stop": "stopped",
+          "question": "where"
+        }
+      }
+    },
+    {
+      "id": "transfers",
+      "type": "transfers",
+      "beats": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "props": {
+        "kicker": "Follow the energy",
+        "cues": {
+          "chem": "chemical",
+          "ke": "kinetic",
+          "air": "air",
+          "hit": "hits",
+          "work": "work",
+          "thermal": "thermal",
+          "sound": "sound",
+          "deform": "deforming"
+        }
+      }
+    },
+    {
+      "id": "conservation",
+      "type": "conservation",
+      "beats": [
+        7
+      ],
+      "props": {
+        "kicker": "Key idea",
+        "cues": {
+          "destroyed": "destroyed",
+          "conserved": "conservation",
+          "dissipated": "dissipated",
+          "useless": "easily"
+        }
+      }
+    },
+    {
+      "id": "sankey",
+      "type": "sankey",
+      "beats": [
+        8
+      ],
+      "props": {
+        "kicker": "Energy flow (Sankey) diagram",
+        "footnote": "Arrow widths are illustrative, not measured",
+        "cues": {
+          "draw": "journey",
+          "width": "width",
+          "efficiency": "useful"
+        }
+      }
+    },
+    {
+      "id": "example1",
+      "type": "equation",
+      "beats": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "props": {
+        "kicker": "Worked example 1",
+        "question": "Find the kinetic energy of a 10 g bullet moving at 400 m/s.",
+        "given": [
+          {
+            "sym": "m",
+            "value": "10 g",
+            "convert": "0.010 kg",
+            "cue": "convert"
+          },
+          {
+            "sym": "v",
+            "value": "400 m/s"
+          }
+        ],
+        "lines": [
+          {
+            "text": "E_k = ½ m v^2",
+            "cue": "half"
+          },
+          {
+            "text": "= ½ × 0.010 kg × (400 m/s)^2",
+            "cue": "half#2"
+          },
+          {
+            "text": "= 800 J",
+            "cue": "eight",
+            "result": true
+          }
+        ],
+        "note": {
+          "text": "Square the speed: 400^2 = 160 000",
+          "cue": "square the"
+        },
+        "convertNote": {
+          "text": "g → kg: divide by 1000",
+          "cue": "forget"
+        }
+      }
+    },
+    {
+      "id": "example2",
+      "type": "equation",
+      "beats": [
+        13,
+        14,
+        15
+      ],
+      "props": {
+        "kicker": "Worked example 2",
+        "question": "The bullet stops in 8 cm of wood. Find the average force the wood exerts.",
+        "diagram": "stopping",
+        "given": [
+          {
+            "sym": "W",
+            "value": "800 J",
+            "cue": "removed"
+          },
+          {
+            "sym": "d",
+            "value": "8 cm",
+            "convert": "0.08 m",
+            "cue": "centimetres#2"
+          }
+        ],
+        "lines": [
+          {
+            "text": "W = F d",
+            "cue": "force times"
+          },
+          {
+            "text": "F = W ÷ d = 800 J ÷ 0.08 m",
+            "cue": "equals#2"
+          },
+          {
+            "text": "F = 10 000 N",
+            "cue": "ten",
+            "result": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "collision",
+      "type": "collision",
+      "beats": [
+        16
+      ],
+      "props": {
+        "kicker": "Extended: inelastic collision",
+        "cues": {
+          "block": "block",
+          "smooth": "smooth",
+          "embed": "embeds",
+          "slide": "slide"
+        }
+      }
+    },
+    {
+      "id": "momentum",
+      "type": "equation",
+      "beats": [
+        17,
+        18
+      ],
+      "props": {
+        "kicker": "Conservation of momentum",
+        "question": "Find the speed of the block (with the bullet) just after impact.",
+        "diagram": "collision-mini",
+        "given": [
+          {
+            "sym": "m_1",
+            "value": "0.010 kg"
+          },
+          {
+            "sym": "u_1",
+            "value": "400 m/s"
+          },
+          {
+            "sym": "m_1 + m_2",
+            "value": "2.010 kg"
+          }
+        ],
+        "lines": [
+          {
+            "text": "m_1 u_1 = (m_1 + m_2) v",
+            "cue": "momentum"
+          },
+          {
+            "text": "0.010 × 400 = 2.010 × v",
+            "cue": "zero"
+          },
+          {
+            "text": "v = 4.0 kg m/s ÷ 2.010 kg",
+            "cue": "divided"
+          },
+          {
+            "text": "v ≈ 1.99 m/s",
+            "cue": "gives",
+            "result": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "ke-compare",
+      "type": "ke-compare",
+      "beats": [
+        19,
+        20
+      ],
+      "props": {
+        "kicker": "Is kinetic energy conserved?",
+        "lines": [
+          {
+            "text": "E_k after = ½ × 2.010 kg × (1.99 m/s)^2",
+            "cue": "half"
+          },
+          {
+            "text": "E_k after ≈ 4 J",
+            "cue": "only",
+            "result": true
+          }
+        ],
+        "before": 800,
+        "after": 4,
+        "lost": 796,
+        "cues": {
+          "before": "before",
+          "after": "joules after",
+          "lost": "seven",
+          "stamp": "inelastic"
+        }
+      }
+    },
+    {
+      "id": "where",
+      "type": "where",
+      "beats": [
+        21
+      ],
+      "props": {
+        "kicker": "Where did 796 J go?",
+        "cues": {
+          "thermal": "thermal",
+          "sound": "sound",
+          "deform": "deforming",
+          "momentum": "momentum",
+          "ke": "kinetic"
+        }
+      }
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "beats": [
+        22
+      ],
+      "props": {
+        "kicker": "Common mistakes",
+        "items": [
+          {
+            "wrong": "\"The energy is destroyed\"",
+            "right": "Energy is conserved, it is dissipated to the surroundings",
+            "cue": "destroyed"
+          },
+          {
+            "wrong": "E_k = ½ m v",
+            "right": "E_k = ½ m v^2: square the speed",
+            "cue": "square"
+          },
+          {
+            "wrong": "m = 10 kg",
+            "right": "m = 10 g = 0.010 kg",
+            "cue": "converting"
+          },
+          {
+            "wrong": "E_k before = E_k after",
+            "right": "Momentum is conserved; E_k is not (inelastic)",
+            "cue": "assuming"
+          }
+        ]
+      }
+    },
+    {
+      "id": "your-turn",
+      "type": "questions",
+      "beats": [
+        23
+      ],
+      "props": {
+        "kicker": "Your turn: exam-style practice",
+        "questions": [
+          {
+            "tag": "Describe",
+            "marks": 3,
+            "text": "A bullet is fired from a gun into a wooden block, where it stops. Describe the energy transfers from firing to stopping."
+          },
+          {
+            "tag": "Calculate",
+            "marks": 5,
+            "text": "A 15 g bullet at 350 m/s stops in 0.12 m of wood. Calculate (a) its kinetic energy (b) the average resistive force."
+          },
+          {
+            "tag": "Explain",
+            "marks": 3,
+            "text": "A bullet embeds in a block on a smooth surface. Explain why momentum is conserved but kinetic energy is not."
+          }
+        ],
+        "cues": {
+          "cards": "three",
+          "scheme": "mark"
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Ek = ½mv²; W = Fd; momentum conservation m₁u₁ = (m₁+m₂)v; energy stores and dissipation language",
+      "source": "Cambridge IGCSE Physics 0625 syllabus (2023–2025), topics 1.6 (momentum, Extended) and 1.7 (energy, work)",
+      "url": "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-physics-0625/"
+    },
+    {
+      "claim": "Worked numbers: ½×0.010×400² = 800 J; 800/0.08 = 10 000 N; 4.0/2.010 = 1.99 m/s; ½×2.010×1.99² ≈ 3.98 J; 800 − 3.98 ≈ 796 J",
+      "source": "Calculated (verified in production)",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,8213 @@
+{
+  "title": "Where Does the Bullet's Energy Go?",
+  "format": "landscape",
+  "fps": 30,
+  "durationInFrames": 7120,
+  "audio": "build/bullet-energy/mix.wav",
+  "scenes": [
+    {
+      "id": "hook",
+      "type": "bullet-hook",
+      "from": 0,
+      "durationInFrames": 507,
+      "cues": {
+        "fly": 16,
+        "stop": 179,
+        "question": 259
+      },
+      "words": [
+        {
+          "text": "A",
+          "start": 0.3,
+          "end": 0.54,
+          "highlight": false
+        },
+        {
+          "text": "bullet",
+          "start": 0.54,
+          "end": 0.94,
+          "highlight": false
+        },
+        {
+          "text": "is",
+          "start": 0.94,
+          "end": 1.1,
+          "highlight": false
+        },
+        {
+          "text": "moving",
+          "start": 1.1,
+          "end": 1.5,
+          "highlight": false
+        },
+        {
+          "text": "at",
+          "start": 1.5,
+          "end": 1.9,
+          "highlight": false
+        },
+        {
+          "text": "four",
+          "start": 1.9,
+          "end": 2.54,
+          "highlight": true
+        },
+        {
+          "text": "hundred",
+          "start": 1.9,
+          "end": 2.54,
+          "highlight": true
+        },
+        {
+          "text": "metres",
+          "start": 2.54,
+          "end": 3.02,
+          "highlight": true
+        },
+        {
+          "text": "per",
+          "start": 3.02,
+          "end": 3.26,
+          "highlight": true
+        },
+        {
+          "text": "second.",
+          "start": 3.26,
+          "end": 3.98,
+          "highlight": true
+        },
+        {
+          "text": "A",
+          "start": 3.98,
+          "end": 4.14,
+          "highlight": false
+        },
+        {
+          "text": "tenth",
+          "start": 4.14,
+          "end": 4.54,
+          "highlight": false
+        },
+        {
+          "text": "of",
+          "start": 4.54,
+          "end": 4.7,
+          "highlight": false
+        },
+        {
+          "text": "a",
+          "start": 4.7,
+          "end": 4.78,
+          "highlight": false
+        },
+        {
+          "text": "second",
+          "start": 4.78,
+          "end": 5.1,
+          "highlight": false
+        },
+        {
+          "text": "later,",
+          "start": 5.1,
+          "end": 5.66,
+          "highlight": false
+        },
+        {
+          "text": "it",
+          "start": 5.66,
+          "end": 5.82,
+          "highlight": false
+        },
+        {
+          "text": "has",
+          "start": 5.82,
+          "end": 5.98,
+          "highlight": false
+        },
+        {
+          "text": "stopped",
+          "start": 5.98,
+          "end": 6.46,
+          "highlight": false
+        },
+        {
+          "text": "dead",
+          "start": 6.46,
+          "end": 6.78,
+          "highlight": false
+        },
+        {
+          "text": "inside",
+          "start": 6.78,
+          "end": 7.18,
+          "highlight": false
+        },
+        {
+          "text": "a",
+          "start": 7.18,
+          "end": 7.34,
+          "highlight": false
+        },
+        {
+          "text": "block",
+          "start": 7.34,
+          "end": 7.66,
+          "highlight": false
+        },
+        {
+          "text": "of",
+          "start": 7.66,
+          "end": 7.82,
+          "highlight": false
+        },
+        {
+          "text": "wood.",
+          "start": 7.82,
+          "end": 8.38,
+          "highlight": false
+        },
+        {
+          "text": "So",
+          "start": 8.38,
+          "end": 8.62,
+          "highlight": false
+        },
+        {
+          "text": "where",
+          "start": 8.62,
+          "end": 8.86,
+          "highlight": true
+        },
+        {
+          "text": "did",
+          "start": 8.86,
+          "end": 9.02,
+          "highlight": false
+        },
+        {
+          "text": "all",
+          "start": 9.02,
+          "end": 9.18,
+          "highlight": false
+        },
+        {
+          "text": "that",
+          "start": 9.18,
+          "end": 9.34,
+          "highlight": false
+        },
+        {
+          "text": "energy",
+          "start": 9.34,
+          "end": 9.82,
+          "highlight": false
+        },
+        {
+          "text": "go?",
+          "start": 9.82,
+          "end": 10.215,
+          "highlight": false
+        },
+        {
+          "text": "Pause",
+          "start": 10.465,
+          "end": 10.945,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 10.945,
+          "end": 11.105,
+          "highlight": false
+        },
+        {
+          "text": "video,",
+          "start": 11.105,
+          "end": 11.585,
+          "highlight": false
+        },
+        {
+          "text": "and",
+          "start": 11.585,
+          "end": 11.825,
+          "highlight": false
+        },
+        {
+          "text": "make",
+          "start": 11.825,
+          "end": 11.985,
+          "highlight": false
+        },
+        {
+          "text": "your",
+          "start": 11.985,
+          "end": 12.145,
+          "highlight": false
+        },
+        {
+          "text": "guess.",
+          "start": 12.145,
+          "end": 12.707,
+          "highlight": false
+        }
+      ],
+      "props": {
+        "speed": 400,
+        "question": [
+          "WHERE DID",
+          "THE ENERGY GO?"
+        ]
+      },
+      "pauses": [
+        {
+          "start": 385,
+          "end": 501
+        }
+      ]
+    },
+    {
+      "id": "transfers",
+      "type": "transfers",
+      "from": 507,
+      "durationInFrames": 974,
+      "cues": {
+        "chem": 129,
+        "ke": 223,
+        "air": 436,
+        "hit": 490,
+        "work": 634,
+        "thermal": 778,
+        "sound": 877,
+        "deform": 932
+      },
+      "words": [
+        {
+          "text": "Let's",
+          "start": 0.057,
+          "end": 0.457,
+          "highlight": false
+        },
+        {
+          "text": "follow",
+          "start": 0.457,
+          "end": 0.777,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 0.777,
+          "end": 0.937,
+          "highlight": false
+        },
+        {
+          "text": "energy.",
+          "start": 0.937,
+          "end": 1.817,
+          "highlight": false
+        },
+        {
+          "text": "When",
+          "start": 1.817,
+          "end": 2.057,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 2.057,
+          "end": 2.137,
+          "highlight": false
+        },
+        {
+          "text": "bullet",
+          "start": 2.137,
+          "end": 2.537,
+          "highlight": false
+        },
+        {
+          "text": "is",
+          "start": 2.537,
+          "end": 2.697,
+          "highlight": false
+        },
+        {
+          "text": "fired,",
+          "start": 2.697,
+          "end": 3.497,
+          "highlight": false
+        },
+        {
+          "text": "energy",
+          "start": 3.497,
+          "end": 4.057,
+          "highlight": false
+        },
+        {
+          "text": "in",
+          "start": 4.057,
+          "end": 4.217,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 4.217,
+          "end": 4.297,
+          "highlight": false
+        },
+        {
+          "text": "chemical",
+          "start": 4.297,
+          "end": 4.777,
+          "highlight": true
+        },
+        {
+          "text": "store",
+          "start": 4.777,
+          "end": 5.097,
+          "highlight": true
+        },
+        {
+          "text": "of",
+          "start": 5.097,
+          "end": 5.257,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 5.257,
+          "end": 5.337,
+          "highlight": false
+        },
+        {
+          "text": "gunpowder",
+          "start": 5.337,
+          "end": 6.137,
+          "highlight": false
+        },
+        {
+          "text": "is",
+          "start": 6.137,
+          "end": 6.377,
+          "highlight": false
+        },
+        {
+          "text": "transferred",
+          "start": 6.377,
+          "end": 7.177,
+          "highlight": false
+        },
+        {
+          "text": "to",
+          "start": 7.177,
+          "end": 7.337,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 7.337,
+          "end": 7.417,
+          "highlight": false
+        },
+        {
+          "text": "kinetic",
+          "start": 7.417,
+          "end": 7.977,
+          "highlight": true
+        },
+        {
+          "text": "energy",
+          "start": 7.977,
+          "end": 8.457,
+          "highlight": true
+        },
+        {
+          "text": "store",
+          "start": 8.457,
+          "end": 8.857,
+          "highlight": true
+        },
+        {
+          "text": "of",
+          "start": 8.857,
+          "end": 9.097,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 9.097,
+          "end": 9.257,
+          "highlight": false
+        },
+        {
+          "text": "bullet.",
+          "start": 9.257,
+          "end": 9.794,
+          "highlight": false
+        },
+        {
+          "text": "As",
+          "start": 10.044,
+          "end": 10.284,
+          "highlight": false
+        },
+        {
+          "text": "it",
+          "start": 10.284,
+          "end": 10.524,
+          "highlight": false
+        },
+        {
+          "text": "flies,",
+          "start": 10.524,
+          "end": 11.244,
+          "highlight": false
+        },
+        {
+          "text": "a",
+          "start": 11.244,
+          "end": 11.404,
+          "highlight": false
+        },
+        {
+          "text": "little",
+          "start": 11.404,
+          "end": 11.644,
+          "highlight": false
+        },
+        {
+          "text": "energy",
+          "start": 11.644,
+          "end": 12.204,
+          "highlight": false
+        },
+        {
+          "text": "is",
+          "start": 12.204,
+          "end": 12.364,
+          "highlight": false
+        },
+        {
+          "text": "transferred",
+          "start": 12.364,
+          "end": 13.004,
+          "highlight": false
+        },
+        {
+          "text": "to",
+          "start": 13.004,
+          "end": 13.164,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 13.164,
+          "end": 13.324,
+          "highlight": false
+        },
+        {
+          "text": "surroundings",
+          "start": 13.324,
+          "end": 14.204,
+          "highlight": false
+        },
+        {
+          "text": "by",
+          "start": 14.204,
+          "end": 14.524,
+          "highlight": false
+        },
+        {
+          "text": "air",
+          "start": 14.524,
+          "end": 14.924,
+          "highlight": true
+        },
+        {
+          "text": "resistance.",
+          "start": 14.924,
+          "end": 15.684,
+          "highlight": true
+        },
+        {
+          "text": "Then",
+          "start": 15.934,
+          "end": 16.174,
+          "highlight": false
+        },
+        {
+          "text": "it",
+          "start": 16.174,
+          "end": 16.334,
+          "highlight": false
+        },
+        {
+          "text": "hits",
+          "start": 16.334,
+          "end": 16.574,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 16.574,
+          "end": 16.734,
+          "highlight": false
+        },
+        {
+          "text": "wood.",
+          "start": 16.734,
+          "end": 17.374,
+          "highlight": false
+        },
+        {
+          "text": "The",
+          "start": 17.374,
+          "end": 17.534,
+          "highlight": false
+        },
+        {
+          "text": "wood",
+          "start": 17.534,
+          "end": 17.934,
+          "highlight": false
+        },
+        {
+          "text": "pushes",
+          "start": 17.934,
+          "end": 18.414,
+          "highlight": false
+        },
+        {
+          "text": "back",
+          "start": 18.414,
+          "end": 18.654,
+          "highlight": false
+        },
+        {
+          "text": "with",
+          "start": 18.654,
+          "end": 18.814,
+          "highlight": false
+        },
+        {
+          "text": "a",
+          "start": 18.814,
+          "end": 18.974,
+          "highlight": false
+        },
+        {
+          "text": "large",
+          "start": 18.974,
+          "end": 19.374,
+          "highlight": false
+        },
+        {
+          "text": "force,",
+          "start": 19.374,
+          "end": 20.094,
+          "highlight": false
+        },
+        {
+          "text": "and",
+          "start": 20.094,
+          "end": 20.254,
+          "highlight": false
+        },
+        {
+          "text": "that",
+          "start": 20.254,
+          "end": 20.494,
+          "highlight": false
+        },
+        {
+          "text": "force",
+          "start": 20.494,
+          "end": 20.894,
+          "highlight": false
+        },
+        {
+          "text": "does",
+          "start": 20.894,
+          "end": 21.134,
+          "highlight": false
+        },
+        {
+          "text": "work",
+          "start": 21.134,
+          "end": 21.454,
+          "highlight": true
+        },
+        {
+          "text": "on",
+          "start": 21.454,
+          "end": 21.614,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 21.614,
+          "end": 21.694,
+          "highlight": false
+        },
+        {
+          "text": "bullet,",
+          "start": 21.694,
+          "end": 22.414,
+          "highlight": false
+        },
+        {
+          "text": "emptying",
+          "start": 22.414,
+          "end": 22.894,
+          "highlight": false
+        },
+        {
+          "text": "its",
+          "start": 22.894,
+          "end": 23.054,
+          "highlight": false
+        },
+        {
+          "text": "kinetic",
+          "start": 23.054,
+          "end": 23.614,
+          "highlight": true
+        },
+        {
+          "text": "store.",
+          "start": 23.614,
+          "end": 24.099,
+          "highlight": true
+        },
+        {
+          "text": "That",
+          "start": 24.349,
+          "end": 24.669,
+          "highlight": false
+        },
+        {
+          "text": "energy",
+          "start": 24.669,
+          "end": 25.149,
+          "highlight": false
+        },
+        {
+          "text": "ends",
+          "start": 25.149,
+          "end": 25.469,
+          "highlight": false
+        },
+        {
+          "text": "up",
+          "start": 25.469,
+          "end": 25.629,
+          "highlight": false
+        },
+        {
+          "text": "in",
+          "start": 25.629,
+          "end": 25.869,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 25.869,
+          "end": 25.949,
+          "highlight": false
+        },
+        {
+          "text": "thermal",
+          "start": 25.949,
+          "end": 26.429,
+          "highlight": true
+        },
+        {
+          "text": "energy",
+          "start": 26.429,
+          "end": 26.909,
+          "highlight": true
+        },
+        {
+          "text": "store",
+          "start": 26.909,
+          "end": 27.229,
+          "highlight": true
+        },
+        {
+          "text": "of",
+          "start": 27.229,
+          "end": 27.389,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 27.389,
+          "end": 27.469,
+          "highlight": false
+        },
+        {
+          "text": "bullet",
+          "start": 27.469,
+          "end": 27.949,
+          "highlight": false
+        },
+        {
+          "text": "and",
+          "start": 27.949,
+          "end": 28.109,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 28.109,
+          "end": 28.269,
+          "highlight": false
+        },
+        {
+          "text": "wood,",
+          "start": 28.269,
+          "end": 28.829,
+          "highlight": false
+        },
+        {
+          "text": "as",
+          "start": 28.829,
+          "end": 29.229,
+          "highlight": false
+        },
+        {
+          "text": "sound,",
+          "start": 29.229,
+          "end": 29.949,
+          "highlight": true
+        },
+        {
+          "text": "and",
+          "start": 29.949,
+          "end": 30.109,
+          "highlight": false
+        },
+        {
+          "text": "in",
+          "start": 30.109,
+          "end": 30.269,
+          "highlight": false
+        },
+        {
+          "text": "splitting",
+          "start": 30.269,
+          "end": 30.909,
+          "highlight": false
+        },
+        {
+          "text": "and",
+          "start": 30.909,
+          "end": 31.069,
+          "highlight": false
+        },
+        {
+          "text": "deforming",
+          "start": 31.069,
+          "end": 31.709,
+          "highlight": true
+        },
+        {
+          "text": "the",
+          "start": 31.709,
+          "end": 31.869,
+          "highlight": false
+        },
+        {
+          "text": "wood.",
+          "start": 31.869,
+          "end": 32.284,
+          "highlight": false
+        }
+      ],
+      "props": {
+        "kicker": "Follow the energy"
+      }
+    },
+    {
+      "id": "conservation",
+      "type": "conservation",
+      "from": 1481,
+      "durationInFrames": 347,
+      "cues": {
+        "destroyed": 28,
+        "conserved": 93,
+        "dissipated": 192,
+        "useless": 302
+      },
+      "words": [
+        {
+          "text": "None",
+          "start": 0.067,
+          "end": 0.387,
+          "highlight": false
+        },
+        {
+          "text": "of",
+          "start": 0.387,
+          "end": 0.547,
+          "highlight": false
+        },
+        {
+          "text": "it",
+          "start": 0.547,
+          "end": 0.707,
+          "highlight": false
+        },
+        {
+          "text": "is",
+          "start": 0.707,
+          "end": 0.947,
+          "highlight": false
+        },
+        {
+          "text": "destroyed.",
+          "start": 0.947,
+          "end": 1.847,
+          "highlight": true
+        },
+        {
+          "text": "That's",
+          "start": 1.987,
+          "end": 2.227,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 2.227,
+          "end": 2.387,
+          "highlight": false
+        },
+        {
+          "text": "principle",
+          "start": 2.387,
+          "end": 2.947,
+          "highlight": false
+        },
+        {
+          "text": "of",
+          "start": 2.947,
+          "end": 3.107,
+          "highlight": false
+        },
+        {
+          "text": "conservation",
+          "start": 3.107,
+          "end": 3.907,
+          "highlight": true
+        },
+        {
+          "text": "of",
+          "start": 3.907,
+          "end": 4.147,
+          "highlight": true
+        },
+        {
+          "text": "energy.",
+          "start": 4.147,
+          "end": 5.047,
+          "highlight": true
+        },
+        {
+          "text": "But",
+          "start": 5.107,
+          "end": 5.267,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 5.267,
+          "end": 5.427,
+          "highlight": false
+        },
+        {
+          "text": "energy",
+          "start": 5.427,
+          "end": 5.987,
+          "highlight": false
+        },
+        {
+          "text": "has",
+          "start": 5.987,
+          "end": 6.147,
+          "highlight": false
+        },
+        {
+          "text": "been",
+          "start": 6.147,
+          "end": 6.387,
+          "highlight": false
+        },
+        {
+          "text": "dissipated:",
+          "start": 6.387,
+          "end": 7.287,
+          "highlight": true
+        },
+        {
+          "text": "spread",
+          "start": 7.347,
+          "end": 7.827,
+          "highlight": false
+        },
+        {
+          "text": "out",
+          "start": 7.827,
+          "end": 7.987,
+          "highlight": false
+        },
+        {
+          "text": "into",
+          "start": 7.987,
+          "end": 8.227,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 8.227,
+          "end": 8.467,
+          "highlight": false
+        },
+        {
+          "text": "surroundings,",
+          "start": 8.467,
+          "end": 9.347,
+          "highlight": false
+        },
+        {
+          "text": "where",
+          "start": 9.347,
+          "end": 9.587,
+          "highlight": true
+        },
+        {
+          "text": "it",
+          "start": 9.587,
+          "end": 9.667,
+          "highlight": false
+        },
+        {
+          "text": "can't",
+          "start": 9.667,
+          "end": 10.067,
+          "highlight": false
+        },
+        {
+          "text": "easily",
+          "start": 10.067,
+          "end": 10.467,
+          "highlight": false
+        },
+        {
+          "text": "be",
+          "start": 10.467,
+          "end": 10.707,
+          "highlight": false
+        },
+        {
+          "text": "used",
+          "start": 10.707,
+          "end": 10.947,
+          "highlight": false
+        },
+        {
+          "text": "again.",
+          "start": 10.947,
+          "end": 11.381,
+          "highlight": false
+        }
+      ],
+      "props": {
+        "kicker": "Key idea"
+      }
+    },
+    {
+      "id": "sankey",
+      "type": "sankey",
+      "from": 1828,
+      "durationInFrames": 432,
+      "cues": {
+        "draw": 26,
+        "width": 110,
+        "efficiency": 232
+      },
+      "words": [
+        {
+          "text": "Here's",
+          "start": 0.065,
+          "end": 0.465,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 0.465,
+          "end": 0.545,
+          "highlight": false
+        },
+        {
+          "text": "whole",
+          "start": 0.545,
+          "end": 0.865,
+          "highlight": false
+        },
+        {
+          "text": "journey",
+          "start": 0.865,
+          "end": 1.345,
+          "highlight": false
+        },
+        {
+          "text": "as",
+          "start": 1.345,
+          "end": 1.585,
+          "highlight": false
+        },
+        {
+          "text": "an",
+          "start": 1.585,
+          "end": 1.745,
+          "highlight": false
+        },
+        {
+          "text": "energy",
+          "start": 1.745,
+          "end": 2.145,
+          "highlight": false
+        },
+        {
+          "text": "flow",
+          "start": 2.145,
+          "end": 2.545,
+          "highlight": false
+        },
+        {
+          "text": "diagram.",
+          "start": 2.545,
+          "end": 3.445,
+          "highlight": false
+        },
+        {
+          "text": "The",
+          "start": 3.505,
+          "end": 3.665,
+          "highlight": false
+        },
+        {
+          "text": "width",
+          "start": 3.665,
+          "end": 4.065,
+          "highlight": false
+        },
+        {
+          "text": "of",
+          "start": 4.065,
+          "end": 4.145,
+          "highlight": false
+        },
+        {
+          "text": "each",
+          "start": 4.145,
+          "end": 4.465,
+          "highlight": false
+        },
+        {
+          "text": "arrow",
+          "start": 4.465,
+          "end": 4.945,
+          "highlight": false
+        },
+        {
+          "text": "shows",
+          "start": 4.945,
+          "end": 5.265,
+          "highlight": false
+        },
+        {
+          "text": "how",
+          "start": 5.265,
+          "end": 5.505,
+          "highlight": false
+        },
+        {
+          "text": "much",
+          "start": 5.505,
+          "end": 5.745,
+          "highlight": false
+        },
+        {
+          "text": "energy",
+          "start": 5.745,
+          "end": 6.305,
+          "highlight": false
+        },
+        {
+          "text": "goes",
+          "start": 6.305,
+          "end": 6.625,
+          "highlight": false
+        },
+        {
+          "text": "that",
+          "start": 6.625,
+          "end": 6.945,
+          "highlight": false
+        },
+        {
+          "text": "way.",
+          "start": 6.945,
+          "end": 7.585,
+          "highlight": false
+        },
+        {
+          "text": "The",
+          "start": 7.585,
+          "end": 7.745,
+          "highlight": false
+        },
+        {
+          "text": "useful",
+          "start": 7.745,
+          "end": 8.225,
+          "highlight": false
+        },
+        {
+          "text": "share",
+          "start": 8.225,
+          "end": 8.625,
+          "highlight": false
+        },
+        {
+          "text": "that",
+          "start": 8.625,
+          "end": 8.785,
+          "highlight": false
+        },
+        {
+          "text": "reaches",
+          "start": 8.785,
+          "end": 9.185,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 9.185,
+          "end": 9.345,
+          "highlight": false
+        },
+        {
+          "text": "bullet's",
+          "start": 9.345,
+          "end": 9.905,
+          "highlight": false
+        },
+        {
+          "text": "kinetic",
+          "start": 9.905,
+          "end": 10.465,
+          "highlight": true
+        },
+        {
+          "text": "store,",
+          "start": 10.465,
+          "end": 11.105,
+          "highlight": true
+        },
+        {
+          "text": "divided",
+          "start": 11.105,
+          "end": 11.585,
+          "highlight": false
+        },
+        {
+          "text": "by",
+          "start": 11.585,
+          "end": 11.745,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 11.745,
+          "end": 11.905,
+          "highlight": false
+        },
+        {
+          "text": "total",
+          "start": 11.905,
+          "end": 12.225,
+          "highlight": false
+        },
+        {
+          "text": "input,",
+          "start": 12.225,
+          "end": 13.025,
+          "highlight": false
+        },
+        {
+          "text": "is",
+          "start": 13.025,
+          "end": 13.185,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 13.185,
+          "end": 13.345,
+          "highlight": false
+        },
+        {
+          "text": "efficiency.",
+          "start": 13.345,
+          "end": 14.218,
+          "highlight": true
+        }
+      ],
+      "props": {
+        "kicker": "Energy flow (Sankey) diagram",
+        "footnote": "Arrow widths are illustrative, not measured"
+      }
+    },
+    {
+      "id": "example1",
+      "type": "equation",
+      "from": 2260,
+      "durationInFrames": 1154,
+      "cues": {
+        "lines.0": 626,
+        "lines.1": 901,
+        "lines.2": 1047,
+        "given.0": 293,
+        "note": 1117,
+        "convertNote": 521
+      },
+      "words": [
+        {
+          "text": "Now",
+          "start": 0.068,
+          "end": 0.468,
+          "highlight": false
+        },
+        {
+          "text": "let's",
+          "start": 0.468,
+          "end": 0.708,
+          "highlight": false
+        },
+        {
+          "text": "put",
+          "start": 0.708,
+          "end": 0.948,
+          "highlight": false
+        },
+        {
+          "text": "numbers",
+          "start": 0.948,
+          "end": 1.348,
+          "highlight": false
+        },
+        {
+          "text": "on",
+          "start": 1.348,
+          "end": 1.588,
+          "highlight": false
+        },
+        {
+          "text": "it.",
+          "start": 1.588,
+          "end": 2.148,
+          "highlight": false
+        },
+        {
+          "text": "Example",
+          "start": 2.148,
+          "end": 3.028,
+          "highlight": false
+        },
+        {
+          "text": "one:",
+          "start": 3.028,
+          "end": 3.428,
+          "highlight": false
+        },
+        {
+          "text": "find",
+          "start": 3.428,
+          "end": 3.668,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 3.668,
+          "end": 3.828,
+          "highlight": false
+        },
+        {
+          "text": "kinetic",
+          "start": 3.828,
+          "end": 4.388,
+          "highlight": false
+        },
+        {
+          "text": "energy",
+          "start": 4.388,
+          "end": 4.868,
+          "highlight": false
+        },
+        {
+          "text": "of",
+          "start": 4.868,
+          "end": 5.108,
+          "highlight": false
+        },
+        {
+          "text": "a",
+          "start": 5.108,
+          "end": 5.348,
+          "highlight": false
+        },
+        {
+          "text": "ten",
+          "start": 5.348,
+          "end": 5.588,
+          "highlight": false
+        },
+        {
+          "text": "gram",
+          "start": 5.588,
+          "end": 5.988,
+          "highlight": false
+        },
+        {
+          "text": "bullet",
+          "start": 5.988,
+          "end": 6.468,
+          "highlight": false
+        },
+        {
+          "text": "moving",
+          "start": 6.468,
+          "end": 6.868,
+          "highlight": false
+        },
+        {
+          "text": "at",
+          "start": 6.868,
+          "end": 7.268,
+          "highlight": false
+        },
+        {
+          "text": "four",
+          "start": 7.268,
+          "end": 7.748,
+          "highlight": true
+        },
+        {
+          "text": "hundred",
+          "start": 7.268,
+          "end": 7.748,
+          "highlight": true
+        },
+        {
+          "text": "metres",
+          "start": 7.748,
+          "end": 8.228,
+          "highlight": true
+        },
+        {
+          "text": "per",
+          "start": 8.228,
+          "end": 8.468,
+          "highlight": true
+        },
+        {
+          "text": "second.",
+          "start": 8.468,
+          "end": 8.958,
+          "highlight": true
+        },
+        {
+          "text": "First,",
+          "start": 9.208,
+          "end": 9.768,
+          "highlight": false
+        },
+        {
+          "text": "convert",
+          "start": 9.768,
+          "end": 10.168,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 10.168,
+          "end": 10.248,
+          "highlight": false
+        },
+        {
+          "text": "mass",
+          "start": 10.248,
+          "end": 10.568,
+          "highlight": false
+        },
+        {
+          "text": "into",
+          "start": 10.568,
+          "end": 10.808,
+          "highlight": false
+        },
+        {
+          "text": "kilograms.",
+          "start": 10.808,
+          "end": 11.708,
+          "highlight": true
+        },
+        {
+          "text": "Ten",
+          "start": 12.088,
+          "end": 12.248,
+          "highlight": false
+        },
+        {
+          "text": "grams",
+          "start": 12.248,
+          "end": 12.808,
+          "highlight": false
+        },
+        {
+          "text": "is",
+          "start": 12.808,
+          "end": 13.368,
+          "highlight": false
+        },
+        {
+          "text": "zero",
+          "start": 13.368,
+          "end": 14.268,
+          "highlight": true
+        },
+        {
+          "text": "point",
+          "start": 13.368,
+          "end": 14.268,
+          "highlight": true
+        },
+        {
+          "text": "zero",
+          "start": 13.368,
+          "end": 14.268,
+          "highlight": true
+        },
+        {
+          "text": "one",
+          "start": 13.368,
+          "end": 14.268,
+          "highlight": true
+        },
+        {
+          "text": "kilograms.",
+          "start": 14.648,
+          "end": 15.548,
+          "highlight": true
+        },
+        {
+          "text": "This",
+          "start": 15.928,
+          "end": 16.088,
+          "highlight": false
+        },
+        {
+          "text": "is",
+          "start": 16.088,
+          "end": 16.328,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 16.328,
+          "end": 16.488,
+          "highlight": false
+        },
+        {
+          "text": "step",
+          "start": 16.488,
+          "end": 16.888,
+          "highlight": false
+        },
+        {
+          "text": "students",
+          "start": 16.888,
+          "end": 17.368,
+          "highlight": false
+        },
+        {
+          "text": "forget",
+          "start": 17.368,
+          "end": 17.848,
+          "highlight": false
+        },
+        {
+          "text": "most",
+          "start": 17.848,
+          "end": 18.088,
+          "highlight": false
+        },
+        {
+          "text": "often.",
+          "start": 18.088,
+          "end": 18.684,
+          "highlight": false
+        },
+        {
+          "text": "Kinetic",
+          "start": 18.934,
+          "end": 19.494,
+          "highlight": false
+        },
+        {
+          "text": "energy",
+          "start": 19.494,
+          "end": 20.134,
+          "highlight": false
+        },
+        {
+          "text": "equals",
+          "start": 20.134,
+          "end": 20.534,
+          "highlight": false
+        },
+        {
+          "text": "one",
+          "start": 20.534,
+          "end": 20.854,
+          "highlight": false
+        },
+        {
+          "text": "half",
+          "start": 20.854,
+          "end": 21.334,
+          "highlight": false
+        },
+        {
+          "text": "m",
+          "start": 21.334,
+          "end": 21.894,
+          "highlight": false
+        },
+        {
+          "text": "v",
+          "start": 21.334,
+          "end": 21.894,
+          "highlight": false
+        },
+        {
+          "text": "squared.",
+          "start": 21.894,
+          "end": 22.694,
+          "highlight": false
+        },
+        {
+          "text": "Pause",
+          "start": 22.694,
+          "end": 23.094,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 23.094,
+          "end": 23.254,
+          "highlight": false
+        },
+        {
+          "text": "video",
+          "start": 23.254,
+          "end": 23.574,
+          "highlight": false
+        },
+        {
+          "text": "and",
+          "start": 23.574,
+          "end": 23.814,
+          "highlight": false
+        },
+        {
+          "text": "try",
+          "start": 23.814,
+          "end": 24.054,
+          "highlight": false
+        },
+        {
+          "text": "it.",
+          "start": 24.054,
+          "end": 24.368,
+          "highlight": false
+        },
+        {
+          "text": "One",
+          "start": 29.778,
+          "end": 30.018,
+          "highlight": false
+        },
+        {
+          "text": "half,",
+          "start": 30.018,
+          "end": 30.418,
+          "highlight": false
+        },
+        {
+          "text": "times",
+          "start": 30.418,
+          "end": 30.978,
+          "highlight": false
+        },
+        {
+          "text": "zero",
+          "start": 30.978,
+          "end": 31.878,
+          "highlight": false
+        },
+        {
+          "text": "point",
+          "start": 30.978,
+          "end": 31.878,
+          "highlight": false
+        },
+        {
+          "text": "zero",
+          "start": 30.978,
+          "end": 31.878,
+          "highlight": false
+        },
+        {
+          "text": "one,",
+          "start": 30.978,
+          "end": 31.878,
+          "highlight": false
+        },
+        {
+          "text": "times",
+          "start": 32.498,
+          "end": 33.138,
+          "highlight": false
+        },
+        {
+          "text": "four",
+          "start": 33.138,
+          "end": 33.698,
+          "highlight": false
+        },
+        {
+          "text": "hundred",
+          "start": 33.138,
+          "end": 33.698,
+          "highlight": false
+        },
+        {
+          "text": "squared,",
+          "start": 33.698,
+          "end": 34.418,
+          "highlight": false
+        },
+        {
+          "text": "gives",
+          "start": 34.418,
+          "end": 34.898,
+          "highlight": false
+        },
+        {
+          "text": "eight",
+          "start": 34.898,
+          "end": 35.458,
+          "highlight": true
+        },
+        {
+          "text": "hundred",
+          "start": 34.898,
+          "end": 35.458,
+          "highlight": true
+        },
+        {
+          "text": "joules.",
+          "start": 35.458,
+          "end": 36.338,
+          "highlight": true
+        },
+        {
+          "text": "And",
+          "start": 36.338,
+          "end": 36.498,
+          "highlight": false
+        },
+        {
+          "text": "don't",
+          "start": 36.498,
+          "end": 36.818,
+          "highlight": false
+        },
+        {
+          "text": "forget",
+          "start": 36.818,
+          "end": 37.058,
+          "highlight": false
+        },
+        {
+          "text": "to",
+          "start": 37.058,
+          "end": 37.218,
+          "highlight": false
+        },
+        {
+          "text": "square",
+          "start": 37.218,
+          "end": 37.618,
+          "highlight": true
+        },
+        {
+          "text": "the",
+          "start": 37.618,
+          "end": 37.778,
+          "highlight": true
+        },
+        {
+          "text": "speed.",
+          "start": 37.778,
+          "end": 38.282,
+          "highlight": true
+        }
+      ],
+      "props": {
+        "kicker": "Worked example 1",
+        "question": "Find the kinetic energy of a 10 g bullet moving at 400 m/s.",
+        "given": [
+          {
+            "sym": "m",
+            "value": "10 g",
+            "convert": "0.010 kg",
+            "cue": "convert"
+          },
+          {
+            "sym": "v",
+            "value": "400 m/s"
+          }
+        ],
+        "lines": [
+          {
+            "text": "E_k = ½ m v^2",
+            "cue": "half"
+          },
+          {
+            "text": "= ½ × 0.010 kg × (400 m/s)^2",
+            "cue": "half#2"
+          },
+          {
+            "text": "= 800 J",
+            "cue": "eight",
+            "result": true
+          }
+        ],
+        "note": {
+          "text": "Square the speed: 400^2 = 160 000",
+          "cue": "square the"
+        },
+        "convertNote": {
+          "text": "g → kg: divide by 1000",
+          "cue": "forget"
+        }
+      },
+      "pauses": [
+        {
+          "start": 735,
+          "end": 881
+        }
+      ]
+    },
+    {
+      "id": "example2",
+      "type": "equation",
+      "from": 3414,
+      "durationInFrames": 969,
+      "cues": {
+        "lines.0": 375,
+        "lines.1": 761,
+        "lines.2": 927,
+        "given.0": 291,
+        "given.1": 443
+      },
+      "words": [
+        {
+          "text": "Example",
+          "start": 0.065,
+          "end": 0.865,
+          "highlight": false
+        },
+        {
+          "text": "two.",
+          "start": 0.865,
+          "end": 1.345,
+          "highlight": false
+        },
+        {
+          "text": "The",
+          "start": 1.345,
+          "end": 1.505,
+          "highlight": false
+        },
+        {
+          "text": "bullet",
+          "start": 1.505,
+          "end": 1.985,
+          "highlight": false
+        },
+        {
+          "text": "stops",
+          "start": 1.985,
+          "end": 2.385,
+          "highlight": false
+        },
+        {
+          "text": "after",
+          "start": 2.385,
+          "end": 2.625,
+          "highlight": false
+        },
+        {
+          "text": "travelling",
+          "start": 2.625,
+          "end": 3.265,
+          "highlight": false
+        },
+        {
+          "text": "eight",
+          "start": 3.265,
+          "end": 3.425,
+          "highlight": false
+        },
+        {
+          "text": "centimetres",
+          "start": 3.425,
+          "end": 4.225,
+          "highlight": false
+        },
+        {
+          "text": "into",
+          "start": 4.225,
+          "end": 4.385,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 4.385,
+          "end": 4.545,
+          "highlight": false
+        },
+        {
+          "text": "wood.",
+          "start": 4.545,
+          "end": 5.265,
+          "highlight": false
+        },
+        {
+          "text": "What",
+          "start": 5.265,
+          "end": 5.505,
+          "highlight": false
+        },
+        {
+          "text": "average",
+          "start": 5.505,
+          "end": 5.985,
+          "highlight": false
+        },
+        {
+          "text": "force",
+          "start": 5.985,
+          "end": 6.385,
+          "highlight": false
+        },
+        {
+          "text": "does",
+          "start": 6.385,
+          "end": 6.625,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 6.625,
+          "end": 6.785,
+          "highlight": false
+        },
+        {
+          "text": "wood",
+          "start": 6.785,
+          "end": 7.105,
+          "highlight": false
+        },
+        {
+          "text": "exert",
+          "start": 7.105,
+          "end": 7.505,
+          "highlight": false
+        },
+        {
+          "text": "on",
+          "start": 7.505,
+          "end": 7.665,
+          "highlight": false
+        },
+        {
+          "text": "it?",
+          "start": 7.665,
+          "end": 7.941,
+          "highlight": false
+        },
+        {
+          "text": "All",
+          "start": 8.191,
+          "end": 8.591,
+          "highlight": false
+        },
+        {
+          "text": "eight",
+          "start": 8.591,
+          "end": 9.071,
+          "highlight": true
+        },
+        {
+          "text": "hundred",
+          "start": 8.591,
+          "end": 9.071,
+          "highlight": true
+        },
+        {
+          "text": "joules",
+          "start": 9.071,
+          "end": 9.551,
+          "highlight": true
+        },
+        {
+          "text": "is",
+          "start": 9.551,
+          "end": 9.711,
+          "highlight": false
+        },
+        {
+          "text": "removed",
+          "start": 9.711,
+          "end": 10.111,
+          "highlight": false
+        },
+        {
+          "text": "by",
+          "start": 10.111,
+          "end": 10.351,
+          "highlight": false
+        },
+        {
+          "text": "work",
+          "start": 10.351,
+          "end": 10.671,
+          "highlight": true
+        },
+        {
+          "text": "done,",
+          "start": 10.671,
+          "end": 11.231,
+          "highlight": false
+        },
+        {
+          "text": "and",
+          "start": 11.231,
+          "end": 11.391,
+          "highlight": false
+        },
+        {
+          "text": "work",
+          "start": 11.391,
+          "end": 11.791,
+          "highlight": true
+        },
+        {
+          "text": "done",
+          "start": 11.791,
+          "end": 12.111,
+          "highlight": false
+        },
+        {
+          "text": "equals",
+          "start": 12.111,
+          "end": 12.511,
+          "highlight": false
+        },
+        {
+          "text": "force",
+          "start": 12.511,
+          "end": 12.991,
+          "highlight": false
+        },
+        {
+          "text": "times",
+          "start": 12.991,
+          "end": 13.391,
+          "highlight": false
+        },
+        {
+          "text": "distance.",
+          "start": 13.391,
+          "end": 14.291,
+          "highlight": false
+        },
+        {
+          "text": "Eight",
+          "start": 14.591,
+          "end": 14.751,
+          "highlight": false
+        },
+        {
+          "text": "centimetres",
+          "start": 14.751,
+          "end": 15.631,
+          "highlight": false
+        },
+        {
+          "text": "is",
+          "start": 15.631,
+          "end": 16.111,
+          "highlight": false
+        },
+        {
+          "text": "zero",
+          "start": 16.111,
+          "end": 17.011,
+          "highlight": true
+        },
+        {
+          "text": "point",
+          "start": 16.111,
+          "end": 17.011,
+          "highlight": true
+        },
+        {
+          "text": "zero",
+          "start": 16.111,
+          "end": 17.011,
+          "highlight": true
+        },
+        {
+          "text": "eight",
+          "start": 16.111,
+          "end": 17.011,
+          "highlight": true
+        },
+        {
+          "text": "metres.",
+          "start": 17.471,
+          "end": 18.271,
+          "highlight": true
+        },
+        {
+          "text": "Pause",
+          "start": 18.271,
+          "end": 18.751,
+          "highlight": false
+        },
+        {
+          "text": "and",
+          "start": 18.751,
+          "end": 18.991,
+          "highlight": false
+        },
+        {
+          "text": "try",
+          "start": 18.991,
+          "end": 19.231,
+          "highlight": false
+        },
+        {
+          "text": "it.",
+          "start": 19.231,
+          "end": 19.555,
+          "highlight": false
+        },
+        {
+          "text": "Force",
+          "start": 24.805,
+          "end": 25.365,
+          "highlight": false
+        },
+        {
+          "text": "equals",
+          "start": 25.365,
+          "end": 25.925,
+          "highlight": false
+        },
+        {
+          "text": "eight",
+          "start": 25.925,
+          "end": 26.405,
+          "highlight": true
+        },
+        {
+          "text": "hundred",
+          "start": 25.925,
+          "end": 26.405,
+          "highlight": true
+        },
+        {
+          "text": "joules,",
+          "start": 26.405,
+          "end": 27.285,
+          "highlight": true
+        },
+        {
+          "text": "divided",
+          "start": 27.285,
+          "end": 27.765,
+          "highlight": false
+        },
+        {
+          "text": "by",
+          "start": 27.765,
+          "end": 28.245,
+          "highlight": false
+        },
+        {
+          "text": "zero",
+          "start": 28.245,
+          "end": 29.145,
+          "highlight": true
+        },
+        {
+          "text": "point",
+          "start": 28.245,
+          "end": 29.145,
+          "highlight": true
+        },
+        {
+          "text": "zero",
+          "start": 28.245,
+          "end": 29.145,
+          "highlight": true
+        },
+        {
+          "text": "eight",
+          "start": 28.245,
+          "end": 29.145,
+          "highlight": true
+        },
+        {
+          "text": "metres.",
+          "start": 29.525,
+          "end": 30.425,
+          "highlight": true
+        },
+        {
+          "text": "That's",
+          "start": 30.485,
+          "end": 30.885,
+          "highlight": false
+        },
+        {
+          "text": "ten",
+          "start": 30.885,
+          "end": 31.445,
+          "highlight": true
+        },
+        {
+          "text": "thousand",
+          "start": 30.885,
+          "end": 31.445,
+          "highlight": true
+        },
+        {
+          "text": "newtons.",
+          "start": 31.445,
+          "end": 32.134,
+          "highlight": true
+        }
+      ],
+      "props": {
+        "kicker": "Worked example 2",
+        "question": "The bullet stops in 8 cm of wood. Find the average force the wood exerts.",
+        "diagram": "stopping",
+        "given": [
+          {
+            "sym": "W",
+            "value": "800 J",
+            "cue": "removed"
+          },
+          {
+            "sym": "d",
+            "value": "8 cm",
+            "convert": "0.08 m",
+            "cue": "centimetres#2"
+          }
+        ],
+        "lines": [
+          {
+            "text": "W = F d",
+            "cue": "force times"
+          },
+          {
+            "text": "F = W ÷ d = 800 J ÷ 0.08 m",
+            "cue": "equals#2"
+          },
+          {
+            "text": "F = 10 000 N",
+            "cue": "ten",
+            "result": true
+          }
+        ]
+      },
+      "pauses": [
+        {
+          "start": 591,
+          "end": 737
+        }
+      ]
+    },
+    {
+      "id": "collision",
+      "type": "collision",
+      "from": 4383,
+      "durationInFrames": 305,
+      "cues": {
+        "block": 125,
+        "smooth": 161,
+        "embed": 207,
+        "slide": 267
+      },
+      "words": [
+        {
+          "text": "Now",
+          "start": 0.084,
+          "end": 0.484,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 0.484,
+          "end": 0.644,
+          "highlight": false
+        },
+        {
+          "text": "extended",
+          "start": 0.644,
+          "end": 1.364,
+          "highlight": false
+        },
+        {
+          "text": "part.",
+          "start": 1.364,
+          "end": 2.004,
+          "highlight": false
+        },
+        {
+          "text": "The",
+          "start": 2.004,
+          "end": 2.164,
+          "highlight": false
+        },
+        {
+          "text": "same",
+          "start": 2.164,
+          "end": 2.404,
+          "highlight": false
+        },
+        {
+          "text": "bullet",
+          "start": 2.404,
+          "end": 2.804,
+          "highlight": false
+        },
+        {
+          "text": "hits",
+          "start": 2.804,
+          "end": 3.124,
+          "highlight": false
+        },
+        {
+          "text": "a",
+          "start": 3.124,
+          "end": 3.364,
+          "highlight": false
+        },
+        {
+          "text": "two",
+          "start": 3.364,
+          "end": 4.164,
+          "highlight": false
+        },
+        {
+          "text": "kilogram",
+          "start": 4.164,
+          "end": 4.214,
+          "highlight": false
+        },
+        {
+          "text": "block",
+          "start": 4.164,
+          "end": 4.644,
+          "highlight": false
+        },
+        {
+          "text": "resting",
+          "start": 4.644,
+          "end": 5.044,
+          "highlight": false
+        },
+        {
+          "text": "on",
+          "start": 5.044,
+          "end": 5.204,
+          "highlight": false
+        },
+        {
+          "text": "a",
+          "start": 5.204,
+          "end": 5.364,
+          "highlight": false
+        },
+        {
+          "text": "smooth",
+          "start": 5.364,
+          "end": 5.844,
+          "highlight": false
+        },
+        {
+          "text": "surface.",
+          "start": 5.844,
+          "end": 6.724,
+          "highlight": false
+        },
+        {
+          "text": "It",
+          "start": 6.724,
+          "end": 6.884,
+          "highlight": false
+        },
+        {
+          "text": "embeds,",
+          "start": 6.884,
+          "end": 7.684,
+          "highlight": false
+        },
+        {
+          "text": "and",
+          "start": 7.684,
+          "end": 7.844,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 7.844,
+          "end": 7.924,
+          "highlight": false
+        },
+        {
+          "text": "bullet",
+          "start": 7.924,
+          "end": 8.324,
+          "highlight": false
+        },
+        {
+          "text": "and",
+          "start": 8.324,
+          "end": 8.484,
+          "highlight": false
+        },
+        {
+          "text": "block",
+          "start": 8.484,
+          "end": 8.884,
+          "highlight": false
+        },
+        {
+          "text": "slide",
+          "start": 8.884,
+          "end": 9.284,
+          "highlight": false
+        },
+        {
+          "text": "off",
+          "start": 9.284,
+          "end": 9.524,
+          "highlight": false
+        },
+        {
+          "text": "together.",
+          "start": 9.524,
+          "end": 9.982,
+          "highlight": false
+        }
+      ],
+      "props": {
+        "kicker": "Extended: inelastic collision"
+      }
+    },
+    {
+      "id": "momentum",
+      "type": "equation",
+      "from": 4688,
+      "durationInFrames": 715,
+      "cues": {
+        "lines.0": 2,
+        "lines.1": 72,
+        "lines.2": 516,
+        "lines.3": 612
+      },
+      "words": [
+        {
+          "text": "Momentum",
+          "start": 0.064,
+          "end": 0.784,
+          "highlight": true
+        },
+        {
+          "text": "is",
+          "start": 0.784,
+          "end": 1.024,
+          "highlight": true
+        },
+        {
+          "text": "conserved.",
+          "start": 1.024,
+          "end": 1.904,
+          "highlight": true
+        },
+        {
+          "text": "So",
+          "start": 1.904,
+          "end": 2.384,
+          "highlight": false
+        },
+        {
+          "text": "zero",
+          "start": 2.384,
+          "end": 3.284,
+          "highlight": false
+        },
+        {
+          "text": "point",
+          "start": 2.384,
+          "end": 3.284,
+          "highlight": false
+        },
+        {
+          "text": "zero",
+          "start": 2.384,
+          "end": 3.284,
+          "highlight": false
+        },
+        {
+          "text": "one",
+          "start": 2.384,
+          "end": 3.284,
+          "highlight": false
+        },
+        {
+          "text": "times",
+          "start": 3.504,
+          "end": 4.064,
+          "highlight": false
+        },
+        {
+          "text": "four",
+          "start": 4.064,
+          "end": 4.704,
+          "highlight": false
+        },
+        {
+          "text": "hundred",
+          "start": 4.064,
+          "end": 4.704,
+          "highlight": false
+        },
+        {
+          "text": "equals",
+          "start": 4.704,
+          "end": 5.424,
+          "highlight": false
+        },
+        {
+          "text": "two",
+          "start": 5.424,
+          "end": 6.324,
+          "highlight": false
+        },
+        {
+          "text": "point",
+          "start": 5.424,
+          "end": 6.324,
+          "highlight": false
+        },
+        {
+          "text": "zero",
+          "start": 5.424,
+          "end": 6.324,
+          "highlight": false
+        },
+        {
+          "text": "one",
+          "start": 5.424,
+          "end": 6.324,
+          "highlight": false
+        },
+        {
+          "text": "times",
+          "start": 6.624,
+          "end": 7.104,
+          "highlight": false
+        },
+        {
+          "text": "v.",
+          "start": 7.104,
+          "end": 7.824,
+          "highlight": false
+        },
+        {
+          "text": "Pause,",
+          "start": 7.824,
+          "end": 8.544,
+          "highlight": false
+        },
+        {
+          "text": "and",
+          "start": 8.544,
+          "end": 8.784,
+          "highlight": false
+        },
+        {
+          "text": "find",
+          "start": 8.784,
+          "end": 9.104,
+          "highlight": false
+        },
+        {
+          "text": "v.",
+          "start": 9.104,
+          "end": 9.549,
+          "highlight": false
+        },
+        {
+          "text": "Four",
+          "start": 15.039,
+          "end": 15.199,
+          "highlight": false
+        },
+        {
+          "text": "kilogram",
+          "start": 15.199,
+          "end": 15.759,
+          "highlight": false
+        },
+        {
+          "text": "metres",
+          "start": 15.759,
+          "end": 16.239,
+          "highlight": false
+        },
+        {
+          "text": "per",
+          "start": 16.239,
+          "end": 16.479,
+          "highlight": false
+        },
+        {
+          "text": "second,",
+          "start": 16.479,
+          "end": 17.199,
+          "highlight": false
+        },
+        {
+          "text": "divided",
+          "start": 17.199,
+          "end": 17.759,
+          "highlight": false
+        },
+        {
+          "text": "by",
+          "start": 17.759,
+          "end": 18.159,
+          "highlight": false
+        },
+        {
+          "text": "two",
+          "start": 18.159,
+          "end": 19.059,
+          "highlight": false
+        },
+        {
+          "text": "point",
+          "start": 18.159,
+          "end": 19.059,
+          "highlight": false
+        },
+        {
+          "text": "zero",
+          "start": 18.159,
+          "end": 19.059,
+          "highlight": false
+        },
+        {
+          "text": "one",
+          "start": 18.159,
+          "end": 19.059,
+          "highlight": false
+        },
+        {
+          "text": "kilograms,",
+          "start": 19.439,
+          "end": 20.339,
+          "highlight": true
+        },
+        {
+          "text": "gives",
+          "start": 20.399,
+          "end": 20.879,
+          "highlight": false
+        },
+        {
+          "text": "about",
+          "start": 20.879,
+          "end": 21.359,
+          "highlight": false
+        },
+        {
+          "text": "one",
+          "start": 21.359,
+          "end": 22.259,
+          "highlight": true
+        },
+        {
+          "text": "point",
+          "start": 21.359,
+          "end": 22.259,
+          "highlight": true
+        },
+        {
+          "text": "nine",
+          "start": 21.359,
+          "end": 22.259,
+          "highlight": true
+        },
+        {
+          "text": "nine",
+          "start": 21.359,
+          "end": 22.259,
+          "highlight": true
+        },
+        {
+          "text": "metres",
+          "start": 22.479,
+          "end": 22.959,
+          "highlight": true
+        },
+        {
+          "text": "per",
+          "start": 22.959,
+          "end": 23.199,
+          "highlight": true
+        },
+        {
+          "text": "second.",
+          "start": 23.199,
+          "end": 23.638,
+          "highlight": true
+        }
+      ],
+      "props": {
+        "kicker": "Conservation of momentum",
+        "question": "Find the speed of the block (with the bullet) just after impact.",
+        "diagram": "collision-mini",
+        "given": [
+          {
+            "sym": "m_1",
+            "value": "0.010 kg"
+          },
+          {
+            "sym": "u_1",
+            "value": "400 m/s"
+          },
+          {
+            "sym": "m_1 + m_2",
+            "value": "2.010 kg"
+          }
+        ],
+        "lines": [
+          {
+            "text": "m_1 u_1 = (m_1 + m_2) v",
+            "cue": "momentum"
+          },
+          {
+            "text": "0.010 × 400 = 2.010 × v",
+            "cue": "zero"
+          },
+          {
+            "text": "v = 4.0 kg m/s ÷ 2.010 kg",
+            "cue": "divided"
+          },
+          {
+            "text": "v ≈ 1.99 m/s",
+            "cue": "gives",
+            "result": true
+          }
+        ]
+      },
+      "pauses": [
+        {
+          "start": 290,
+          "end": 436
+        }
+      ]
+    },
+    {
+      "id": "ke-compare",
+      "type": "ke-compare",
+      "from": 5403,
+      "durationInFrames": 702,
+      "cues": {
+        "before": 344,
+        "after": 384,
+        "lost": 440,
+        "stamp": 656,
+        "lines.0": 81,
+        "lines.1": 254
+      },
+      "words": [
+        {
+          "text": "Now",
+          "start": 0.055,
+          "end": 0.375,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 0.375,
+          "end": 0.535,
+          "highlight": false
+        },
+        {
+          "text": "kinetic",
+          "start": 0.535,
+          "end": 1.015,
+          "highlight": false
+        },
+        {
+          "text": "energy",
+          "start": 1.015,
+          "end": 1.495,
+          "highlight": false
+        },
+        {
+          "text": "afterwards:",
+          "start": 1.495,
+          "end": 1.895,
+          "highlight": false
+        },
+        {
+          "text": "one",
+          "start": 1.895,
+          "end": 2.295,
+          "highlight": false
+        },
+        {
+          "text": "half,",
+          "start": 2.695,
+          "end": 3.335,
+          "highlight": false
+        },
+        {
+          "text": "times",
+          "start": 3.335,
+          "end": 3.815,
+          "highlight": false
+        },
+        {
+          "text": "two",
+          "start": 3.815,
+          "end": 4.715,
+          "highlight": false
+        },
+        {
+          "text": "point",
+          "start": 3.815,
+          "end": 4.715,
+          "highlight": false
+        },
+        {
+          "text": "zero",
+          "start": 3.815,
+          "end": 4.715,
+          "highlight": false
+        },
+        {
+          "text": "one,",
+          "start": 3.815,
+          "end": 4.715,
+          "highlight": false
+        },
+        {
+          "text": "times",
+          "start": 5.335,
+          "end": 5.895,
+          "highlight": false
+        },
+        {
+          "text": "one",
+          "start": 5.895,
+          "end": 6.795,
+          "highlight": false
+        },
+        {
+          "text": "point",
+          "start": 5.895,
+          "end": 6.795,
+          "highlight": false
+        },
+        {
+          "text": "nine",
+          "start": 5.895,
+          "end": 6.795,
+          "highlight": false
+        },
+        {
+          "text": "nine",
+          "start": 5.895,
+          "end": 6.795,
+          "highlight": false
+        },
+        {
+          "text": "squared.",
+          "start": 7.095,
+          "end": 7.975,
+          "highlight": false
+        },
+        {
+          "text": "That's",
+          "start": 7.975,
+          "end": 8.455,
+          "highlight": false
+        },
+        {
+          "text": "only",
+          "start": 8.455,
+          "end": 8.615,
+          "highlight": false
+        },
+        {
+          "text": "about",
+          "start": 8.615,
+          "end": 9.095,
+          "highlight": false
+        },
+        {
+          "text": "four",
+          "start": 9.095,
+          "end": 9.255,
+          "highlight": true
+        },
+        {
+          "text": "joules.",
+          "start": 9.255,
+          "end": 9.92,
+          "highlight": true
+        },
+        {
+          "text": "Eight",
+          "start": 10.41,
+          "end": 10.81,
+          "highlight": true
+        },
+        {
+          "text": "hundred",
+          "start": 10.41,
+          "end": 10.81,
+          "highlight": true
+        },
+        {
+          "text": "joules",
+          "start": 10.81,
+          "end": 11.45,
+          "highlight": true
+        },
+        {
+          "text": "before.",
+          "start": 11.45,
+          "end": 12.17,
+          "highlight": false
+        },
+        {
+          "text": "About",
+          "start": 12.17,
+          "end": 12.57,
+          "highlight": false
+        },
+        {
+          "text": "four",
+          "start": 12.57,
+          "end": 12.81,
+          "highlight": true
+        },
+        {
+          "text": "joules",
+          "start": 12.81,
+          "end": 13.45,
+          "highlight": true
+        },
+        {
+          "text": "after.",
+          "start": 13.45,
+          "end": 14.09,
+          "highlight": false
+        },
+        {
+          "text": "Around",
+          "start": 14.09,
+          "end": 14.65,
+          "highlight": false
+        },
+        {
+          "text": "seven",
+          "start": 14.65,
+          "end": 15.55,
+          "highlight": true
+        },
+        {
+          "text": "hundred",
+          "start": 14.65,
+          "end": 15.55,
+          "highlight": true
+        },
+        {
+          "text": "and",
+          "start": 14.65,
+          "end": 15.55,
+          "highlight": true
+        },
+        {
+          "text": "ninety",
+          "start": 14.65,
+          "end": 15.55,
+          "highlight": true
+        },
+        {
+          "text": "six",
+          "start": 14.65,
+          "end": 15.55,
+          "highlight": true
+        },
+        {
+          "text": "joules",
+          "start": 15.93,
+          "end": 16.41,
+          "highlight": true
+        },
+        {
+          "text": "of",
+          "start": 16.41,
+          "end": 16.57,
+          "highlight": false
+        },
+        {
+          "text": "kinetic",
+          "start": 16.57,
+          "end": 17.05,
+          "highlight": false
+        },
+        {
+          "text": "energy",
+          "start": 17.05,
+          "end": 17.53,
+          "highlight": false
+        },
+        {
+          "text": "have",
+          "start": 17.53,
+          "end": 17.77,
+          "highlight": false
+        },
+        {
+          "text": "gone.",
+          "start": 17.77,
+          "end": 18.49,
+          "highlight": false
+        },
+        {
+          "text": "Kinetic",
+          "start": 18.49,
+          "end": 19.05,
+          "highlight": false
+        },
+        {
+          "text": "energy",
+          "start": 19.05,
+          "end": 19.69,
+          "highlight": false
+        },
+        {
+          "text": "is",
+          "start": 19.69,
+          "end": 19.85,
+          "highlight": false
+        },
+        {
+          "text": "not",
+          "start": 19.85,
+          "end": 20.09,
+          "highlight": true
+        },
+        {
+          "text": "conserved.",
+          "start": 20.09,
+          "end": 20.99,
+          "highlight": true
+        },
+        {
+          "text": "This",
+          "start": 21.21,
+          "end": 21.37,
+          "highlight": false
+        },
+        {
+          "text": "is",
+          "start": 21.37,
+          "end": 21.61,
+          "highlight": false
+        },
+        {
+          "text": "an",
+          "start": 21.61,
+          "end": 21.85,
+          "highlight": false
+        },
+        {
+          "text": "inelastic",
+          "start": 21.85,
+          "end": 22.57,
+          "highlight": true
+        },
+        {
+          "text": "collision.",
+          "start": 22.57,
+          "end": 23.215,
+          "highlight": true
+        }
+      ],
+      "props": {
+        "kicker": "Is kinetic energy conserved?",
+        "lines": [
+          {
+            "text": "E_k after = ½ × 2.010 kg × (1.99 m/s)^2",
+            "cue": "half"
+          },
+          {
+            "text": "E_k after ≈ 4 J",
+            "cue": "only",
+            "result": true
+          }
+        ],
+        "before": 800,
+        "after": 4,
+        "lost": 796
+      }
+    },
+    {
+      "id": "where",
+      "type": "where",
+      "from": 6105,
+      "durationInFrames": 322,
+      "cues": {
+        "thermal": 52,
+        "sound": 129,
+        "deform": 163,
+        "momentum": 208,
+        "ke": 266
+      },
+      "words": [
+        {
+          "text": "So",
+          "start": 0.065,
+          "end": 0.385,
+          "highlight": false
+        },
+        {
+          "text": "where",
+          "start": 0.385,
+          "end": 0.545,
+          "highlight": true
+        },
+        {
+          "text": "did",
+          "start": 0.545,
+          "end": 0.705,
+          "highlight": false
+        },
+        {
+          "text": "it",
+          "start": 0.705,
+          "end": 0.865,
+          "highlight": false
+        },
+        {
+          "text": "go?",
+          "start": 0.865,
+          "end": 1.345,
+          "highlight": false
+        },
+        {
+          "text": "Into",
+          "start": 1.345,
+          "end": 1.585,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 1.585,
+          "end": 1.745,
+          "highlight": false
+        },
+        {
+          "text": "thermal",
+          "start": 1.745,
+          "end": 2.225,
+          "highlight": true
+        },
+        {
+          "text": "store",
+          "start": 2.225,
+          "end": 2.545,
+          "highlight": true
+        },
+        {
+          "text": "of",
+          "start": 2.545,
+          "end": 2.625,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 2.625,
+          "end": 2.785,
+          "highlight": false
+        },
+        {
+          "text": "bullet",
+          "start": 2.785,
+          "end": 3.185,
+          "highlight": false
+        },
+        {
+          "text": "and",
+          "start": 3.185,
+          "end": 3.345,
+          "highlight": false
+        },
+        {
+          "text": "block,",
+          "start": 3.345,
+          "end": 4.065,
+          "highlight": false
+        },
+        {
+          "text": "into",
+          "start": 4.065,
+          "end": 4.305,
+          "highlight": false
+        },
+        {
+          "text": "sound,",
+          "start": 4.305,
+          "end": 5.025,
+          "highlight": true
+        },
+        {
+          "text": "and",
+          "start": 5.025,
+          "end": 5.185,
+          "highlight": false
+        },
+        {
+          "text": "into",
+          "start": 5.185,
+          "end": 5.425,
+          "highlight": false
+        },
+        {
+          "text": "deforming",
+          "start": 5.425,
+          "end": 6.065,
+          "highlight": true
+        },
+        {
+          "text": "the",
+          "start": 6.065,
+          "end": 6.225,
+          "highlight": false
+        },
+        {
+          "text": "wood.",
+          "start": 6.225,
+          "end": 6.945,
+          "highlight": false
+        },
+        {
+          "text": "Momentum",
+          "start": 6.945,
+          "end": 7.665,
+          "highlight": true
+        },
+        {
+          "text": "is",
+          "start": 7.665,
+          "end": 7.825,
+          "highlight": true
+        },
+        {
+          "text": "conserved,",
+          "start": 7.825,
+          "end": 8.705,
+          "highlight": true
+        },
+        {
+          "text": "but",
+          "start": 8.705,
+          "end": 8.865,
+          "highlight": false
+        },
+        {
+          "text": "kinetic",
+          "start": 8.865,
+          "end": 9.425,
+          "highlight": false
+        },
+        {
+          "text": "energy",
+          "start": 9.425,
+          "end": 9.905,
+          "highlight": false
+        },
+        {
+          "text": "is",
+          "start": 9.905,
+          "end": 10.145,
+          "highlight": false
+        },
+        {
+          "text": "not.",
+          "start": 10.145,
+          "end": 10.557,
+          "highlight": false
+        }
+      ],
+      "props": {
+        "kicker": "Where did 796 J go?"
+      }
+    },
+    {
+      "id": "mistakes",
+      "type": "mistakes",
+      "from": 6427,
+      "durationInFrames": 402,
+      "cues": {
+        "items.0": 117,
+        "items.1": 170,
+        "items.2": 211,
+        "items.3": 281
+      },
+      "words": [
+        {
+          "text": "Watch",
+          "start": 0.074,
+          "end": 0.474,
+          "highlight": false
+        },
+        {
+          "text": "out",
+          "start": 0.474,
+          "end": 0.634,
+          "highlight": false
+        },
+        {
+          "text": "for",
+          "start": 0.634,
+          "end": 0.874,
+          "highlight": false
+        },
+        {
+          "text": "four",
+          "start": 0.874,
+          "end": 1.114,
+          "highlight": false
+        },
+        {
+          "text": "classic",
+          "start": 1.114,
+          "end": 1.674,
+          "highlight": false
+        },
+        {
+          "text": "mistakes.",
+          "start": 1.674,
+          "end": 2.574,
+          "highlight": false
+        },
+        {
+          "text": "Saying",
+          "start": 2.714,
+          "end": 3.114,
+          "highlight": false
+        },
+        {
+          "text": "energy",
+          "start": 3.114,
+          "end": 3.674,
+          "highlight": false
+        },
+        {
+          "text": "is",
+          "start": 3.674,
+          "end": 3.914,
+          "highlight": false
+        },
+        {
+          "text": "destroyed.",
+          "start": 3.914,
+          "end": 4.814,
+          "highlight": true
+        },
+        {
+          "text": "Forgetting",
+          "start": 4.954,
+          "end": 5.514,
+          "highlight": false
+        },
+        {
+          "text": "to",
+          "start": 5.514,
+          "end": 5.674,
+          "highlight": false
+        },
+        {
+          "text": "square",
+          "start": 5.674,
+          "end": 6.074,
+          "highlight": true
+        },
+        {
+          "text": "v.",
+          "start": 6.074,
+          "end": 6.794,
+          "highlight": true
+        },
+        {
+          "text": "Not",
+          "start": 6.794,
+          "end": 7.034,
+          "highlight": false
+        },
+        {
+          "text": "converting",
+          "start": 7.034,
+          "end": 7.514,
+          "highlight": false
+        },
+        {
+          "text": "grams",
+          "start": 7.514,
+          "end": 7.914,
+          "highlight": true
+        },
+        {
+          "text": "to",
+          "start": 7.914,
+          "end": 8.074,
+          "highlight": true
+        },
+        {
+          "text": "kilograms.",
+          "start": 8.074,
+          "end": 8.974,
+          "highlight": true
+        },
+        {
+          "text": "And",
+          "start": 9.194,
+          "end": 9.354,
+          "highlight": false
+        },
+        {
+          "text": "assuming",
+          "start": 9.354,
+          "end": 9.834,
+          "highlight": false
+        },
+        {
+          "text": "kinetic",
+          "start": 9.834,
+          "end": 10.314,
+          "highlight": false
+        },
+        {
+          "text": "energy",
+          "start": 10.314,
+          "end": 10.874,
+          "highlight": false
+        },
+        {
+          "text": "is",
+          "start": 10.874,
+          "end": 11.034,
+          "highlight": false
+        },
+        {
+          "text": "conserved",
+          "start": 11.034,
+          "end": 11.754,
+          "highlight": false
+        },
+        {
+          "text": "when",
+          "start": 11.754,
+          "end": 11.994,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 11.994,
+          "end": 12.154,
+          "highlight": false
+        },
+        {
+          "text": "bullet",
+          "start": 12.154,
+          "end": 12.554,
+          "highlight": false
+        },
+        {
+          "text": "embeds.",
+          "start": 12.554,
+          "end": 13.217,
+          "highlight": false
+        }
+      ],
+      "props": {
+        "kicker": "Common mistakes",
+        "items": [
+          {
+            "wrong": "\"The energy is destroyed\"",
+            "right": "Energy is conserved, it is dissipated to the surroundings",
+            "cue": "destroyed"
+          },
+          {
+            "wrong": "E_k = ½ m v",
+            "right": "E_k = ½ m v^2: square the speed",
+            "cue": "square"
+          },
+          {
+            "wrong": "m = 10 kg",
+            "right": "m = 10 g = 0.010 kg",
+            "cue": "converting"
+          },
+          {
+            "wrong": "E_k before = E_k after",
+            "right": "Momentum is conserved; E_k is not (inelastic)",
+            "cue": "assuming"
+          }
+        ]
+      }
+    },
+    {
+      "id": "your-turn",
+      "type": "questions",
+      "from": 6829,
+      "durationInFrames": 291,
+      "cues": {
+        "cards": 62,
+        "scheme": 182
+      },
+      "words": [
+        {
+          "text": "Now",
+          "start": 0.067,
+          "end": 0.387,
+          "highlight": false
+        },
+        {
+          "text": "it's",
+          "start": 0.387,
+          "end": 0.707,
+          "highlight": false
+        },
+        {
+          "text": "your",
+          "start": 0.707,
+          "end": 0.867,
+          "highlight": false
+        },
+        {
+          "text": "turn.",
+          "start": 0.867,
+          "end": 1.587,
+          "highlight": false
+        },
+        {
+          "text": "Try",
+          "start": 1.587,
+          "end": 1.907,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 1.907,
+          "end": 2.067,
+          "highlight": false
+        },
+        {
+          "text": "three",
+          "start": 2.067,
+          "end": 2.387,
+          "highlight": false
+        },
+        {
+          "text": "exam",
+          "start": 2.387,
+          "end": 3.287,
+          "highlight": false
+        },
+        {
+          "text": "style",
+          "start": 2.387,
+          "end": 3.287,
+          "highlight": false
+        },
+        {
+          "text": "questions",
+          "start": 3.347,
+          "end": 3.747,
+          "highlight": false
+        },
+        {
+          "text": "on",
+          "start": 3.747,
+          "end": 3.987,
+          "highlight": false
+        },
+        {
+          "text": "screen,",
+          "start": 3.987,
+          "end": 4.627,
+          "highlight": false
+        },
+        {
+          "text": "then",
+          "start": 4.627,
+          "end": 4.867,
+          "highlight": false
+        },
+        {
+          "text": "check",
+          "start": 4.867,
+          "end": 5.187,
+          "highlight": false
+        },
+        {
+          "text": "your",
+          "start": 5.187,
+          "end": 5.347,
+          "highlight": false
+        },
+        {
+          "text": "answers",
+          "start": 5.347,
+          "end": 5.747,
+          "highlight": false
+        },
+        {
+          "text": "with",
+          "start": 5.747,
+          "end": 5.907,
+          "highlight": false
+        },
+        {
+          "text": "the",
+          "start": 5.907,
+          "end": 6.067,
+          "highlight": false
+        },
+        {
+          "text": "mark",
+          "start": 6.067,
+          "end": 6.467,
+          "highlight": true
+        },
+        {
+          "text": "scheme.",
+          "start": 6.467,
+          "end": 7.107,
+          "highlight": true
+        },
+        {
+          "text": "You've",
+          "start": 7.107,
+          "end": 7.427,
+          "highlight": false
+        },
+        {
+          "text": "got",
+          "start": 7.427,
+          "end": 7.667,
+          "highlight": false
+        },
+        {
+          "text": "this.",
+          "start": 7.667,
+          "end": 8.107,
+          "highlight": false
+        }
+      ],
+      "props": {
+        "kicker": "Your turn: exam-style practice",
+        "questions": [
+          {
+            "tag": "Describe",
+            "marks": 3,
+            "text": "A bullet is fired from a gun into a wooden block, where it stops. Describe the energy transfers from firing to stopping."
+          },
+          {
+            "tag": "Calculate",
+            "marks": 5,
+            "text": "A 15 g bullet at 350 m/s stops in 0.12 m of wood. Calculate (a) its kinetic energy (b) the average resistive force."
+          },
+          {
+            "tag": "Explain",
+            "marks": 3,
+            "text": "A bullet embeds in a block on a smooth surface. Explain why momentum is conserved but kinetic energy is not."
+          }
+        ]
+      }
+    }
+  ],
+  "captions": [
+    {
+      "start": 0.3,
+      "end": 1.1,
+      "words": [
+        {
+          "text": "A",
+          "highlight": false,
+          "start": 0.3,
+          "end": 0.54
+        },
+        {
+          "text": "bullet",
+          "highlight": false,
+          "start": 0.54,
+          "end": 0.94
+        },
+        {
+          "text": "is",
+          "highlight": false,
+          "start": 0.94,
+          "end": 1.1
+        }
+      ]
+    },
+    {
+      "start": 1.1,
+      "end": 1.9,
+      "words": [
+        {
+          "text": "moving",
+          "highlight": false,
+          "start": 1.1,
+          "end": 1.5
+        },
+        {
+          "text": "at",
+          "highlight": false,
+          "start": 1.5,
+          "end": 1.9
+        },
+        {
+          "text": "four",
+          "highlight": true,
+          "start": 1.9,
+          "end": 2.54
+        }
+      ]
+    },
+    {
+      "start": 1.9,
+      "end": 3.26,
+      "words": [
+        {
+          "text": "hundred",
+          "highlight": true,
+          "start": 1.9,
+          "end": 2.54
+        },
+        {
+          "text": "metres",
+          "highlight": true,
+          "start": 2.54,
+          "end": 3.02
+        },
+        {
+          "text": "per",
+          "highlight": true,
+          "start": 3.02,
+          "end": 3.26
+        }
+      ]
+    },
+    {
+      "start": 3.26,
+      "end": 3.98,
+      "words": [
+        {
+          "text": "second.",
+          "highlight": true,
+          "start": 3.26,
+          "end": 3.98
+        }
+      ]
+    },
+    {
+      "start": 3.98,
+      "end": 4.7,
+      "words": [
+        {
+          "text": "A",
+          "highlight": false,
+          "start": 3.98,
+          "end": 4.14
+        },
+        {
+          "text": "tenth",
+          "highlight": false,
+          "start": 4.14,
+          "end": 4.54
+        },
+        {
+          "text": "of",
+          "highlight": false,
+          "start": 4.54,
+          "end": 4.7
+        }
+      ]
+    },
+    {
+      "start": 4.7,
+      "end": 5.66,
+      "words": [
+        {
+          "text": "a",
+          "highlight": false,
+          "start": 4.7,
+          "end": 4.78
+        },
+        {
+          "text": "second",
+          "highlight": false,
+          "start": 4.78,
+          "end": 5.1
+        },
+        {
+          "text": "later,",
+          "highlight": false,
+          "start": 5.1,
+          "end": 5.66
+        }
+      ]
+    },
+    {
+      "start": 5.66,
+      "end": 6.46,
+      "words": [
+        {
+          "text": "it",
+          "highlight": false,
+          "start": 5.66,
+          "end": 5.82
+        },
+        {
+          "text": "has",
+          "highlight": false,
+          "start": 5.82,
+          "end": 5.98
+        },
+        {
+          "text": "stopped",
+          "highlight": false,
+          "start": 5.98,
+          "end": 6.46
+        }
+      ]
+    },
+    {
+      "start": 6.46,
+      "end": 7.34,
+      "words": [
+        {
+          "text": "dead",
+          "highlight": false,
+          "start": 6.46,
+          "end": 6.78
+        },
+        {
+          "text": "inside",
+          "highlight": false,
+          "start": 6.78,
+          "end": 7.18
+        },
+        {
+          "text": "a",
+          "highlight": false,
+          "start": 7.18,
+          "end": 7.34
+        }
+      ]
+    },
+    {
+      "start": 7.34,
+      "end": 8.38,
+      "words": [
+        {
+          "text": "block",
+          "highlight": false,
+          "start": 7.34,
+          "end": 7.66
+        },
+        {
+          "text": "of",
+          "highlight": false,
+          "start": 7.66,
+          "end": 7.82
+        },
+        {
+          "text": "wood.",
+          "highlight": false,
+          "start": 7.82,
+          "end": 8.38
+        }
+      ]
+    },
+    {
+      "start": 8.38,
+      "end": 9.02,
+      "words": [
+        {
+          "text": "So",
+          "highlight": false,
+          "start": 8.38,
+          "end": 8.62
+        },
+        {
+          "text": "where",
+          "highlight": true,
+          "start": 8.62,
+          "end": 8.86
+        },
+        {
+          "text": "did",
+          "highlight": false,
+          "start": 8.86,
+          "end": 9.02
+        }
+      ]
+    },
+    {
+      "start": 9.02,
+      "end": 10.365,
+      "words": [
+        {
+          "text": "all",
+          "highlight": false,
+          "start": 9.02,
+          "end": 9.18
+        },
+        {
+          "text": "that",
+          "highlight": false,
+          "start": 9.18,
+          "end": 9.34
+        },
+        {
+          "text": "energy",
+          "highlight": false,
+          "start": 9.34,
+          "end": 9.82
+        },
+        {
+          "text": "go?",
+          "highlight": false,
+          "start": 9.82,
+          "end": 10.215
+        }
+      ]
+    },
+    {
+      "start": 10.465,
+      "end": 11.585,
+      "words": [
+        {
+          "text": "Pause",
+          "highlight": false,
+          "start": 10.465,
+          "end": 10.945
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 10.945,
+          "end": 11.105
+        },
+        {
+          "text": "video,",
+          "highlight": false,
+          "start": 11.105,
+          "end": 11.585
+        }
+      ]
+    },
+    {
+      "start": 11.585,
+      "end": 12.857,
+      "words": [
+        {
+          "text": "and",
+          "highlight": false,
+          "start": 11.585,
+          "end": 11.825
+        },
+        {
+          "text": "make",
+          "highlight": false,
+          "start": 11.825,
+          "end": 11.985
+        },
+        {
+          "text": "your",
+          "highlight": false,
+          "start": 11.985,
+          "end": 12.145
+        },
+        {
+          "text": "guess.",
+          "highlight": false,
+          "start": 12.145,
+          "end": 12.707
+        }
+      ]
+    },
+    {
+      "start": 16.957,
+      "end": 17.837,
+      "words": [
+        {
+          "text": "Let's",
+          "highlight": false,
+          "start": 16.957,
+          "end": 17.357
+        },
+        {
+          "text": "follow",
+          "highlight": false,
+          "start": 17.357,
+          "end": 17.677
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 17.677,
+          "end": 17.837
+        }
+      ]
+    },
+    {
+      "start": 17.837,
+      "end": 18.717,
+      "words": [
+        {
+          "text": "energy.",
+          "highlight": false,
+          "start": 17.837,
+          "end": 18.717
+        }
+      ]
+    },
+    {
+      "start": 18.717,
+      "end": 19.437,
+      "words": [
+        {
+          "text": "When",
+          "highlight": false,
+          "start": 18.717,
+          "end": 18.957
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 18.957,
+          "end": 19.037
+        },
+        {
+          "text": "bullet",
+          "highlight": false,
+          "start": 19.037,
+          "end": 19.437
+        }
+      ]
+    },
+    {
+      "start": 19.437,
+      "end": 20.397,
+      "words": [
+        {
+          "text": "is",
+          "highlight": false,
+          "start": 19.437,
+          "end": 19.597
+        },
+        {
+          "text": "fired,",
+          "highlight": false,
+          "start": 19.597,
+          "end": 20.397
+        }
+      ]
+    },
+    {
+      "start": 20.397,
+      "end": 21.197,
+      "words": [
+        {
+          "text": "energy",
+          "highlight": false,
+          "start": 20.397,
+          "end": 20.957
+        },
+        {
+          "text": "in",
+          "highlight": false,
+          "start": 20.957,
+          "end": 21.117
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 21.117,
+          "end": 21.197
+        }
+      ]
+    },
+    {
+      "start": 21.197,
+      "end": 22.157,
+      "words": [
+        {
+          "text": "chemical",
+          "highlight": true,
+          "start": 21.197,
+          "end": 21.677
+        },
+        {
+          "text": "store",
+          "highlight": true,
+          "start": 21.677,
+          "end": 21.997
+        },
+        {
+          "text": "of",
+          "highlight": false,
+          "start": 21.997,
+          "end": 22.157
+        }
+      ]
+    },
+    {
+      "start": 22.157,
+      "end": 23.277,
+      "words": [
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 22.157,
+          "end": 22.237
+        },
+        {
+          "text": "gunpowder",
+          "highlight": false,
+          "start": 22.237,
+          "end": 23.037
+        },
+        {
+          "text": "is",
+          "highlight": false,
+          "start": 23.037,
+          "end": 23.277
+        }
+      ]
+    },
+    {
+      "start": 23.277,
+      "end": 24.317,
+      "words": [
+        {
+          "text": "transferred",
+          "highlight": false,
+          "start": 23.277,
+          "end": 24.077
+        },
+        {
+          "text": "to",
+          "highlight": false,
+          "start": 24.077,
+          "end": 24.237
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 24.237,
+          "end": 24.317
+        }
+      ]
+    },
+    {
+      "start": 24.317,
+      "end": 25.757,
+      "words": [
+        {
+          "text": "kinetic",
+          "highlight": true,
+          "start": 24.317,
+          "end": 24.877
+        },
+        {
+          "text": "energy",
+          "highlight": true,
+          "start": 24.877,
+          "end": 25.357
+        },
+        {
+          "text": "store",
+          "highlight": true,
+          "start": 25.357,
+          "end": 25.757
+        }
+      ]
+    },
+    {
+      "start": 25.757,
+      "end": 26.844,
+      "words": [
+        {
+          "text": "of",
+          "highlight": false,
+          "start": 25.757,
+          "end": 25.997
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 25.997,
+          "end": 26.157
+        },
+        {
+          "text": "bullet.",
+          "highlight": false,
+          "start": 26.157,
+          "end": 26.694
+        }
+      ]
+    },
+    {
+      "start": 26.944,
+      "end": 28.144,
+      "words": [
+        {
+          "text": "As",
+          "highlight": false,
+          "start": 26.944,
+          "end": 27.184
+        },
+        {
+          "text": "it",
+          "highlight": false,
+          "start": 27.184,
+          "end": 27.424
+        },
+        {
+          "text": "flies,",
+          "highlight": false,
+          "start": 27.424,
+          "end": 28.144
+        }
+      ]
+    },
+    {
+      "start": 28.144,
+      "end": 29.104,
+      "words": [
+        {
+          "text": "a",
+          "highlight": false,
+          "start": 28.144,
+          "end": 28.304
+        },
+        {
+          "text": "little",
+          "highlight": false,
+          "start": 28.304,
+          "end": 28.544
+        },
+        {
+          "text": "energy",
+          "highlight": false,
+          "start": 28.544,
+          "end": 29.104
+        }
+      ]
+    },
+    {
+      "start": 29.104,
+      "end": 30.064,
+      "words": [
+        {
+          "text": "is",
+          "highlight": false,
+          "start": 29.104,
+          "end": 29.264
+        },
+        {
+          "text": "transferred",
+          "highlight": false,
+          "start": 29.264,
+          "end": 29.904
+        },
+        {
+          "text": "to",
+          "highlight": false,
+          "start": 29.904,
+          "end": 30.064
+        }
+      ]
+    },
+    {
+      "start": 30.064,
+      "end": 31.424,
+      "words": [
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 30.064,
+          "end": 30.224
+        },
+        {
+          "text": "surroundings",
+          "highlight": false,
+          "start": 30.224,
+          "end": 31.104
+        },
+        {
+          "text": "by",
+          "highlight": false,
+          "start": 31.104,
+          "end": 31.424
+        }
+      ]
+    },
+    {
+      "start": 31.424,
+      "end": 32.734,
+      "words": [
+        {
+          "text": "air",
+          "highlight": true,
+          "start": 31.424,
+          "end": 31.824
+        },
+        {
+          "text": "resistance.",
+          "highlight": true,
+          "start": 31.824,
+          "end": 32.584
+        }
+      ]
+    },
+    {
+      "start": 32.834,
+      "end": 33.474,
+      "words": [
+        {
+          "text": "Then",
+          "highlight": false,
+          "start": 32.834,
+          "end": 33.074
+        },
+        {
+          "text": "it",
+          "highlight": false,
+          "start": 33.074,
+          "end": 33.234
+        },
+        {
+          "text": "hits",
+          "highlight": false,
+          "start": 33.234,
+          "end": 33.474
+        }
+      ]
+    },
+    {
+      "start": 33.474,
+      "end": 34.274,
+      "words": [
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 33.474,
+          "end": 33.634
+        },
+        {
+          "text": "wood.",
+          "highlight": false,
+          "start": 33.634,
+          "end": 34.274
+        }
+      ]
+    },
+    {
+      "start": 34.274,
+      "end": 35.314,
+      "words": [
+        {
+          "text": "The",
+          "highlight": false,
+          "start": 34.274,
+          "end": 34.434
+        },
+        {
+          "text": "wood",
+          "highlight": false,
+          "start": 34.434,
+          "end": 34.834
+        },
+        {
+          "text": "pushes",
+          "highlight": false,
+          "start": 34.834,
+          "end": 35.314
+        }
+      ]
+    },
+    {
+      "start": 35.314,
+      "end": 35.874,
+      "words": [
+        {
+          "text": "back",
+          "highlight": false,
+          "start": 35.314,
+          "end": 35.554
+        },
+        {
+          "text": "with",
+          "highlight": false,
+          "start": 35.554,
+          "end": 35.714
+        },
+        {
+          "text": "a",
+          "highlight": false,
+          "start": 35.714,
+          "end": 35.874
+        }
+      ]
+    },
+    {
+      "start": 35.874,
+      "end": 36.994,
+      "words": [
+        {
+          "text": "large",
+          "highlight": false,
+          "start": 35.874,
+          "end": 36.274
+        },
+        {
+          "text": "force,",
+          "highlight": false,
+          "start": 36.274,
+          "end": 36.994
+        }
+      ]
+    },
+    {
+      "start": 36.994,
+      "end": 37.794,
+      "words": [
+        {
+          "text": "and",
+          "highlight": false,
+          "start": 36.994,
+          "end": 37.154
+        },
+        {
+          "text": "that",
+          "highlight": false,
+          "start": 37.154,
+          "end": 37.394
+        },
+        {
+          "text": "force",
+          "highlight": false,
+          "start": 37.394,
+          "end": 37.794
+        }
+      ]
+    },
+    {
+      "start": 37.794,
+      "end": 38.514,
+      "words": [
+        {
+          "text": "does",
+          "highlight": false,
+          "start": 37.794,
+          "end": 38.034
+        },
+        {
+          "text": "work",
+          "highlight": true,
+          "start": 38.034,
+          "end": 38.354
+        },
+        {
+          "text": "on",
+          "highlight": false,
+          "start": 38.354,
+          "end": 38.514
+        }
+      ]
+    },
+    {
+      "start": 38.514,
+      "end": 39.314,
+      "words": [
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 38.514,
+          "end": 38.594
+        },
+        {
+          "text": "bullet,",
+          "highlight": false,
+          "start": 38.594,
+          "end": 39.314
+        }
+      ]
+    },
+    {
+      "start": 39.314,
+      "end": 40.514,
+      "words": [
+        {
+          "text": "emptying",
+          "highlight": false,
+          "start": 39.314,
+          "end": 39.794
+        },
+        {
+          "text": "its",
+          "highlight": false,
+          "start": 39.794,
+          "end": 39.954
+        },
+        {
+          "text": "kinetic",
+          "highlight": true,
+          "start": 39.954,
+          "end": 40.514
+        }
+      ]
+    },
+    {
+      "start": 40.514,
+      "end": 41.149,
+      "words": [
+        {
+          "text": "store.",
+          "highlight": true,
+          "start": 40.514,
+          "end": 40.999
+        }
+      ]
+    },
+    {
+      "start": 41.249,
+      "end": 42.369,
+      "words": [
+        {
+          "text": "That",
+          "highlight": false,
+          "start": 41.249,
+          "end": 41.569
+        },
+        {
+          "text": "energy",
+          "highlight": false,
+          "start": 41.569,
+          "end": 42.049
+        },
+        {
+          "text": "ends",
+          "highlight": false,
+          "start": 42.049,
+          "end": 42.369
+        }
+      ]
+    },
+    {
+      "start": 42.369,
+      "end": 42.849,
+      "words": [
+        {
+          "text": "up",
+          "highlight": false,
+          "start": 42.369,
+          "end": 42.529
+        },
+        {
+          "text": "in",
+          "highlight": false,
+          "start": 42.529,
+          "end": 42.769
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 42.769,
+          "end": 42.849
+        }
+      ]
+    },
+    {
+      "start": 42.849,
+      "end": 44.129,
+      "words": [
+        {
+          "text": "thermal",
+          "highlight": true,
+          "start": 42.849,
+          "end": 43.329
+        },
+        {
+          "text": "energy",
+          "highlight": true,
+          "start": 43.329,
+          "end": 43.809
+        },
+        {
+          "text": "store",
+          "highlight": true,
+          "start": 43.809,
+          "end": 44.129
+        }
+      ]
+    },
+    {
+      "start": 44.129,
+      "end": 44.849,
+      "words": [
+        {
+          "text": "of",
+          "highlight": false,
+          "start": 44.129,
+          "end": 44.289
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 44.289,
+          "end": 44.369
+        },
+        {
+          "text": "bullet",
+          "highlight": false,
+          "start": 44.369,
+          "end": 44.849
+        }
+      ]
+    },
+    {
+      "start": 44.849,
+      "end": 45.729,
+      "words": [
+        {
+          "text": "and",
+          "highlight": false,
+          "start": 44.849,
+          "end": 45.009
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 45.009,
+          "end": 45.169
+        },
+        {
+          "text": "wood,",
+          "highlight": false,
+          "start": 45.169,
+          "end": 45.729
+        }
+      ]
+    },
+    {
+      "start": 45.729,
+      "end": 46.849,
+      "words": [
+        {
+          "text": "as",
+          "highlight": false,
+          "start": 45.729,
+          "end": 46.129
+        },
+        {
+          "text": "sound,",
+          "highlight": true,
+          "start": 46.129,
+          "end": 46.849
+        }
+      ]
+    },
+    {
+      "start": 46.849,
+      "end": 47.809,
+      "words": [
+        {
+          "text": "and",
+          "highlight": false,
+          "start": 46.849,
+          "end": 47.009
+        },
+        {
+          "text": "in",
+          "highlight": false,
+          "start": 47.009,
+          "end": 47.169
+        },
+        {
+          "text": "splitting",
+          "highlight": false,
+          "start": 47.169,
+          "end": 47.809
+        }
+      ]
+    },
+    {
+      "start": 47.809,
+      "end": 48.769,
+      "words": [
+        {
+          "text": "and",
+          "highlight": false,
+          "start": 47.809,
+          "end": 47.969
+        },
+        {
+          "text": "deforming",
+          "highlight": true,
+          "start": 47.969,
+          "end": 48.609
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 48.609,
+          "end": 48.769
+        }
+      ]
+    },
+    {
+      "start": 48.769,
+      "end": 49.369,
+      "words": [
+        {
+          "text": "wood.",
+          "highlight": false,
+          "start": 48.769,
+          "end": 49.184
+        }
+      ]
+    },
+    {
+      "start": 49.434,
+      "end": 50.074,
+      "words": [
+        {
+          "text": "None",
+          "highlight": false,
+          "start": 49.434,
+          "end": 49.754
+        },
+        {
+          "text": "of",
+          "highlight": false,
+          "start": 49.754,
+          "end": 49.914
+        },
+        {
+          "text": "it",
+          "highlight": false,
+          "start": 49.914,
+          "end": 50.074
+        }
+      ]
+    },
+    {
+      "start": 50.074,
+      "end": 51.354,
+      "words": [
+        {
+          "text": "is",
+          "highlight": false,
+          "start": 50.074,
+          "end": 50.314
+        },
+        {
+          "text": "destroyed.",
+          "highlight": true,
+          "start": 50.314,
+          "end": 51.214
+        }
+      ]
+    },
+    {
+      "start": 51.354,
+      "end": 52.314,
+      "words": [
+        {
+          "text": "That's",
+          "highlight": false,
+          "start": 51.354,
+          "end": 51.594
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 51.594,
+          "end": 51.754
+        },
+        {
+          "text": "principle",
+          "highlight": false,
+          "start": 51.754,
+          "end": 52.314
+        }
+      ]
+    },
+    {
+      "start": 52.314,
+      "end": 53.514,
+      "words": [
+        {
+          "text": "of",
+          "highlight": false,
+          "start": 52.314,
+          "end": 52.474
+        },
+        {
+          "text": "conservation",
+          "highlight": true,
+          "start": 52.474,
+          "end": 53.274
+        },
+        {
+          "text": "of",
+          "highlight": true,
+          "start": 53.274,
+          "end": 53.514
+        }
+      ]
+    },
+    {
+      "start": 53.514,
+      "end": 54.474,
+      "words": [
+        {
+          "text": "energy.",
+          "highlight": true,
+          "start": 53.514,
+          "end": 54.414
+        }
+      ]
+    },
+    {
+      "start": 54.474,
+      "end": 55.354,
+      "words": [
+        {
+          "text": "But",
+          "highlight": false,
+          "start": 54.474,
+          "end": 54.634
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 54.634,
+          "end": 54.794
+        },
+        {
+          "text": "energy",
+          "highlight": false,
+          "start": 54.794,
+          "end": 55.354
+        }
+      ]
+    },
+    {
+      "start": 55.354,
+      "end": 56.714,
+      "words": [
+        {
+          "text": "has",
+          "highlight": false,
+          "start": 55.354,
+          "end": 55.514
+        },
+        {
+          "text": "been",
+          "highlight": false,
+          "start": 55.514,
+          "end": 55.754
+        },
+        {
+          "text": "dissipated:",
+          "highlight": true,
+          "start": 55.754,
+          "end": 56.654
+        }
+      ]
+    },
+    {
+      "start": 56.714,
+      "end": 57.594,
+      "words": [
+        {
+          "text": "spread",
+          "highlight": false,
+          "start": 56.714,
+          "end": 57.194
+        },
+        {
+          "text": "out",
+          "highlight": false,
+          "start": 57.194,
+          "end": 57.354
+        },
+        {
+          "text": "into",
+          "highlight": false,
+          "start": 57.354,
+          "end": 57.594
+        }
+      ]
+    },
+    {
+      "start": 57.594,
+      "end": 58.714,
+      "words": [
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 57.594,
+          "end": 57.834
+        },
+        {
+          "text": "surroundings,",
+          "highlight": false,
+          "start": 57.834,
+          "end": 58.714
+        }
+      ]
+    },
+    {
+      "start": 58.714,
+      "end": 59.434,
+      "words": [
+        {
+          "text": "where",
+          "highlight": true,
+          "start": 58.714,
+          "end": 58.954
+        },
+        {
+          "text": "it",
+          "highlight": false,
+          "start": 58.954,
+          "end": 59.034
+        },
+        {
+          "text": "can't",
+          "highlight": false,
+          "start": 59.034,
+          "end": 59.434
+        }
+      ]
+    },
+    {
+      "start": 59.434,
+      "end": 60.898,
+      "words": [
+        {
+          "text": "easily",
+          "highlight": false,
+          "start": 59.434,
+          "end": 59.834
+        },
+        {
+          "text": "be",
+          "highlight": false,
+          "start": 59.834,
+          "end": 60.074
+        },
+        {
+          "text": "used",
+          "highlight": false,
+          "start": 60.074,
+          "end": 60.314
+        },
+        {
+          "text": "again.",
+          "highlight": false,
+          "start": 60.314,
+          "end": 60.748
+        }
+      ]
+    },
+    {
+      "start": 60.998,
+      "end": 61.798,
+      "words": [
+        {
+          "text": "Here's",
+          "highlight": false,
+          "start": 60.998,
+          "end": 61.398
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 61.398,
+          "end": 61.478
+        },
+        {
+          "text": "whole",
+          "highlight": false,
+          "start": 61.478,
+          "end": 61.798
+        }
+      ]
+    },
+    {
+      "start": 61.798,
+      "end": 62.678,
+      "words": [
+        {
+          "text": "journey",
+          "highlight": false,
+          "start": 61.798,
+          "end": 62.278
+        },
+        {
+          "text": "as",
+          "highlight": false,
+          "start": 62.278,
+          "end": 62.518
+        },
+        {
+          "text": "an",
+          "highlight": false,
+          "start": 62.518,
+          "end": 62.678
+        }
+      ]
+    },
+    {
+      "start": 62.678,
+      "end": 64.438,
+      "words": [
+        {
+          "text": "energy",
+          "highlight": false,
+          "start": 62.678,
+          "end": 63.078
+        },
+        {
+          "text": "flow",
+          "highlight": false,
+          "start": 63.078,
+          "end": 63.478
+        },
+        {
+          "text": "diagram.",
+          "highlight": false,
+          "start": 63.478,
+          "end": 64.378
+        }
+      ]
+    },
+    {
+      "start": 64.438,
+      "end": 65.078,
+      "words": [
+        {
+          "text": "The",
+          "highlight": false,
+          "start": 64.438,
+          "end": 64.598
+        },
+        {
+          "text": "width",
+          "highlight": false,
+          "start": 64.598,
+          "end": 64.998
+        },
+        {
+          "text": "of",
+          "highlight": false,
+          "start": 64.998,
+          "end": 65.078
+        }
+      ]
+    },
+    {
+      "start": 65.078,
+      "end": 66.198,
+      "words": [
+        {
+          "text": "each",
+          "highlight": false,
+          "start": 65.078,
+          "end": 65.398
+        },
+        {
+          "text": "arrow",
+          "highlight": false,
+          "start": 65.398,
+          "end": 65.878
+        },
+        {
+          "text": "shows",
+          "highlight": false,
+          "start": 65.878,
+          "end": 66.198
+        }
+      ]
+    },
+    {
+      "start": 66.198,
+      "end": 67.238,
+      "words": [
+        {
+          "text": "how",
+          "highlight": false,
+          "start": 66.198,
+          "end": 66.438
+        },
+        {
+          "text": "much",
+          "highlight": false,
+          "start": 66.438,
+          "end": 66.678
+        },
+        {
+          "text": "energy",
+          "highlight": false,
+          "start": 66.678,
+          "end": 67.238
+        }
+      ]
+    },
+    {
+      "start": 67.238,
+      "end": 68.518,
+      "words": [
+        {
+          "text": "goes",
+          "highlight": false,
+          "start": 67.238,
+          "end": 67.558
+        },
+        {
+          "text": "that",
+          "highlight": false,
+          "start": 67.558,
+          "end": 67.878
+        },
+        {
+          "text": "way.",
+          "highlight": false,
+          "start": 67.878,
+          "end": 68.518
+        }
+      ]
+    },
+    {
+      "start": 68.518,
+      "end": 69.558,
+      "words": [
+        {
+          "text": "The",
+          "highlight": false,
+          "start": 68.518,
+          "end": 68.678
+        },
+        {
+          "text": "useful",
+          "highlight": false,
+          "start": 68.678,
+          "end": 69.158
+        },
+        {
+          "text": "share",
+          "highlight": false,
+          "start": 69.158,
+          "end": 69.558
+        }
+      ]
+    },
+    {
+      "start": 69.558,
+      "end": 70.278,
+      "words": [
+        {
+          "text": "that",
+          "highlight": false,
+          "start": 69.558,
+          "end": 69.718
+        },
+        {
+          "text": "reaches",
+          "highlight": false,
+          "start": 69.718,
+          "end": 70.118
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 70.118,
+          "end": 70.278
+        }
+      ]
+    },
+    {
+      "start": 70.278,
+      "end": 72.038,
+      "words": [
+        {
+          "text": "bullet's",
+          "highlight": false,
+          "start": 70.278,
+          "end": 70.838
+        },
+        {
+          "text": "kinetic",
+          "highlight": true,
+          "start": 70.838,
+          "end": 71.398
+        },
+        {
+          "text": "store,",
+          "highlight": true,
+          "start": 71.398,
+          "end": 72.038
+        }
+      ]
+    },
+    {
+      "start": 72.038,
+      "end": 72.838,
+      "words": [
+        {
+          "text": "divided",
+          "highlight": false,
+          "start": 72.038,
+          "end": 72.518
+        },
+        {
+          "text": "by",
+          "highlight": false,
+          "start": 72.518,
+          "end": 72.678
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 72.678,
+          "end": 72.838
+        }
+      ]
+    },
+    {
+      "start": 72.838,
+      "end": 73.958,
+      "words": [
+        {
+          "text": "total",
+          "highlight": false,
+          "start": 72.838,
+          "end": 73.158
+        },
+        {
+          "text": "input,",
+          "highlight": false,
+          "start": 73.158,
+          "end": 73.958
+        }
+      ]
+    },
+    {
+      "start": 73.958,
+      "end": 75.301,
+      "words": [
+        {
+          "text": "is",
+          "highlight": false,
+          "start": 73.958,
+          "end": 74.118
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 74.118,
+          "end": 74.278
+        },
+        {
+          "text": "efficiency.",
+          "highlight": true,
+          "start": 74.278,
+          "end": 75.151
+        }
+      ]
+    },
+    {
+      "start": 75.401,
+      "end": 76.281,
+      "words": [
+        {
+          "text": "Now",
+          "highlight": false,
+          "start": 75.401,
+          "end": 75.801
+        },
+        {
+          "text": "let's",
+          "highlight": false,
+          "start": 75.801,
+          "end": 76.041
+        },
+        {
+          "text": "put",
+          "highlight": false,
+          "start": 76.041,
+          "end": 76.281
+        }
+      ]
+    },
+    {
+      "start": 76.281,
+      "end": 77.481,
+      "words": [
+        {
+          "text": "numbers",
+          "highlight": false,
+          "start": 76.281,
+          "end": 76.681
+        },
+        {
+          "text": "on",
+          "highlight": false,
+          "start": 76.681,
+          "end": 76.921
+        },
+        {
+          "text": "it.",
+          "highlight": false,
+          "start": 76.921,
+          "end": 77.481
+        }
+      ]
+    },
+    {
+      "start": 77.481,
+      "end": 78.761,
+      "words": [
+        {
+          "text": "Example",
+          "highlight": false,
+          "start": 77.481,
+          "end": 78.361
+        },
+        {
+          "text": "one:",
+          "highlight": false,
+          "start": 78.361,
+          "end": 78.761
+        }
+      ]
+    },
+    {
+      "start": 78.761,
+      "end": 79.721,
+      "words": [
+        {
+          "text": "find",
+          "highlight": false,
+          "start": 78.761,
+          "end": 79.001
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 79.001,
+          "end": 79.161
+        },
+        {
+          "text": "kinetic",
+          "highlight": false,
+          "start": 79.161,
+          "end": 79.721
+        }
+      ]
+    },
+    {
+      "start": 79.721,
+      "end": 80.681,
+      "words": [
+        {
+          "text": "energy",
+          "highlight": false,
+          "start": 79.721,
+          "end": 80.201
+        },
+        {
+          "text": "of",
+          "highlight": false,
+          "start": 80.201,
+          "end": 80.441
+        },
+        {
+          "text": "a",
+          "highlight": false,
+          "start": 80.441,
+          "end": 80.681
+        }
+      ]
+    },
+    {
+      "start": 80.681,
+      "end": 81.801,
+      "words": [
+        {
+          "text": "ten",
+          "highlight": false,
+          "start": 80.681,
+          "end": 80.921
+        },
+        {
+          "text": "gram",
+          "highlight": false,
+          "start": 80.921,
+          "end": 81.321
+        },
+        {
+          "text": "bullet",
+          "highlight": false,
+          "start": 81.321,
+          "end": 81.801
+        }
+      ]
+    },
+    {
+      "start": 81.801,
+      "end": 82.601,
+      "words": [
+        {
+          "text": "moving",
+          "highlight": false,
+          "start": 81.801,
+          "end": 82.201
+        },
+        {
+          "text": "at",
+          "highlight": false,
+          "start": 82.201,
+          "end": 82.601
+        },
+        {
+          "text": "four",
+          "highlight": true,
+          "start": 82.601,
+          "end": 83.081
+        }
+      ]
+    },
+    {
+      "start": 82.601,
+      "end": 83.801,
+      "words": [
+        {
+          "text": "hundred",
+          "highlight": true,
+          "start": 82.601,
+          "end": 83.081
+        },
+        {
+          "text": "metres",
+          "highlight": true,
+          "start": 83.081,
+          "end": 83.561
+        },
+        {
+          "text": "per",
+          "highlight": true,
+          "start": 83.561,
+          "end": 83.801
+        }
+      ]
+    },
+    {
+      "start": 83.801,
+      "end": 84.441,
+      "words": [
+        {
+          "text": "second.",
+          "highlight": true,
+          "start": 83.801,
+          "end": 84.291
+        }
+      ]
+    },
+    {
+      "start": 84.541,
+      "end": 85.101,
+      "words": [
+        {
+          "text": "First,",
+          "highlight": false,
+          "start": 84.541,
+          "end": 85.101
+        }
+      ]
+    },
+    {
+      "start": 85.101,
+      "end": 85.901,
+      "words": [
+        {
+          "text": "convert",
+          "highlight": false,
+          "start": 85.101,
+          "end": 85.501
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 85.501,
+          "end": 85.581
+        },
+        {
+          "text": "mass",
+          "highlight": false,
+          "start": 85.581,
+          "end": 85.901
+        }
+      ]
+    },
+    {
+      "start": 85.901,
+      "end": 87.191,
+      "words": [
+        {
+          "text": "into",
+          "highlight": false,
+          "start": 85.901,
+          "end": 86.141
+        },
+        {
+          "text": "kilograms.",
+          "highlight": true,
+          "start": 86.141,
+          "end": 87.041
+        }
+      ]
+    },
+    {
+      "start": 87.421,
+      "end": 88.701,
+      "words": [
+        {
+          "text": "Ten",
+          "highlight": false,
+          "start": 87.421,
+          "end": 87.581
+        },
+        {
+          "text": "grams",
+          "highlight": false,
+          "start": 87.581,
+          "end": 88.141
+        },
+        {
+          "text": "is",
+          "highlight": false,
+          "start": 88.141,
+          "end": 88.701
+        }
+      ]
+    },
+    {
+      "start": 88.701,
+      "end": 88.701,
+      "words": [
+        {
+          "text": "zero",
+          "highlight": true,
+          "start": 88.701,
+          "end": 89.601
+        },
+        {
+          "text": "point",
+          "highlight": true,
+          "start": 88.701,
+          "end": 89.601
+        },
+        {
+          "text": "zero",
+          "highlight": true,
+          "start": 88.701,
+          "end": 89.601
+        }
+      ]
+    },
+    {
+      "start": 88.701,
+      "end": 91.031,
+      "words": [
+        {
+          "text": "one",
+          "highlight": true,
+          "start": 88.701,
+          "end": 89.601
+        },
+        {
+          "text": "kilograms.",
+          "highlight": true,
+          "start": 89.981,
+          "end": 90.881
+        }
+      ]
+    },
+    {
+      "start": 91.261,
+      "end": 91.821,
+      "words": [
+        {
+          "text": "This",
+          "highlight": false,
+          "start": 91.261,
+          "end": 91.421
+        },
+        {
+          "text": "is",
+          "highlight": false,
+          "start": 91.421,
+          "end": 91.661
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 91.661,
+          "end": 91.821
+        }
+      ]
+    },
+    {
+      "start": 91.821,
+      "end": 93.181,
+      "words": [
+        {
+          "text": "step",
+          "highlight": false,
+          "start": 91.821,
+          "end": 92.221
+        },
+        {
+          "text": "students",
+          "highlight": false,
+          "start": 92.221,
+          "end": 92.701
+        },
+        {
+          "text": "forget",
+          "highlight": false,
+          "start": 92.701,
+          "end": 93.181
+        }
+      ]
+    },
+    {
+      "start": 93.181,
+      "end": 94.167,
+      "words": [
+        {
+          "text": "most",
+          "highlight": false,
+          "start": 93.181,
+          "end": 93.421
+        },
+        {
+          "text": "often.",
+          "highlight": false,
+          "start": 93.421,
+          "end": 94.017
+        }
+      ]
+    },
+    {
+      "start": 94.267,
+      "end": 95.867,
+      "words": [
+        {
+          "text": "Kinetic",
+          "highlight": false,
+          "start": 94.267,
+          "end": 94.827
+        },
+        {
+          "text": "energy",
+          "highlight": false,
+          "start": 94.827,
+          "end": 95.467
+        },
+        {
+          "text": "equals",
+          "highlight": false,
+          "start": 95.467,
+          "end": 95.867
+        }
+      ]
+    },
+    {
+      "start": 95.867,
+      "end": 96.667,
+      "words": [
+        {
+          "text": "one",
+          "highlight": false,
+          "start": 95.867,
+          "end": 96.187
+        },
+        {
+          "text": "half",
+          "highlight": false,
+          "start": 96.187,
+          "end": 96.667
+        },
+        {
+          "text": "m",
+          "highlight": false,
+          "start": 96.667,
+          "end": 97.227
+        }
+      ]
+    },
+    {
+      "start": 96.667,
+      "end": 98.027,
+      "words": [
+        {
+          "text": "v",
+          "highlight": false,
+          "start": 96.667,
+          "end": 97.227
+        },
+        {
+          "text": "squared.",
+          "highlight": false,
+          "start": 97.227,
+          "end": 98.027
+        }
+      ]
+    },
+    {
+      "start": 98.027,
+      "end": 98.907,
+      "words": [
+        {
+          "text": "Pause",
+          "highlight": false,
+          "start": 98.027,
+          "end": 98.427
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 98.427,
+          "end": 98.587
+        },
+        {
+          "text": "video",
+          "highlight": false,
+          "start": 98.587,
+          "end": 98.907
+        }
+      ]
+    },
+    {
+      "start": 98.907,
+      "end": 99.851,
+      "words": [
+        {
+          "text": "and",
+          "highlight": false,
+          "start": 98.907,
+          "end": 99.147
+        },
+        {
+          "text": "try",
+          "highlight": false,
+          "start": 99.147,
+          "end": 99.387
+        },
+        {
+          "text": "it.",
+          "highlight": false,
+          "start": 99.387,
+          "end": 99.701
+        }
+      ]
+    },
+    {
+      "start": 105.111,
+      "end": 105.751,
+      "words": [
+        {
+          "text": "One",
+          "highlight": false,
+          "start": 105.111,
+          "end": 105.351
+        },
+        {
+          "text": "half,",
+          "highlight": false,
+          "start": 105.351,
+          "end": 105.751
+        }
+      ]
+    },
+    {
+      "start": 105.751,
+      "end": 106.311,
+      "words": [
+        {
+          "text": "times",
+          "highlight": false,
+          "start": 105.751,
+          "end": 106.311
+        },
+        {
+          "text": "zero",
+          "highlight": false,
+          "start": 106.311,
+          "end": 107.211
+        },
+        {
+          "text": "point",
+          "highlight": false,
+          "start": 106.311,
+          "end": 107.211
+        }
+      ]
+    },
+    {
+      "start": 106.311,
+      "end": 107.361,
+      "words": [
+        {
+          "text": "zero",
+          "highlight": false,
+          "start": 106.311,
+          "end": 107.211
+        },
+        {
+          "text": "one,",
+          "highlight": false,
+          "start": 106.311,
+          "end": 107.211
+        }
+      ]
+    },
+    {
+      "start": 107.831,
+      "end": 109.031,
+      "words": [
+        {
+          "text": "times",
+          "highlight": false,
+          "start": 107.831,
+          "end": 108.471
+        },
+        {
+          "text": "four",
+          "highlight": false,
+          "start": 108.471,
+          "end": 109.031
+        },
+        {
+          "text": "hundred",
+          "highlight": false,
+          "start": 108.471,
+          "end": 109.031
+        }
+      ]
+    },
+    {
+      "start": 109.031,
+      "end": 109.751,
+      "words": [
+        {
+          "text": "squared,",
+          "highlight": false,
+          "start": 109.031,
+          "end": 109.751
+        }
+      ]
+    },
+    {
+      "start": 109.751,
+      "end": 110.791,
+      "words": [
+        {
+          "text": "gives",
+          "highlight": false,
+          "start": 109.751,
+          "end": 110.231
+        },
+        {
+          "text": "eight",
+          "highlight": true,
+          "start": 110.231,
+          "end": 110.791
+        },
+        {
+          "text": "hundred",
+          "highlight": true,
+          "start": 110.231,
+          "end": 110.791
+        }
+      ]
+    },
+    {
+      "start": 110.791,
+      "end": 111.671,
+      "words": [
+        {
+          "text": "joules.",
+          "highlight": true,
+          "start": 110.791,
+          "end": 111.671
+        }
+      ]
+    },
+    {
+      "start": 111.671,
+      "end": 112.391,
+      "words": [
+        {
+          "text": "And",
+          "highlight": false,
+          "start": 111.671,
+          "end": 111.831
+        },
+        {
+          "text": "don't",
+          "highlight": false,
+          "start": 111.831,
+          "end": 112.151
+        },
+        {
+          "text": "forget",
+          "highlight": false,
+          "start": 112.151,
+          "end": 112.391
+        }
+      ]
+    },
+    {
+      "start": 112.391,
+      "end": 113.765,
+      "words": [
+        {
+          "text": "to",
+          "highlight": false,
+          "start": 112.391,
+          "end": 112.551
+        },
+        {
+          "text": "square",
+          "highlight": true,
+          "start": 112.551,
+          "end": 112.951
+        },
+        {
+          "text": "the",
+          "highlight": true,
+          "start": 112.951,
+          "end": 113.111
+        },
+        {
+          "text": "speed.",
+          "highlight": true,
+          "start": 113.111,
+          "end": 113.615
+        }
+      ]
+    },
+    {
+      "start": 113.865,
+      "end": 115.145,
+      "words": [
+        {
+          "text": "Example",
+          "highlight": false,
+          "start": 113.865,
+          "end": 114.665
+        },
+        {
+          "text": "two.",
+          "highlight": false,
+          "start": 114.665,
+          "end": 115.145
+        }
+      ]
+    },
+    {
+      "start": 115.145,
+      "end": 116.185,
+      "words": [
+        {
+          "text": "The",
+          "highlight": false,
+          "start": 115.145,
+          "end": 115.305
+        },
+        {
+          "text": "bullet",
+          "highlight": false,
+          "start": 115.305,
+          "end": 115.785
+        },
+        {
+          "text": "stops",
+          "highlight": false,
+          "start": 115.785,
+          "end": 116.185
+        }
+      ]
+    },
+    {
+      "start": 116.185,
+      "end": 117.225,
+      "words": [
+        {
+          "text": "after",
+          "highlight": false,
+          "start": 116.185,
+          "end": 116.425
+        },
+        {
+          "text": "travelling",
+          "highlight": false,
+          "start": 116.425,
+          "end": 117.065
+        },
+        {
+          "text": "eight",
+          "highlight": false,
+          "start": 117.065,
+          "end": 117.225
+        }
+      ]
+    },
+    {
+      "start": 117.225,
+      "end": 118.345,
+      "words": [
+        {
+          "text": "centimetres",
+          "highlight": false,
+          "start": 117.225,
+          "end": 118.025
+        },
+        {
+          "text": "into",
+          "highlight": false,
+          "start": 118.025,
+          "end": 118.185
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 118.185,
+          "end": 118.345
+        }
+      ]
+    },
+    {
+      "start": 118.345,
+      "end": 119.065,
+      "words": [
+        {
+          "text": "wood.",
+          "highlight": false,
+          "start": 118.345,
+          "end": 119.065
+        }
+      ]
+    },
+    {
+      "start": 119.065,
+      "end": 120.185,
+      "words": [
+        {
+          "text": "What",
+          "highlight": false,
+          "start": 119.065,
+          "end": 119.305
+        },
+        {
+          "text": "average",
+          "highlight": false,
+          "start": 119.305,
+          "end": 119.785
+        },
+        {
+          "text": "force",
+          "highlight": false,
+          "start": 119.785,
+          "end": 120.185
+        }
+      ]
+    },
+    {
+      "start": 120.185,
+      "end": 120.905,
+      "words": [
+        {
+          "text": "does",
+          "highlight": false,
+          "start": 120.185,
+          "end": 120.425
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 120.425,
+          "end": 120.585
+        },
+        {
+          "text": "wood",
+          "highlight": false,
+          "start": 120.585,
+          "end": 120.905
+        }
+      ]
+    },
+    {
+      "start": 120.905,
+      "end": 121.891,
+      "words": [
+        {
+          "text": "exert",
+          "highlight": false,
+          "start": 120.905,
+          "end": 121.305
+        },
+        {
+          "text": "on",
+          "highlight": false,
+          "start": 121.305,
+          "end": 121.465
+        },
+        {
+          "text": "it?",
+          "highlight": false,
+          "start": 121.465,
+          "end": 121.741
+        }
+      ]
+    },
+    {
+      "start": 121.991,
+      "end": 122.871,
+      "words": [
+        {
+          "text": "All",
+          "highlight": false,
+          "start": 121.991,
+          "end": 122.391
+        },
+        {
+          "text": "eight",
+          "highlight": true,
+          "start": 122.391,
+          "end": 122.871
+        },
+        {
+          "text": "hundred",
+          "highlight": true,
+          "start": 122.391,
+          "end": 122.871
+        }
+      ]
+    },
+    {
+      "start": 122.871,
+      "end": 123.911,
+      "words": [
+        {
+          "text": "joules",
+          "highlight": true,
+          "start": 122.871,
+          "end": 123.351
+        },
+        {
+          "text": "is",
+          "highlight": false,
+          "start": 123.351,
+          "end": 123.511
+        },
+        {
+          "text": "removed",
+          "highlight": false,
+          "start": 123.511,
+          "end": 123.911
+        }
+      ]
+    },
+    {
+      "start": 123.911,
+      "end": 125.031,
+      "words": [
+        {
+          "text": "by",
+          "highlight": false,
+          "start": 123.911,
+          "end": 124.151
+        },
+        {
+          "text": "work",
+          "highlight": true,
+          "start": 124.151,
+          "end": 124.471
+        },
+        {
+          "text": "done,",
+          "highlight": false,
+          "start": 124.471,
+          "end": 125.031
+        }
+      ]
+    },
+    {
+      "start": 125.031,
+      "end": 125.911,
+      "words": [
+        {
+          "text": "and",
+          "highlight": false,
+          "start": 125.031,
+          "end": 125.191
+        },
+        {
+          "text": "work",
+          "highlight": true,
+          "start": 125.191,
+          "end": 125.591
+        },
+        {
+          "text": "done",
+          "highlight": false,
+          "start": 125.591,
+          "end": 125.911
+        }
+      ]
+    },
+    {
+      "start": 125.911,
+      "end": 127.191,
+      "words": [
+        {
+          "text": "equals",
+          "highlight": false,
+          "start": 125.911,
+          "end": 126.311
+        },
+        {
+          "text": "force",
+          "highlight": false,
+          "start": 126.311,
+          "end": 126.791
+        },
+        {
+          "text": "times",
+          "highlight": false,
+          "start": 126.791,
+          "end": 127.191
+        }
+      ]
+    },
+    {
+      "start": 127.191,
+      "end": 128.241,
+      "words": [
+        {
+          "text": "distance.",
+          "highlight": false,
+          "start": 127.191,
+          "end": 128.091
+        }
+      ]
+    },
+    {
+      "start": 128.391,
+      "end": 129.911,
+      "words": [
+        {
+          "text": "Eight",
+          "highlight": false,
+          "start": 128.391,
+          "end": 128.551
+        },
+        {
+          "text": "centimetres",
+          "highlight": false,
+          "start": 128.551,
+          "end": 129.431
+        },
+        {
+          "text": "is",
+          "highlight": false,
+          "start": 129.431,
+          "end": 129.911
+        }
+      ]
+    },
+    {
+      "start": 129.911,
+      "end": 129.911,
+      "words": [
+        {
+          "text": "zero",
+          "highlight": true,
+          "start": 129.911,
+          "end": 130.811
+        },
+        {
+          "text": "point",
+          "highlight": true,
+          "start": 129.911,
+          "end": 130.811
+        },
+        {
+          "text": "zero",
+          "highlight": true,
+          "start": 129.911,
+          "end": 130.811
+        }
+      ]
+    },
+    {
+      "start": 129.911,
+      "end": 132.071,
+      "words": [
+        {
+          "text": "eight",
+          "highlight": true,
+          "start": 129.911,
+          "end": 130.811
+        },
+        {
+          "text": "metres.",
+          "highlight": true,
+          "start": 131.271,
+          "end": 132.071
+        }
+      ]
+    },
+    {
+      "start": 132.071,
+      "end": 133.505,
+      "words": [
+        {
+          "text": "Pause",
+          "highlight": false,
+          "start": 132.071,
+          "end": 132.551
+        },
+        {
+          "text": "and",
+          "highlight": false,
+          "start": 132.551,
+          "end": 132.791
+        },
+        {
+          "text": "try",
+          "highlight": false,
+          "start": 132.791,
+          "end": 133.031
+        },
+        {
+          "text": "it.",
+          "highlight": false,
+          "start": 133.031,
+          "end": 133.355
+        }
+      ]
+    },
+    {
+      "start": 138.605,
+      "end": 139.725,
+      "words": [
+        {
+          "text": "Force",
+          "highlight": false,
+          "start": 138.605,
+          "end": 139.165
+        },
+        {
+          "text": "equals",
+          "highlight": false,
+          "start": 139.165,
+          "end": 139.725
+        },
+        {
+          "text": "eight",
+          "highlight": true,
+          "start": 139.725,
+          "end": 140.205
+        }
+      ]
+    },
+    {
+      "start": 139.725,
+      "end": 141.085,
+      "words": [
+        {
+          "text": "hundred",
+          "highlight": true,
+          "start": 139.725,
+          "end": 140.205
+        },
+        {
+          "text": "joules,",
+          "highlight": true,
+          "start": 140.205,
+          "end": 141.085
+        }
+      ]
+    },
+    {
+      "start": 141.085,
+      "end": 142.045,
+      "words": [
+        {
+          "text": "divided",
+          "highlight": false,
+          "start": 141.085,
+          "end": 141.565
+        },
+        {
+          "text": "by",
+          "highlight": false,
+          "start": 141.565,
+          "end": 142.045
+        },
+        {
+          "text": "zero",
+          "highlight": true,
+          "start": 142.045,
+          "end": 142.945
+        }
+      ]
+    },
+    {
+      "start": 142.045,
+      "end": 143.095,
+      "words": [
+        {
+          "text": "point",
+          "highlight": true,
+          "start": 142.045,
+          "end": 142.945
+        },
+        {
+          "text": "zero",
+          "highlight": true,
+          "start": 142.045,
+          "end": 142.945
+        },
+        {
+          "text": "eight",
+          "highlight": true,
+          "start": 142.045,
+          "end": 142.945
+        }
+      ]
+    },
+    {
+      "start": 143.325,
+      "end": 144.285,
+      "words": [
+        {
+          "text": "metres.",
+          "highlight": true,
+          "start": 143.325,
+          "end": 144.225
+        }
+      ]
+    },
+    {
+      "start": 144.285,
+      "end": 145.245,
+      "words": [
+        {
+          "text": "That's",
+          "highlight": false,
+          "start": 144.285,
+          "end": 144.685
+        },
+        {
+          "text": "ten",
+          "highlight": true,
+          "start": 144.685,
+          "end": 145.245
+        },
+        {
+          "text": "thousand",
+          "highlight": true,
+          "start": 144.685,
+          "end": 145.245
+        }
+      ]
+    },
+    {
+      "start": 145.245,
+      "end": 146.084,
+      "words": [
+        {
+          "text": "newtons.",
+          "highlight": true,
+          "start": 145.245,
+          "end": 145.934
+        }
+      ]
+    },
+    {
+      "start": 146.184,
+      "end": 148.104,
+      "words": [
+        {
+          "text": "Now",
+          "highlight": false,
+          "start": 146.184,
+          "end": 146.584
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 146.584,
+          "end": 146.744
+        },
+        {
+          "text": "extended",
+          "highlight": false,
+          "start": 146.744,
+          "end": 147.464
+        },
+        {
+          "text": "part.",
+          "highlight": false,
+          "start": 147.464,
+          "end": 148.104
+        }
+      ]
+    },
+    {
+      "start": 148.104,
+      "end": 148.904,
+      "words": [
+        {
+          "text": "The",
+          "highlight": false,
+          "start": 148.104,
+          "end": 148.264
+        },
+        {
+          "text": "same",
+          "highlight": false,
+          "start": 148.264,
+          "end": 148.504
+        },
+        {
+          "text": "bullet",
+          "highlight": false,
+          "start": 148.504,
+          "end": 148.904
+        }
+      ]
+    },
+    {
+      "start": 148.904,
+      "end": 150.264,
+      "words": [
+        {
+          "text": "hits",
+          "highlight": false,
+          "start": 148.904,
+          "end": 149.224
+        },
+        {
+          "text": "a",
+          "highlight": false,
+          "start": 149.224,
+          "end": 149.464
+        },
+        {
+          "text": "two",
+          "highlight": false,
+          "start": 149.464,
+          "end": 150.264
+        }
+      ]
+    },
+    {
+      "start": 150.264,
+      "end": 151.144,
+      "words": [
+        {
+          "text": "kilogram",
+          "highlight": false,
+          "start": 150.264,
+          "end": 150.314
+        },
+        {
+          "text": "block",
+          "highlight": false,
+          "start": 150.264,
+          "end": 150.744
+        },
+        {
+          "text": "resting",
+          "highlight": false,
+          "start": 150.744,
+          "end": 151.144
+        }
+      ]
+    },
+    {
+      "start": 151.144,
+      "end": 152.824,
+      "words": [
+        {
+          "text": "on",
+          "highlight": false,
+          "start": 151.144,
+          "end": 151.304
+        },
+        {
+          "text": "a",
+          "highlight": false,
+          "start": 151.304,
+          "end": 151.464
+        },
+        {
+          "text": "smooth",
+          "highlight": false,
+          "start": 151.464,
+          "end": 151.944
+        },
+        {
+          "text": "surface.",
+          "highlight": false,
+          "start": 151.944,
+          "end": 152.824
+        }
+      ]
+    },
+    {
+      "start": 152.824,
+      "end": 153.784,
+      "words": [
+        {
+          "text": "It",
+          "highlight": false,
+          "start": 152.824,
+          "end": 152.984
+        },
+        {
+          "text": "embeds,",
+          "highlight": false,
+          "start": 152.984,
+          "end": 153.784
+        }
+      ]
+    },
+    {
+      "start": 153.784,
+      "end": 154.424,
+      "words": [
+        {
+          "text": "and",
+          "highlight": false,
+          "start": 153.784,
+          "end": 153.944
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 153.944,
+          "end": 154.024
+        },
+        {
+          "text": "bullet",
+          "highlight": false,
+          "start": 154.024,
+          "end": 154.424
+        }
+      ]
+    },
+    {
+      "start": 154.424,
+      "end": 155.384,
+      "words": [
+        {
+          "text": "and",
+          "highlight": false,
+          "start": 154.424,
+          "end": 154.584
+        },
+        {
+          "text": "block",
+          "highlight": false,
+          "start": 154.584,
+          "end": 154.984
+        },
+        {
+          "text": "slide",
+          "highlight": false,
+          "start": 154.984,
+          "end": 155.384
+        }
+      ]
+    },
+    {
+      "start": 155.384,
+      "end": 156.232,
+      "words": [
+        {
+          "text": "off",
+          "highlight": false,
+          "start": 155.384,
+          "end": 155.624
+        },
+        {
+          "text": "together.",
+          "highlight": false,
+          "start": 155.624,
+          "end": 156.082
+        }
+      ]
+    },
+    {
+      "start": 156.331,
+      "end": 158.171,
+      "words": [
+        {
+          "text": "Momentum",
+          "highlight": true,
+          "start": 156.331,
+          "end": 157.051
+        },
+        {
+          "text": "is",
+          "highlight": true,
+          "start": 157.051,
+          "end": 157.291
+        },
+        {
+          "text": "conserved.",
+          "highlight": true,
+          "start": 157.291,
+          "end": 158.171
+        }
+      ]
+    },
+    {
+      "start": 158.171,
+      "end": 158.651,
+      "words": [
+        {
+          "text": "So",
+          "highlight": false,
+          "start": 158.171,
+          "end": 158.651
+        },
+        {
+          "text": "zero",
+          "highlight": false,
+          "start": 158.651,
+          "end": 159.551
+        },
+        {
+          "text": "point",
+          "highlight": false,
+          "start": 158.651,
+          "end": 159.551
+        }
+      ]
+    },
+    {
+      "start": 158.651,
+      "end": 160.331,
+      "words": [
+        {
+          "text": "zero",
+          "highlight": false,
+          "start": 158.651,
+          "end": 159.551
+        },
+        {
+          "text": "one",
+          "highlight": false,
+          "start": 158.651,
+          "end": 159.551
+        },
+        {
+          "text": "times",
+          "highlight": false,
+          "start": 159.771,
+          "end": 160.331
+        }
+      ]
+    },
+    {
+      "start": 160.331,
+      "end": 161.691,
+      "words": [
+        {
+          "text": "four",
+          "highlight": false,
+          "start": 160.331,
+          "end": 160.971
+        },
+        {
+          "text": "hundred",
+          "highlight": false,
+          "start": 160.331,
+          "end": 160.971
+        },
+        {
+          "text": "equals",
+          "highlight": false,
+          "start": 160.971,
+          "end": 161.691
+        }
+      ]
+    },
+    {
+      "start": 161.691,
+      "end": 161.691,
+      "words": [
+        {
+          "text": "two",
+          "highlight": false,
+          "start": 161.691,
+          "end": 162.591
+        },
+        {
+          "text": "point",
+          "highlight": false,
+          "start": 161.691,
+          "end": 162.591
+        },
+        {
+          "text": "zero",
+          "highlight": false,
+          "start": 161.691,
+          "end": 162.591
+        }
+      ]
+    },
+    {
+      "start": 161.691,
+      "end": 164.091,
+      "words": [
+        {
+          "text": "one",
+          "highlight": false,
+          "start": 161.691,
+          "end": 162.591
+        },
+        {
+          "text": "times",
+          "highlight": false,
+          "start": 162.891,
+          "end": 163.371
+        },
+        {
+          "text": "v.",
+          "highlight": false,
+          "start": 163.371,
+          "end": 164.091
+        }
+      ]
+    },
+    {
+      "start": 164.091,
+      "end": 164.811,
+      "words": [
+        {
+          "text": "Pause,",
+          "highlight": false,
+          "start": 164.091,
+          "end": 164.811
+        }
+      ]
+    },
+    {
+      "start": 164.811,
+      "end": 165.966,
+      "words": [
+        {
+          "text": "and",
+          "highlight": false,
+          "start": 164.811,
+          "end": 165.051
+        },
+        {
+          "text": "find",
+          "highlight": false,
+          "start": 165.051,
+          "end": 165.371
+        },
+        {
+          "text": "v.",
+          "highlight": false,
+          "start": 165.371,
+          "end": 165.816
+        }
+      ]
+    },
+    {
+      "start": 171.306,
+      "end": 172.506,
+      "words": [
+        {
+          "text": "Four",
+          "highlight": false,
+          "start": 171.306,
+          "end": 171.466
+        },
+        {
+          "text": "kilogram",
+          "highlight": false,
+          "start": 171.466,
+          "end": 172.026
+        },
+        {
+          "text": "metres",
+          "highlight": false,
+          "start": 172.026,
+          "end": 172.506
+        }
+      ]
+    },
+    {
+      "start": 172.506,
+      "end": 173.466,
+      "words": [
+        {
+          "text": "per",
+          "highlight": false,
+          "start": 172.506,
+          "end": 172.746
+        },
+        {
+          "text": "second,",
+          "highlight": false,
+          "start": 172.746,
+          "end": 173.466
+        }
+      ]
+    },
+    {
+      "start": 173.466,
+      "end": 174.426,
+      "words": [
+        {
+          "text": "divided",
+          "highlight": false,
+          "start": 173.466,
+          "end": 174.026
+        },
+        {
+          "text": "by",
+          "highlight": false,
+          "start": 174.026,
+          "end": 174.426
+        },
+        {
+          "text": "two",
+          "highlight": false,
+          "start": 174.426,
+          "end": 175.326
+        }
+      ]
+    },
+    {
+      "start": 174.426,
+      "end": 175.476,
+      "words": [
+        {
+          "text": "point",
+          "highlight": false,
+          "start": 174.426,
+          "end": 175.326
+        },
+        {
+          "text": "zero",
+          "highlight": false,
+          "start": 174.426,
+          "end": 175.326
+        },
+        {
+          "text": "one",
+          "highlight": false,
+          "start": 174.426,
+          "end": 175.326
+        }
+      ]
+    },
+    {
+      "start": 175.706,
+      "end": 176.666,
+      "words": [
+        {
+          "text": "kilograms,",
+          "highlight": true,
+          "start": 175.706,
+          "end": 176.606
+        }
+      ]
+    },
+    {
+      "start": 176.666,
+      "end": 177.626,
+      "words": [
+        {
+          "text": "gives",
+          "highlight": false,
+          "start": 176.666,
+          "end": 177.146
+        },
+        {
+          "text": "about",
+          "highlight": false,
+          "start": 177.146,
+          "end": 177.626
+        },
+        {
+          "text": "one",
+          "highlight": true,
+          "start": 177.626,
+          "end": 178.526
+        }
+      ]
+    },
+    {
+      "start": 177.626,
+      "end": 178.676,
+      "words": [
+        {
+          "text": "point",
+          "highlight": true,
+          "start": 177.626,
+          "end": 178.526
+        },
+        {
+          "text": "nine",
+          "highlight": true,
+          "start": 177.626,
+          "end": 178.526
+        },
+        {
+          "text": "nine",
+          "highlight": true,
+          "start": 177.626,
+          "end": 178.526
+        }
+      ]
+    },
+    {
+      "start": 178.746,
+      "end": 180.055,
+      "words": [
+        {
+          "text": "metres",
+          "highlight": true,
+          "start": 178.746,
+          "end": 179.226
+        },
+        {
+          "text": "per",
+          "highlight": true,
+          "start": 179.226,
+          "end": 179.466
+        },
+        {
+          "text": "second.",
+          "highlight": true,
+          "start": 179.466,
+          "end": 179.905
+        }
+      ]
+    },
+    {
+      "start": 180.155,
+      "end": 181.115,
+      "words": [
+        {
+          "text": "Now",
+          "highlight": false,
+          "start": 180.155,
+          "end": 180.475
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 180.475,
+          "end": 180.635
+        },
+        {
+          "text": "kinetic",
+          "highlight": false,
+          "start": 180.635,
+          "end": 181.115
+        }
+      ]
+    },
+    {
+      "start": 181.115,
+      "end": 181.995,
+      "words": [
+        {
+          "text": "energy",
+          "highlight": false,
+          "start": 181.115,
+          "end": 181.595
+        },
+        {
+          "text": "afterwards:",
+          "highlight": false,
+          "start": 181.595,
+          "end": 181.995
+        }
+      ]
+    },
+    {
+      "start": 181.995,
+      "end": 183.435,
+      "words": [
+        {
+          "text": "one",
+          "highlight": false,
+          "start": 181.995,
+          "end": 182.395
+        },
+        {
+          "text": "half,",
+          "highlight": false,
+          "start": 182.795,
+          "end": 183.435
+        }
+      ]
+    },
+    {
+      "start": 183.435,
+      "end": 183.915,
+      "words": [
+        {
+          "text": "times",
+          "highlight": false,
+          "start": 183.435,
+          "end": 183.915
+        },
+        {
+          "text": "two",
+          "highlight": false,
+          "start": 183.915,
+          "end": 184.815
+        },
+        {
+          "text": "point",
+          "highlight": false,
+          "start": 183.915,
+          "end": 184.815
+        }
+      ]
+    },
+    {
+      "start": 183.915,
+      "end": 184.965,
+      "words": [
+        {
+          "text": "zero",
+          "highlight": false,
+          "start": 183.915,
+          "end": 184.815
+        },
+        {
+          "text": "one,",
+          "highlight": false,
+          "start": 183.915,
+          "end": 184.815
+        }
+      ]
+    },
+    {
+      "start": 185.435,
+      "end": 185.995,
+      "words": [
+        {
+          "text": "times",
+          "highlight": false,
+          "start": 185.435,
+          "end": 185.995
+        },
+        {
+          "text": "one",
+          "highlight": false,
+          "start": 185.995,
+          "end": 186.895
+        },
+        {
+          "text": "point",
+          "highlight": false,
+          "start": 185.995,
+          "end": 186.895
+        }
+      ]
+    },
+    {
+      "start": 185.995,
+      "end": 188.075,
+      "words": [
+        {
+          "text": "nine",
+          "highlight": false,
+          "start": 185.995,
+          "end": 186.895
+        },
+        {
+          "text": "nine",
+          "highlight": false,
+          "start": 185.995,
+          "end": 186.895
+        },
+        {
+          "text": "squared.",
+          "highlight": false,
+          "start": 187.195,
+          "end": 188.075
+        }
+      ]
+    },
+    {
+      "start": 188.075,
+      "end": 189.195,
+      "words": [
+        {
+          "text": "That's",
+          "highlight": false,
+          "start": 188.075,
+          "end": 188.555
+        },
+        {
+          "text": "only",
+          "highlight": false,
+          "start": 188.555,
+          "end": 188.715
+        },
+        {
+          "text": "about",
+          "highlight": false,
+          "start": 188.715,
+          "end": 189.195
+        }
+      ]
+    },
+    {
+      "start": 189.195,
+      "end": 190.17,
+      "words": [
+        {
+          "text": "four",
+          "highlight": true,
+          "start": 189.195,
+          "end": 189.355
+        },
+        {
+          "text": "joules.",
+          "highlight": true,
+          "start": 189.355,
+          "end": 190.02
+        }
+      ]
+    },
+    {
+      "start": 190.51,
+      "end": 191.55,
+      "words": [
+        {
+          "text": "Eight",
+          "highlight": true,
+          "start": 190.51,
+          "end": 190.91
+        },
+        {
+          "text": "hundred",
+          "highlight": true,
+          "start": 190.51,
+          "end": 190.91
+        },
+        {
+          "text": "joules",
+          "highlight": true,
+          "start": 190.91,
+          "end": 191.55
+        }
+      ]
+    },
+    {
+      "start": 191.55,
+      "end": 192.27,
+      "words": [
+        {
+          "text": "before.",
+          "highlight": false,
+          "start": 191.55,
+          "end": 192.27
+        }
+      ]
+    },
+    {
+      "start": 192.27,
+      "end": 193.55,
+      "words": [
+        {
+          "text": "About",
+          "highlight": false,
+          "start": 192.27,
+          "end": 192.67
+        },
+        {
+          "text": "four",
+          "highlight": true,
+          "start": 192.67,
+          "end": 192.91
+        },
+        {
+          "text": "joules",
+          "highlight": true,
+          "start": 192.91,
+          "end": 193.55
+        }
+      ]
+    },
+    {
+      "start": 193.55,
+      "end": 194.19,
+      "words": [
+        {
+          "text": "after.",
+          "highlight": false,
+          "start": 193.55,
+          "end": 194.19
+        }
+      ]
+    },
+    {
+      "start": 194.19,
+      "end": 194.75,
+      "words": [
+        {
+          "text": "Around",
+          "highlight": false,
+          "start": 194.19,
+          "end": 194.75
+        },
+        {
+          "text": "seven",
+          "highlight": true,
+          "start": 194.75,
+          "end": 195.65
+        },
+        {
+          "text": "hundred",
+          "highlight": true,
+          "start": 194.75,
+          "end": 195.65
+        }
+      ]
+    },
+    {
+      "start": 194.75,
+      "end": 195.8,
+      "words": [
+        {
+          "text": "and",
+          "highlight": true,
+          "start": 194.75,
+          "end": 195.65
+        },
+        {
+          "text": "ninety",
+          "highlight": true,
+          "start": 194.75,
+          "end": 195.65
+        },
+        {
+          "text": "six",
+          "highlight": true,
+          "start": 194.75,
+          "end": 195.65
+        }
+      ]
+    },
+    {
+      "start": 196.03,
+      "end": 197.15,
+      "words": [
+        {
+          "text": "joules",
+          "highlight": true,
+          "start": 196.03,
+          "end": 196.51
+        },
+        {
+          "text": "of",
+          "highlight": false,
+          "start": 196.51,
+          "end": 196.67
+        },
+        {
+          "text": "kinetic",
+          "highlight": false,
+          "start": 196.67,
+          "end": 197.15
+        }
+      ]
+    },
+    {
+      "start": 197.15,
+      "end": 198.59,
+      "words": [
+        {
+          "text": "energy",
+          "highlight": false,
+          "start": 197.15,
+          "end": 197.63
+        },
+        {
+          "text": "have",
+          "highlight": false,
+          "start": 197.63,
+          "end": 197.87
+        },
+        {
+          "text": "gone.",
+          "highlight": false,
+          "start": 197.87,
+          "end": 198.59
+        }
+      ]
+    },
+    {
+      "start": 198.59,
+      "end": 199.95,
+      "words": [
+        {
+          "text": "Kinetic",
+          "highlight": false,
+          "start": 198.59,
+          "end": 199.15
+        },
+        {
+          "text": "energy",
+          "highlight": false,
+          "start": 199.15,
+          "end": 199.79
+        },
+        {
+          "text": "is",
+          "highlight": false,
+          "start": 199.79,
+          "end": 199.95
+        }
+      ]
+    },
+    {
+      "start": 199.95,
+      "end": 201.24,
+      "words": [
+        {
+          "text": "not",
+          "highlight": true,
+          "start": 199.95,
+          "end": 200.19
+        },
+        {
+          "text": "conserved.",
+          "highlight": true,
+          "start": 200.19,
+          "end": 201.09
+        }
+      ]
+    },
+    {
+      "start": 201.31,
+      "end": 201.95,
+      "words": [
+        {
+          "text": "This",
+          "highlight": false,
+          "start": 201.31,
+          "end": 201.47
+        },
+        {
+          "text": "is",
+          "highlight": false,
+          "start": 201.47,
+          "end": 201.71
+        },
+        {
+          "text": "an",
+          "highlight": false,
+          "start": 201.71,
+          "end": 201.95
+        }
+      ]
+    },
+    {
+      "start": 201.95,
+      "end": 203.465,
+      "words": [
+        {
+          "text": "inelastic",
+          "highlight": true,
+          "start": 201.95,
+          "end": 202.67
+        },
+        {
+          "text": "collision.",
+          "highlight": true,
+          "start": 202.67,
+          "end": 203.315
+        }
+      ]
+    },
+    {
+      "start": 203.565,
+      "end": 204.205,
+      "words": [
+        {
+          "text": "So",
+          "highlight": false,
+          "start": 203.565,
+          "end": 203.885
+        },
+        {
+          "text": "where",
+          "highlight": true,
+          "start": 203.885,
+          "end": 204.045
+        },
+        {
+          "text": "did",
+          "highlight": false,
+          "start": 204.045,
+          "end": 204.205
+        }
+      ]
+    },
+    {
+      "start": 204.205,
+      "end": 204.845,
+      "words": [
+        {
+          "text": "it",
+          "highlight": false,
+          "start": 204.205,
+          "end": 204.365
+        },
+        {
+          "text": "go?",
+          "highlight": false,
+          "start": 204.365,
+          "end": 204.845
+        }
+      ]
+    },
+    {
+      "start": 204.845,
+      "end": 205.725,
+      "words": [
+        {
+          "text": "Into",
+          "highlight": false,
+          "start": 204.845,
+          "end": 205.085
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 205.085,
+          "end": 205.245
+        },
+        {
+          "text": "thermal",
+          "highlight": true,
+          "start": 205.245,
+          "end": 205.725
+        }
+      ]
+    },
+    {
+      "start": 205.725,
+      "end": 206.285,
+      "words": [
+        {
+          "text": "store",
+          "highlight": true,
+          "start": 205.725,
+          "end": 206.045
+        },
+        {
+          "text": "of",
+          "highlight": false,
+          "start": 206.045,
+          "end": 206.125
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 206.125,
+          "end": 206.285
+        }
+      ]
+    },
+    {
+      "start": 206.285,
+      "end": 207.565,
+      "words": [
+        {
+          "text": "bullet",
+          "highlight": false,
+          "start": 206.285,
+          "end": 206.685
+        },
+        {
+          "text": "and",
+          "highlight": false,
+          "start": 206.685,
+          "end": 206.845
+        },
+        {
+          "text": "block,",
+          "highlight": false,
+          "start": 206.845,
+          "end": 207.565
+        }
+      ]
+    },
+    {
+      "start": 207.565,
+      "end": 208.525,
+      "words": [
+        {
+          "text": "into",
+          "highlight": false,
+          "start": 207.565,
+          "end": 207.805
+        },
+        {
+          "text": "sound,",
+          "highlight": true,
+          "start": 207.805,
+          "end": 208.525
+        }
+      ]
+    },
+    {
+      "start": 208.525,
+      "end": 209.565,
+      "words": [
+        {
+          "text": "and",
+          "highlight": false,
+          "start": 208.525,
+          "end": 208.685
+        },
+        {
+          "text": "into",
+          "highlight": false,
+          "start": 208.685,
+          "end": 208.925
+        },
+        {
+          "text": "deforming",
+          "highlight": true,
+          "start": 208.925,
+          "end": 209.565
+        }
+      ]
+    },
+    {
+      "start": 209.565,
+      "end": 210.445,
+      "words": [
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 209.565,
+          "end": 209.725
+        },
+        {
+          "text": "wood.",
+          "highlight": false,
+          "start": 209.725,
+          "end": 210.445
+        }
+      ]
+    },
+    {
+      "start": 210.445,
+      "end": 212.205,
+      "words": [
+        {
+          "text": "Momentum",
+          "highlight": true,
+          "start": 210.445,
+          "end": 211.165
+        },
+        {
+          "text": "is",
+          "highlight": true,
+          "start": 211.165,
+          "end": 211.325
+        },
+        {
+          "text": "conserved,",
+          "highlight": true,
+          "start": 211.325,
+          "end": 212.205
+        }
+      ]
+    },
+    {
+      "start": 212.205,
+      "end": 213.405,
+      "words": [
+        {
+          "text": "but",
+          "highlight": false,
+          "start": 212.205,
+          "end": 212.365
+        },
+        {
+          "text": "kinetic",
+          "highlight": false,
+          "start": 212.365,
+          "end": 212.925
+        },
+        {
+          "text": "energy",
+          "highlight": false,
+          "start": 212.925,
+          "end": 213.405
+        }
+      ]
+    },
+    {
+      "start": 213.405,
+      "end": 214.207,
+      "words": [
+        {
+          "text": "is",
+          "highlight": false,
+          "start": 213.405,
+          "end": 213.645
+        },
+        {
+          "text": "not.",
+          "highlight": false,
+          "start": 213.645,
+          "end": 214.057
+        }
+      ]
+    },
+    {
+      "start": 214.307,
+      "end": 215.107,
+      "words": [
+        {
+          "text": "Watch",
+          "highlight": false,
+          "start": 214.307,
+          "end": 214.707
+        },
+        {
+          "text": "out",
+          "highlight": false,
+          "start": 214.707,
+          "end": 214.867
+        },
+        {
+          "text": "for",
+          "highlight": false,
+          "start": 214.867,
+          "end": 215.107
+        }
+      ]
+    },
+    {
+      "start": 215.107,
+      "end": 216.947,
+      "words": [
+        {
+          "text": "four",
+          "highlight": false,
+          "start": 215.107,
+          "end": 215.347
+        },
+        {
+          "text": "classic",
+          "highlight": false,
+          "start": 215.347,
+          "end": 215.907
+        },
+        {
+          "text": "mistakes.",
+          "highlight": false,
+          "start": 215.907,
+          "end": 216.807
+        }
+      ]
+    },
+    {
+      "start": 216.947,
+      "end": 218.147,
+      "words": [
+        {
+          "text": "Saying",
+          "highlight": false,
+          "start": 216.947,
+          "end": 217.347
+        },
+        {
+          "text": "energy",
+          "highlight": false,
+          "start": 217.347,
+          "end": 217.907
+        },
+        {
+          "text": "is",
+          "highlight": false,
+          "start": 217.907,
+          "end": 218.147
+        }
+      ]
+    },
+    {
+      "start": 218.147,
+      "end": 219.187,
+      "words": [
+        {
+          "text": "destroyed.",
+          "highlight": true,
+          "start": 218.147,
+          "end": 219.047
+        }
+      ]
+    },
+    {
+      "start": 219.187,
+      "end": 220.307,
+      "words": [
+        {
+          "text": "Forgetting",
+          "highlight": false,
+          "start": 219.187,
+          "end": 219.747
+        },
+        {
+          "text": "to",
+          "highlight": false,
+          "start": 219.747,
+          "end": 219.907
+        },
+        {
+          "text": "square",
+          "highlight": true,
+          "start": 219.907,
+          "end": 220.307
+        }
+      ]
+    },
+    {
+      "start": 220.307,
+      "end": 221.027,
+      "words": [
+        {
+          "text": "v.",
+          "highlight": true,
+          "start": 220.307,
+          "end": 221.027
+        }
+      ]
+    },
+    {
+      "start": 221.027,
+      "end": 222.147,
+      "words": [
+        {
+          "text": "Not",
+          "highlight": false,
+          "start": 221.027,
+          "end": 221.267
+        },
+        {
+          "text": "converting",
+          "highlight": false,
+          "start": 221.267,
+          "end": 221.747
+        },
+        {
+          "text": "grams",
+          "highlight": true,
+          "start": 221.747,
+          "end": 222.147
+        }
+      ]
+    },
+    {
+      "start": 222.147,
+      "end": 223.357,
+      "words": [
+        {
+          "text": "to",
+          "highlight": true,
+          "start": 222.147,
+          "end": 222.307
+        },
+        {
+          "text": "kilograms.",
+          "highlight": true,
+          "start": 222.307,
+          "end": 223.207
+        }
+      ]
+    },
+    {
+      "start": 223.427,
+      "end": 224.547,
+      "words": [
+        {
+          "text": "And",
+          "highlight": false,
+          "start": 223.427,
+          "end": 223.587
+        },
+        {
+          "text": "assuming",
+          "highlight": false,
+          "start": 223.587,
+          "end": 224.067
+        },
+        {
+          "text": "kinetic",
+          "highlight": false,
+          "start": 224.067,
+          "end": 224.547
+        }
+      ]
+    },
+    {
+      "start": 224.547,
+      "end": 225.987,
+      "words": [
+        {
+          "text": "energy",
+          "highlight": false,
+          "start": 224.547,
+          "end": 225.107
+        },
+        {
+          "text": "is",
+          "highlight": false,
+          "start": 225.107,
+          "end": 225.267
+        },
+        {
+          "text": "conserved",
+          "highlight": false,
+          "start": 225.267,
+          "end": 225.987
+        }
+      ]
+    },
+    {
+      "start": 225.987,
+      "end": 226.787,
+      "words": [
+        {
+          "text": "when",
+          "highlight": false,
+          "start": 225.987,
+          "end": 226.227
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 226.227,
+          "end": 226.387
+        },
+        {
+          "text": "bullet",
+          "highlight": false,
+          "start": 226.387,
+          "end": 226.787
+        }
+      ]
+    },
+    {
+      "start": 226.787,
+      "end": 227.6,
+      "words": [
+        {
+          "text": "embeds.",
+          "highlight": false,
+          "start": 226.787,
+          "end": 227.45
+        }
+      ]
+    },
+    {
+      "start": 227.7,
+      "end": 229.22,
+      "words": [
+        {
+          "text": "Now",
+          "highlight": false,
+          "start": 227.7,
+          "end": 228.02
+        },
+        {
+          "text": "it's",
+          "highlight": false,
+          "start": 228.02,
+          "end": 228.34
+        },
+        {
+          "text": "your",
+          "highlight": false,
+          "start": 228.34,
+          "end": 228.5
+        },
+        {
+          "text": "turn.",
+          "highlight": false,
+          "start": 228.5,
+          "end": 229.22
+        }
+      ]
+    },
+    {
+      "start": 229.22,
+      "end": 230.02,
+      "words": [
+        {
+          "text": "Try",
+          "highlight": false,
+          "start": 229.22,
+          "end": 229.54
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 229.54,
+          "end": 229.7
+        },
+        {
+          "text": "three",
+          "highlight": false,
+          "start": 229.7,
+          "end": 230.02
+        }
+      ]
+    },
+    {
+      "start": 230.02,
+      "end": 231.38,
+      "words": [
+        {
+          "text": "exam",
+          "highlight": false,
+          "start": 230.02,
+          "end": 230.92
+        },
+        {
+          "text": "style",
+          "highlight": false,
+          "start": 230.02,
+          "end": 230.92
+        },
+        {
+          "text": "questions",
+          "highlight": false,
+          "start": 230.98,
+          "end": 231.38
+        }
+      ]
+    },
+    {
+      "start": 231.38,
+      "end": 232.26,
+      "words": [
+        {
+          "text": "on",
+          "highlight": false,
+          "start": 231.38,
+          "end": 231.62
+        },
+        {
+          "text": "screen,",
+          "highlight": false,
+          "start": 231.62,
+          "end": 232.26
+        }
+      ]
+    },
+    {
+      "start": 232.26,
+      "end": 232.98,
+      "words": [
+        {
+          "text": "then",
+          "highlight": false,
+          "start": 232.26,
+          "end": 232.5
+        },
+        {
+          "text": "check",
+          "highlight": false,
+          "start": 232.5,
+          "end": 232.82
+        },
+        {
+          "text": "your",
+          "highlight": false,
+          "start": 232.82,
+          "end": 232.98
+        }
+      ]
+    },
+    {
+      "start": 232.98,
+      "end": 233.7,
+      "words": [
+        {
+          "text": "answers",
+          "highlight": false,
+          "start": 232.98,
+          "end": 233.38
+        },
+        {
+          "text": "with",
+          "highlight": false,
+          "start": 233.38,
+          "end": 233.54
+        },
+        {
+          "text": "the",
+          "highlight": false,
+          "start": 233.54,
+          "end": 233.7
+        }
+      ]
+    },
+    {
+      "start": 233.7,
+      "end": 234.74,
+      "words": [
+        {
+          "text": "mark",
+          "highlight": true,
+          "start": 233.7,
+          "end": 234.1
+        },
+        {
+          "text": "scheme.",
+          "highlight": true,
+          "start": 234.1,
+          "end": 234.74
+        }
+      ]
+    },
+    {
+      "start": 234.74,
+      "end": 235.89,
+      "words": [
+        {
+          "text": "You've",
+          "highlight": false,
+          "start": 234.74,
+          "end": 235.06
+        },
+        {
+          "text": "got",
+          "highlight": false,
+          "start": 235.06,
+          "end": 235.3
+        },
+        {
+          "text": "this.",
+          "highlight": false,
+          "start": 235.3,
+          "end": 235.74
+        }
+      ]
+    }
+  ],
+  "showCaptions": true,
+  "transitionFrames": 12,
+  "stage": "wide"
+}

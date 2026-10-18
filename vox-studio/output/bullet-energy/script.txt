@@ -1,0 +1,23 @@
+A bullet is moving at four hundred metres per second. A tenth of a second later, it has stopped dead inside a block of wood. So where did all that energy go?
+Pause the video, and make your guess.
+Let's follow the energy. When the bullet is fired, energy in the chemical store of the gunpowder is transferred to the kinetic energy store of the bullet.
+As it flies, a little energy is transferred to the surroundings by air resistance.
+Then it hits the wood. The wood pushes back with a large force, and that force does work on the bullet, emptying its kinetic store.
+That energy ends up in the thermal energy store of the bullet and the wood, as sound, and in splitting and deforming the wood.
+None of it is destroyed. That's the principle of conservation of energy. But the energy has been dissipated: spread out into the surroundings, where it can't easily be used again.
+Here's the whole journey as an energy flow diagram. The width of each arrow shows how much energy goes that way. The useful share that reaches the bullet's kinetic store, divided by the total input, is the efficiency.
+Now let's put numbers on it. Example one: find the kinetic energy of a ten gram bullet moving at four hundred metres per second.
+First, convert the mass into kilograms. Ten grams is zero point zero one kilograms. This is the step students forget most often.
+Kinetic energy equals one half m v squared. Pause the video and try it.
+One half, times zero point zero one, times four hundred squared, gives eight hundred joules. And don't forget to square the speed.
+Example two. The bullet stops after travelling eight centimetres into the wood. What average force does the wood exert on it?
+All eight hundred joules is removed by work done, and work done equals force times distance. Eight centimetres is zero point zero eight metres. Pause and try it.
+Force equals eight hundred joules, divided by zero point zero eight metres. That's ten thousand newtons.
+Now the extended part. The same bullet hits a two kilogram block resting on a smooth surface. It embeds, and the bullet and block slide off together.
+Momentum is conserved. So zero point zero one times four hundred equals two point zero one times v. Pause, and find v.
+Four kilogram metres per second, divided by two point zero one kilograms, gives about one point nine nine metres per second.
+Now the kinetic energy afterwards: one half, times two point zero one, times one point nine nine squared. That's only about four joules.
+Eight hundred joules before. About four joules after. Around seven hundred and ninety six joules of kinetic energy have gone. Kinetic energy is not conserved. This is an inelastic collision.
+So where did it go? Into the thermal store of the bullet and block, into sound, and into deforming the wood. Momentum is conserved, but kinetic energy is not.
+Watch out for four classic mistakes. Saying energy is destroyed. Forgetting to square v. Not converting grams to kilograms. And assuming kinetic energy is conserved when the bullet embeds.
+Now it's your turn. Try the three exam style questions on screen, then check your answers with the mark scheme. You've got this.

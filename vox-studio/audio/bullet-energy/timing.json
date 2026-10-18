@@ -1,0 +1,4534 @@
+{
+  "duration": 237.34,
+  "speechEnd": 235.74,
+  "alignment": {
+    "engine": "parakeet-tdt-0.6b-v2-int8 (sherpa-onnx)",
+    "wordCoverage": 0.9946
+  },
+  "beats": [
+    {
+      "id": 1,
+      "start": 0.35,
+      "end": 10.215,
+      "text": "A bullet is moving at four hundred metres per second. A tenth of a second later, it has stopped dead inside a block of wood. So where did all that energy go?"
+    },
+    {
+      "id": 2,
+      "start": 10.515,
+      "end": 12.707,
+      "text": "Pause the video, and make your guess."
+    },
+    {
+      "id": 3,
+      "start": 17.007,
+      "end": 26.694,
+      "text": "Let's follow the energy. When the bullet is fired, energy in the chemical store of the gunpowder is transferred to the kinetic energy store of the bullet."
+    },
+    {
+      "id": 4,
+      "start": 26.994,
+      "end": 32.584,
+      "text": "As it flies, a little energy is transferred to the surroundings by air resistance."
+    },
+    {
+      "id": 5,
+      "start": 32.884,
+      "end": 40.999,
+      "text": "Then it hits the wood. The wood pushes back with a large force, and that force does work on the bullet, emptying its kinetic store."
+    },
+    {
+      "id": 6,
+      "start": 41.299,
+      "end": 49.184,
+      "text": "That energy ends up in the thermal energy store of the bullet and the wood, as sound, and in splitting and deforming the wood."
+    },
+    {
+      "id": 7,
+      "start": 49.484,
+      "end": 60.748,
+      "text": "None of it is destroyed. That's the principle of conservation of energy. But the energy has been dissipated: spread out into the surroundings, where it can't easily be used again."
+    },
+    {
+      "id": 8,
+      "start": 61.048,
+      "end": 75.151,
+      "text": "Here's the whole journey as an energy flow diagram. The width of each arrow shows how much energy goes that way. The useful share that reaches the bullet's kinetic store, divided by the total input, is the efficiency."
+    },
+    {
+      "id": 9,
+      "start": 75.451,
+      "end": 84.291,
+      "text": "Now let's put numbers on it. Example one: find the kinetic energy of a ten gram bullet moving at four hundred metres per second."
+    },
+    {
+      "id": 10,
+      "start": 84.591,
+      "end": 94.017,
+      "text": "First, convert the mass into kilograms. Ten grams is zero point zero one kilograms. This is the step students forget most often."
+    },
+    {
+      "id": 11,
+      "start": 94.317,
+      "end": 99.701,
+      "text": "Kinetic energy equals one half m v squared. Pause the video and try it."
+    },
+    {
+      "id": 12,
+      "start": 105.001,
+      "end": 113.615,
+      "text": "One half, times zero point zero one, times four hundred squared, gives eight hundred joules. And don't forget to square the speed."
+    },
+    {
+      "id": 13,
+      "start": 113.915,
+      "end": 121.741,
+      "text": "Example two. The bullet stops after travelling eight centimetres into the wood. What average force does the wood exert on it?"
+    },
+    {
+      "id": 14,
+      "start": 122.041,
+      "end": 133.355,
+      "text": "All eight hundred joules is removed by work done, and work done equals force times distance. Eight centimetres is zero point zero eight metres. Pause and try it."
+    },
+    {
+      "id": 15,
+      "start": 138.655,
+      "end": 145.934,
+      "text": "Force equals eight hundred joules, divided by zero point zero eight metres. That's ten thousand newtons."
+    },
+    {
+      "id": 16,
+      "start": 146.234,
+      "end": 156.082,
+      "text": "Now the extended part. The same bullet hits a two kilogram block resting on a smooth surface. It embeds, and the bullet and block slide off together."
+    },
+    {
+      "id": 17,
+      "start": 156.381,
+      "end": 165.816,
+      "text": "Momentum is conserved. So zero point zero one times four hundred equals two point zero one times v. Pause, and find v."
+    },
+    {
+      "id": 18,
+      "start": 171.116,
+      "end": 179.905,
+      "text": "Four kilogram metres per second, divided by two point zero one kilograms, gives about one point nine nine metres per second."
+    },
+    {
+      "id": 19,
+      "start": 180.205,
+      "end": 190.02,
+      "text": "Now the kinetic energy afterwards: one half, times two point zero one, times one point nine nine squared. That's only about four joules."
+    },
+    {
+      "id": 20,
+      "start": 190.32,
+      "end": 203.315,
+      "text": "Eight hundred joules before. About four joules after. Around seven hundred and ninety six joules of kinetic energy have gone. Kinetic energy is not conserved. This is an inelastic collision."
+    },
+    {
+      "id": 21,
+      "start": 203.615,
+      "end": 214.057,
+      "text": "So where did it go? Into the thermal store of the bullet and block, into sound, and into deforming the wood. Momentum is conserved, but kinetic energy is not."
+    },
+    {
+      "id": 22,
+      "start": 214.357,
+      "end": 227.45,
+      "text": "Watch out for four classic mistakes. Saying energy is destroyed. Forgetting to square v. Not converting grams to kilograms. And assuming kinetic energy is conserved when the bullet embeds."
+    },
+    {
+      "id": 23,
+      "start": 227.75,
+      "end": 235.74,
+      "text": "Now it's your turn. Try the three exam style questions on screen, then check your answers with the mark scheme. You've got this."
+    }
+  ],
+  "words": [
+    {
+      "text": "A",
+      "beat": 1,
+      "start": 0.3,
+      "end": 0.54,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "bullet",
+      "beat": 1,
+      "start": 0.54,
+      "end": 0.94,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "is",
+      "beat": 1,
+      "start": 0.94,
+      "end": 1.1,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "moving",
+      "beat": 1,
+      "start": 1.1,
+      "end": 1.5,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "at",
+      "beat": 1,
+      "start": 1.5,
+      "end": 1.9,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "four",
+      "beat": 1,
+      "start": 1.9,
+      "end": 2.54,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "hundred",
+      "beat": 1,
+      "start": 1.9,
+      "end": 2.54,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "metres",
+      "beat": 1,
+      "start": 2.54,
+      "end": 3.02,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "per",
+      "beat": 1,
+      "start": 3.02,
+      "end": 3.26,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "second.",
+      "beat": 1,
+      "start": 3.26,
+      "end": 3.98,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "A",
+      "beat": 1,
+      "start": 3.98,
+      "end": 4.14,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "tenth",
+      "beat": 1,
+      "start": 4.14,
+      "end": 4.54,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "of",
+      "beat": 1,
+      "start": 4.54,
+      "end": 4.7,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "a",
+      "beat": 1,
+      "start": 4.7,
+      "end": 4.78,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "second",
+      "beat": 1,
+      "start": 4.78,
+      "end": 5.1,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "later,",
+      "beat": 1,
+      "start": 5.1,
+      "end": 5.66,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "it",
+      "beat": 1,
+      "start": 5.66,
+      "end": 5.82,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "has",
+      "beat": 1,
+      "start": 5.82,
+      "end": 5.98,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "stopped",
+      "beat": 1,
+      "start": 5.98,
+      "end": 6.46,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "dead",
+      "beat": 1,
+      "start": 6.46,
+      "end": 6.78,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "inside",
+      "beat": 1,
+      "start": 6.78,
+      "end": 7.18,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "a",
+      "beat": 1,
+      "start": 7.18,
+      "end": 7.34,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "block",
+      "beat": 1,
+      "start": 7.34,
+      "end": 7.66,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "of",
+      "beat": 1,
+      "start": 7.66,
+      "end": 7.82,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "wood.",
+      "beat": 1,
+      "start": 7.82,
+      "end": 8.38,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "So",
+      "beat": 1,
+      "start": 8.38,
+      "end": 8.62,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "where",
+      "beat": 1,
+      "start": 8.62,
+      "end": 8.86,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "did",
+      "beat": 1,
+      "start": 8.86,
+      "end": 9.02,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "all",
+      "beat": 1,
+      "start": 9.02,
+      "end": 9.18,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "that",
+      "beat": 1,
+      "start": 9.18,
+      "end": 9.34,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "energy",
+      "beat": 1,
+      "start": 9.34,
+      "end": 9.82,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "go?",
+      "beat": 1,
+      "start": 9.82,
+      "end": 10.215,
+      "lastInBeat": true,
+      "highlight": false
+    },
+    {
+      "text": "Pause",
+      "beat": 2,
+      "start": 10.465,
+      "end": 10.945,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 2,
+      "start": 10.945,
+      "end": 11.105,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "video,",
+      "beat": 2,
+      "start": 11.105,
+      "end": 11.585,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "and",
+      "beat": 2,
+      "start": 11.585,
+      "end": 11.825,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "make",
+      "beat": 2,
+      "start": 11.825,
+      "end": 11.985,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "your",
+      "beat": 2,
+      "start": 11.985,
+      "end": 12.145,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "guess.",
+      "beat": 2,
+      "start": 12.145,
+      "end": 12.707,
+      "lastInBeat": true,
+      "highlight": false
+    },
+    {
+      "text": "Let's",
+      "beat": 3,
+      "start": 16.957,
+      "end": 17.357,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "follow",
+      "beat": 3,
+      "start": 17.357,
+      "end": 17.677,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 3,
+      "start": 17.677,
+      "end": 17.837,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "energy.",
+      "beat": 3,
+      "start": 17.837,
+      "end": 18.717,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "When",
+      "beat": 3,
+      "start": 18.717,
+      "end": 18.957,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 3,
+      "start": 18.957,
+      "end": 19.037,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "bullet",
+      "beat": 3,
+      "start": 19.037,
+      "end": 19.437,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "is",
+      "beat": 3,
+      "start": 19.437,
+      "end": 19.597,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "fired,",
+      "beat": 3,
+      "start": 19.597,
+      "end": 20.397,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "energy",
+      "beat": 3,
+      "start": 20.397,
+      "end": 20.957,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "in",
+      "beat": 3,
+      "start": 20.957,
+      "end": 21.117,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 3,
+      "start": 21.117,
+      "end": 21.197,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "chemical",
+      "beat": 3,
+      "start": 21.197,
+      "end": 21.677,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "store",
+      "beat": 3,
+      "start": 21.677,
+      "end": 21.997,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "of",
+      "beat": 3,
+      "start": 21.997,
+      "end": 22.157,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 3,
+      "start": 22.157,
+      "end": 22.237,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "gunpowder",
+      "beat": 3,
+      "start": 22.237,
+      "end": 23.037,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "is",
+      "beat": 3,
+      "start": 23.037,
+      "end": 23.277,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "transferred",
+      "beat": 3,
+      "start": 23.277,
+      "end": 24.077,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "to",
+      "beat": 3,
+      "start": 24.077,
+      "end": 24.237,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 3,
+      "start": 24.237,
+      "end": 24.317,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "kinetic",
+      "beat": 3,
+      "start": 24.317,
+      "end": 24.877,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "energy",
+      "beat": 3,
+      "start": 24.877,
+      "end": 25.357,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "store",
+      "beat": 3,
+      "start": 25.357,
+      "end": 25.757,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "of",
+      "beat": 3,
+      "start": 25.757,
+      "end": 25.997,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 3,
+      "start": 25.997,
+      "end": 26.157,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "bullet.",
+      "beat": 3,
+      "start": 26.157,
+      "end": 26.694,
+      "lastInBeat": true,
+      "highlight": false
+    },
+    {
+      "text": "As",
+      "beat": 4,
+      "start": 26.944,
+      "end": 27.184,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "it",
+      "beat": 4,
+      "start": 27.184,
+      "end": 27.424,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "flies,",
+      "beat": 4,
+      "start": 27.424,
+      "end": 28.144,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "a",
+      "beat": 4,
+      "start": 28.144,
+      "end": 28.304,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "little",
+      "beat": 4,
+      "start": 28.304,
+      "end": 28.544,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "energy",
+      "beat": 4,
+      "start": 28.544,
+      "end": 29.104,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "is",
+      "beat": 4,
+      "start": 29.104,
+      "end": 29.264,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "transferred",
+      "beat": 4,
+      "start": 29.264,
+      "end": 29.904,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "to",
+      "beat": 4,
+      "start": 29.904,
+      "end": 30.064,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 4,
+      "start": 30.064,
+      "end": 30.224,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "surroundings",
+      "beat": 4,
+      "start": 30.224,
+      "end": 31.104,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "by",
+      "beat": 4,
+      "start": 31.104,
+      "end": 31.424,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "air",
+      "beat": 4,
+      "start": 31.424,
+      "end": 31.824,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "resistance.",
+      "beat": 4,
+      "start": 31.824,
+      "end": 32.584,
+      "lastInBeat": true,
+      "highlight": true
+    },
+    {
+      "text": "Then",
+      "beat": 5,
+      "start": 32.834,
+      "end": 33.074,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "it",
+      "beat": 5,
+      "start": 33.074,
+      "end": 33.234,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "hits",
+      "beat": 5,
+      "start": 33.234,
+      "end": 33.474,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 5,
+      "start": 33.474,
+      "end": 33.634,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "wood.",
+      "beat": 5,
+      "start": 33.634,
+      "end": 34.274,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "The",
+      "beat": 5,
+      "start": 34.274,
+      "end": 34.434,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "wood",
+      "beat": 5,
+      "start": 34.434,
+      "end": 34.834,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "pushes",
+      "beat": 5,
+      "start": 34.834,
+      "end": 35.314,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "back",
+      "beat": 5,
+      "start": 35.314,
+      "end": 35.554,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "with",
+      "beat": 5,
+      "start": 35.554,
+      "end": 35.714,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "a",
+      "beat": 5,
+      "start": 35.714,
+      "end": 35.874,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "large",
+      "beat": 5,
+      "start": 35.874,
+      "end": 36.274,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "force,",
+      "beat": 5,
+      "start": 36.274,
+      "end": 36.994,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "and",
+      "beat": 5,
+      "start": 36.994,
+      "end": 37.154,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "that",
+      "beat": 5,
+      "start": 37.154,
+      "end": 37.394,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "force",
+      "beat": 5,
+      "start": 37.394,
+      "end": 37.794,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "does",
+      "beat": 5,
+      "start": 37.794,
+      "end": 38.034,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "work",
+      "beat": 5,
+      "start": 38.034,
+      "end": 38.354,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "on",
+      "beat": 5,
+      "start": 38.354,
+      "end": 38.514,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 5,
+      "start": 38.514,
+      "end": 38.594,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "bullet,",
+      "beat": 5,
+      "start": 38.594,
+      "end": 39.314,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "emptying",
+      "beat": 5,
+      "start": 39.314,
+      "end": 39.794,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "its",
+      "beat": 5,
+      "start": 39.794,
+      "end": 39.954,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "kinetic",
+      "beat": 5,
+      "start": 39.954,
+      "end": 40.514,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "store.",
+      "beat": 5,
+      "start": 40.514,
+      "end": 40.999,
+      "lastInBeat": true,
+      "highlight": true
+    },
+    {
+      "text": "That",
+      "beat": 6,
+      "start": 41.249,
+      "end": 41.569,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "energy",
+      "beat": 6,
+      "start": 41.569,
+      "end": 42.049,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "ends",
+      "beat": 6,
+      "start": 42.049,
+      "end": 42.369,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "up",
+      "beat": 6,
+      "start": 42.369,
+      "end": 42.529,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "in",
+      "beat": 6,
+      "start": 42.529,
+      "end": 42.769,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 6,
+      "start": 42.769,
+      "end": 42.849,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "thermal",
+      "beat": 6,
+      "start": 42.849,
+      "end": 43.329,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "energy",
+      "beat": 6,
+      "start": 43.329,
+      "end": 43.809,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "store",
+      "beat": 6,
+      "start": 43.809,
+      "end": 44.129,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "of",
+      "beat": 6,
+      "start": 44.129,
+      "end": 44.289,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 6,
+      "start": 44.289,
+      "end": 44.369,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "bullet",
+      "beat": 6,
+      "start": 44.369,
+      "end": 44.849,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "and",
+      "beat": 6,
+      "start": 44.849,
+      "end": 45.009,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 6,
+      "start": 45.009,
+      "end": 45.169,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "wood,",
+      "beat": 6,
+      "start": 45.169,
+      "end": 45.729,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "as",
+      "beat": 6,
+      "start": 45.729,
+      "end": 46.129,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "sound,",
+      "beat": 6,
+      "start": 46.129,
+      "end": 46.849,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "and",
+      "beat": 6,
+      "start": 46.849,
+      "end": 47.009,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "in",
+      "beat": 6,
+      "start": 47.009,
+      "end": 47.169,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "splitting",
+      "beat": 6,
+      "start": 47.169,
+      "end": 47.809,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "and",
+      "beat": 6,
+      "start": 47.809,
+      "end": 47.969,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "deforming",
+      "beat": 6,
+      "start": 47.969,
+      "end": 48.609,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "the",
+      "beat": 6,
+      "start": 48.609,
+      "end": 48.769,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "wood.",
+      "beat": 6,
+      "start": 48.769,
+      "end": 49.184,
+      "lastInBeat": true,
+      "highlight": false
+    },
+    {
+      "text": "None",
+      "beat": 7,
+      "start": 49.434,
+      "end": 49.754,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "of",
+      "beat": 7,
+      "start": 49.754,
+      "end": 49.914,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "it",
+      "beat": 7,
+      "start": 49.914,
+      "end": 50.074,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "is",
+      "beat": 7,
+      "start": 50.074,
+      "end": 50.314,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "destroyed.",
+      "beat": 7,
+      "start": 50.314,
+      "end": 51.214,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "That's",
+      "beat": 7,
+      "start": 51.354,
+      "end": 51.594,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 7,
+      "start": 51.594,
+      "end": 51.754,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "principle",
+      "beat": 7,
+      "start": 51.754,
+      "end": 52.314,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "of",
+      "beat": 7,
+      "start": 52.314,
+      "end": 52.474,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "conservation",
+      "beat": 7,
+      "start": 52.474,
+      "end": 53.274,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "of",
+      "beat": 7,
+      "start": 53.274,
+      "end": 53.514,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "energy.",
+      "beat": 7,
+      "start": 53.514,
+      "end": 54.414,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "But",
+      "beat": 7,
+      "start": 54.474,
+      "end": 54.634,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 7,
+      "start": 54.634,
+      "end": 54.794,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "energy",
+      "beat": 7,
+      "start": 54.794,
+      "end": 55.354,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "has",
+      "beat": 7,
+      "start": 55.354,
+      "end": 55.514,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "been",
+      "beat": 7,
+      "start": 55.514,
+      "end": 55.754,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "dissipated:",
+      "beat": 7,
+      "start": 55.754,
+      "end": 56.654,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "spread",
+      "beat": 7,
+      "start": 56.714,
+      "end": 57.194,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "out",
+      "beat": 7,
+      "start": 57.194,
+      "end": 57.354,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "into",
+      "beat": 7,
+      "start": 57.354,
+      "end": 57.594,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 7,
+      "start": 57.594,
+      "end": 57.834,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "surroundings,",
+      "beat": 7,
+      "start": 57.834,
+      "end": 58.714,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "where",
+      "beat": 7,
+      "start": 58.714,
+      "end": 58.954,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "it",
+      "beat": 7,
+      "start": 58.954,
+      "end": 59.034,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "can't",
+      "beat": 7,
+      "start": 59.034,
+      "end": 59.434,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "easily",
+      "beat": 7,
+      "start": 59.434,
+      "end": 59.834,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "be",
+      "beat": 7,
+      "start": 59.834,
+      "end": 60.074,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "used",
+      "beat": 7,
+      "start": 60.074,
+      "end": 60.314,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "again.",
+      "beat": 7,
+      "start": 60.314,
+      "end": 60.748,
+      "lastInBeat": true,
+      "highlight": false
+    },
+    {
+      "text": "Here's",
+      "beat": 8,
+      "start": 60.998,
+      "end": 61.398,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 8,
+      "start": 61.398,
+      "end": 61.478,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "whole",
+      "beat": 8,
+      "start": 61.478,
+      "end": 61.798,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "journey",
+      "beat": 8,
+      "start": 61.798,
+      "end": 62.278,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "as",
+      "beat": 8,
+      "start": 62.278,
+      "end": 62.518,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "an",
+      "beat": 8,
+      "start": 62.518,
+      "end": 62.678,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "energy",
+      "beat": 8,
+      "start": 62.678,
+      "end": 63.078,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "flow",
+      "beat": 8,
+      "start": 63.078,
+      "end": 63.478,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "diagram.",
+      "beat": 8,
+      "start": 63.478,
+      "end": 64.378,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "The",
+      "beat": 8,
+      "start": 64.438,
+      "end": 64.598,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "width",
+      "beat": 8,
+      "start": 64.598,
+      "end": 64.998,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "of",
+      "beat": 8,
+      "start": 64.998,
+      "end": 65.078,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "each",
+      "beat": 8,
+      "start": 65.078,
+      "end": 65.398,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "arrow",
+      "beat": 8,
+      "start": 65.398,
+      "end": 65.878,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "shows",
+      "beat": 8,
+      "start": 65.878,
+      "end": 66.198,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "how",
+      "beat": 8,
+      "start": 66.198,
+      "end": 66.438,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "much",
+      "beat": 8,
+      "start": 66.438,
+      "end": 66.678,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "energy",
+      "beat": 8,
+      "start": 66.678,
+      "end": 67.238,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "goes",
+      "beat": 8,
+      "start": 67.238,
+      "end": 67.558,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "that",
+      "beat": 8,
+      "start": 67.558,
+      "end": 67.878,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "way.",
+      "beat": 8,
+      "start": 67.878,
+      "end": 68.518,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "The",
+      "beat": 8,
+      "start": 68.518,
+      "end": 68.678,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "useful",
+      "beat": 8,
+      "start": 68.678,
+      "end": 69.158,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "share",
+      "beat": 8,
+      "start": 69.158,
+      "end": 69.558,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "that",
+      "beat": 8,
+      "start": 69.558,
+      "end": 69.718,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "reaches",
+      "beat": 8,
+      "start": 69.718,
+      "end": 70.118,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 8,
+      "start": 70.118,
+      "end": 70.278,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "bullet's",
+      "beat": 8,
+      "start": 70.278,
+      "end": 70.838,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "kinetic",
+      "beat": 8,
+      "start": 70.838,
+      "end": 71.398,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "store,",
+      "beat": 8,
+      "start": 71.398,
+      "end": 72.038,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "divided",
+      "beat": 8,
+      "start": 72.038,
+      "end": 72.518,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "by",
+      "beat": 8,
+      "start": 72.518,
+      "end": 72.678,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 8,
+      "start": 72.678,
+      "end": 72.838,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "total",
+      "beat": 8,
+      "start": 72.838,
+      "end": 73.158,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "input,",
+      "beat": 8,
+      "start": 73.158,
+      "end": 73.958,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "is",
+      "beat": 8,
+      "start": 73.958,
+      "end": 74.118,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 8,
+      "start": 74.118,
+      "end": 74.278,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "efficiency.",
+      "beat": 8,
+      "start": 74.278,
+      "end": 75.151,
+      "lastInBeat": true,
+      "highlight": true
+    },
+    {
+      "text": "Now",
+      "beat": 9,
+      "start": 75.401,
+      "end": 75.801,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "let's",
+      "beat": 9,
+      "start": 75.801,
+      "end": 76.041,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "put",
+      "beat": 9,
+      "start": 76.041,
+      "end": 76.281,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "numbers",
+      "beat": 9,
+      "start": 76.281,
+      "end": 76.681,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "on",
+      "beat": 9,
+      "start": 76.681,
+      "end": 76.921,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "it.",
+      "beat": 9,
+      "start": 76.921,
+      "end": 77.481,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "Example",
+      "beat": 9,
+      "start": 77.481,
+      "end": 78.361,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "one:",
+      "beat": 9,
+      "start": 78.361,
+      "end": 78.761,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "find",
+      "beat": 9,
+      "start": 78.761,
+      "end": 79.001,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 9,
+      "start": 79.001,
+      "end": 79.161,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "kinetic",
+      "beat": 9,
+      "start": 79.161,
+      "end": 79.721,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "energy",
+      "beat": 9,
+      "start": 79.721,
+      "end": 80.201,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "of",
+      "beat": 9,
+      "start": 80.201,
+      "end": 80.441,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "a",
+      "beat": 9,
+      "start": 80.441,
+      "end": 80.681,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "ten",
+      "beat": 9,
+      "start": 80.681,
+      "end": 80.921,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "gram",
+      "beat": 9,
+      "start": 80.921,
+      "end": 81.321,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "bullet",
+      "beat": 9,
+      "start": 81.321,
+      "end": 81.801,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "moving",
+      "beat": 9,
+      "start": 81.801,
+      "end": 82.201,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "at",
+      "beat": 9,
+      "start": 82.201,
+      "end": 82.601,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "four",
+      "beat": 9,
+      "start": 82.601,
+      "end": 83.081,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "hundred",
+      "beat": 9,
+      "start": 82.601,
+      "end": 83.081,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "metres",
+      "beat": 9,
+      "start": 83.081,
+      "end": 83.561,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "per",
+      "beat": 9,
+      "start": 83.561,
+      "end": 83.801,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "second.",
+      "beat": 9,
+      "start": 83.801,
+      "end": 84.291,
+      "lastInBeat": true,
+      "highlight": true
+    },
+    {
+      "text": "First,",
+      "beat": 10,
+      "start": 84.541,
+      "end": 85.101,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "convert",
+      "beat": 10,
+      "start": 85.101,
+      "end": 85.501,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 10,
+      "start": 85.501,
+      "end": 85.581,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "mass",
+      "beat": 10,
+      "start": 85.581,
+      "end": 85.901,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "into",
+      "beat": 10,
+      "start": 85.901,
+      "end": 86.141,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "kilograms.",
+      "beat": 10,
+      "start": 86.141,
+      "end": 87.041,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "Ten",
+      "beat": 10,
+      "start": 87.421,
+      "end": 87.581,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "grams",
+      "beat": 10,
+      "start": 87.581,
+      "end": 88.141,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "is",
+      "beat": 10,
+      "start": 88.141,
+      "end": 88.701,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "zero",
+      "beat": 10,
+      "start": 88.701,
+      "end": 89.601,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "point",
+      "beat": 10,
+      "start": 88.701,
+      "end": 89.601,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "zero",
+      "beat": 10,
+      "start": 88.701,
+      "end": 89.601,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "one",
+      "beat": 10,
+      "start": 88.701,
+      "end": 89.601,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "kilograms.",
+      "beat": 10,
+      "start": 89.981,
+      "end": 90.881,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "This",
+      "beat": 10,
+      "start": 91.261,
+      "end": 91.421,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "is",
+      "beat": 10,
+      "start": 91.421,
+      "end": 91.661,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 10,
+      "start": 91.661,
+      "end": 91.821,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "step",
+      "beat": 10,
+      "start": 91.821,
+      "end": 92.221,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "students",
+      "beat": 10,
+      "start": 92.221,
+      "end": 92.701,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "forget",
+      "beat": 10,
+      "start": 92.701,
+      "end": 93.181,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "most",
+      "beat": 10,
+      "start": 93.181,
+      "end": 93.421,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "often.",
+      "beat": 10,
+      "start": 93.421,
+      "end": 94.017,
+      "lastInBeat": true,
+      "highlight": false
+    },
+    {
+      "text": "Kinetic",
+      "beat": 11,
+      "start": 94.267,
+      "end": 94.827,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "energy",
+      "beat": 11,
+      "start": 94.827,
+      "end": 95.467,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "equals",
+      "beat": 11,
+      "start": 95.467,
+      "end": 95.867,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "one",
+      "beat": 11,
+      "start": 95.867,
+      "end": 96.187,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "half",
+      "beat": 11,
+      "start": 96.187,
+      "end": 96.667,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "m",
+      "beat": 11,
+      "start": 96.667,
+      "end": 97.227,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "v",
+      "beat": 11,
+      "start": 96.667,
+      "end": 97.227,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "squared.",
+      "beat": 11,
+      "start": 97.227,
+      "end": 98.027,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "Pause",
+      "beat": 11,
+      "start": 98.027,
+      "end": 98.427,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 11,
+      "start": 98.427,
+      "end": 98.587,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "video",
+      "beat": 11,
+      "start": 98.587,
+      "end": 98.907,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "and",
+      "beat": 11,
+      "start": 98.907,
+      "end": 99.147,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "try",
+      "beat": 11,
+      "start": 99.147,
+      "end": 99.387,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "it.",
+      "beat": 11,
+      "start": 99.387,
+      "end": 99.701,
+      "lastInBeat": true,
+      "highlight": false
+    },
+    {
+      "text": "One",
+      "beat": 12,
+      "start": 105.111,
+      "end": 105.351,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "half,",
+      "beat": 12,
+      "start": 105.351,
+      "end": 105.751,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "times",
+      "beat": 12,
+      "start": 105.751,
+      "end": 106.311,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "zero",
+      "beat": 12,
+      "start": 106.311,
+      "end": 107.211,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "point",
+      "beat": 12,
+      "start": 106.311,
+      "end": 107.211,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "zero",
+      "beat": 12,
+      "start": 106.311,
+      "end": 107.211,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "one,",
+      "beat": 12,
+      "start": 106.311,
+      "end": 107.211,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "times",
+      "beat": 12,
+      "start": 107.831,
+      "end": 108.471,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "four",
+      "beat": 12,
+      "start": 108.471,
+      "end": 109.031,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "hundred",
+      "beat": 12,
+      "start": 108.471,
+      "end": 109.031,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "squared,",
+      "beat": 12,
+      "start": 109.031,
+      "end": 109.751,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "gives",
+      "beat": 12,
+      "start": 109.751,
+      "end": 110.231,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "eight",
+      "beat": 12,
+      "start": 110.231,
+      "end": 110.791,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "hundred",
+      "beat": 12,
+      "start": 110.231,
+      "end": 110.791,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "joules.",
+      "beat": 12,
+      "start": 110.791,
+      "end": 111.671,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "And",
+      "beat": 12,
+      "start": 111.671,
+      "end": 111.831,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "don't",
+      "beat": 12,
+      "start": 111.831,
+      "end": 112.151,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "forget",
+      "beat": 12,
+      "start": 112.151,
+      "end": 112.391,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "to",
+      "beat": 12,
+      "start": 112.391,
+      "end": 112.551,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "square",
+      "beat": 12,
+      "start": 112.551,
+      "end": 112.951,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "the",
+      "beat": 12,
+      "start": 112.951,
+      "end": 113.111,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "speed.",
+      "beat": 12,
+      "start": 113.111,
+      "end": 113.615,
+      "lastInBeat": true,
+      "highlight": true
+    },
+    {
+      "text": "Example",
+      "beat": 13,
+      "start": 113.865,
+      "end": 114.665,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "two.",
+      "beat": 13,
+      "start": 114.665,
+      "end": 115.145,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "The",
+      "beat": 13,
+      "start": 115.145,
+      "end": 115.305,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "bullet",
+      "beat": 13,
+      "start": 115.305,
+      "end": 115.785,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "stops",
+      "beat": 13,
+      "start": 115.785,
+      "end": 116.185,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "after",
+      "beat": 13,
+      "start": 116.185,
+      "end": 116.425,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "travelling",
+      "beat": 13,
+      "start": 116.425,
+      "end": 117.065,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "eight",
+      "beat": 13,
+      "start": 117.065,
+      "end": 117.225,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "centimetres",
+      "beat": 13,
+      "start": 117.225,
+      "end": 118.025,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "into",
+      "beat": 13,
+      "start": 118.025,
+      "end": 118.185,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 13,
+      "start": 118.185,
+      "end": 118.345,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "wood.",
+      "beat": 13,
+      "start": 118.345,
+      "end": 119.065,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "What",
+      "beat": 13,
+      "start": 119.065,
+      "end": 119.305,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "average",
+      "beat": 13,
+      "start": 119.305,
+      "end": 119.785,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "force",
+      "beat": 13,
+      "start": 119.785,
+      "end": 120.185,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "does",
+      "beat": 13,
+      "start": 120.185,
+      "end": 120.425,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 13,
+      "start": 120.425,
+      "end": 120.585,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "wood",
+      "beat": 13,
+      "start": 120.585,
+      "end": 120.905,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "exert",
+      "beat": 13,
+      "start": 120.905,
+      "end": 121.305,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "on",
+      "beat": 13,
+      "start": 121.305,
+      "end": 121.465,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "it?",
+      "beat": 13,
+      "start": 121.465,
+      "end": 121.741,
+      "lastInBeat": true,
+      "highlight": false
+    },
+    {
+      "text": "All",
+      "beat": 14,
+      "start": 121.991,
+      "end": 122.391,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "eight",
+      "beat": 14,
+      "start": 122.391,
+      "end": 122.871,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "hundred",
+      "beat": 14,
+      "start": 122.391,
+      "end": 122.871,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "joules",
+      "beat": 14,
+      "start": 122.871,
+      "end": 123.351,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "is",
+      "beat": 14,
+      "start": 123.351,
+      "end": 123.511,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "removed",
+      "beat": 14,
+      "start": 123.511,
+      "end": 123.911,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "by",
+      "beat": 14,
+      "start": 123.911,
+      "end": 124.151,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "work",
+      "beat": 14,
+      "start": 124.151,
+      "end": 124.471,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "done,",
+      "beat": 14,
+      "start": 124.471,
+      "end": 125.031,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "and",
+      "beat": 14,
+      "start": 125.031,
+      "end": 125.191,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "work",
+      "beat": 14,
+      "start": 125.191,
+      "end": 125.591,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "done",
+      "beat": 14,
+      "start": 125.591,
+      "end": 125.911,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "equals",
+      "beat": 14,
+      "start": 125.911,
+      "end": 126.311,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "force",
+      "beat": 14,
+      "start": 126.311,
+      "end": 126.791,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "times",
+      "beat": 14,
+      "start": 126.791,
+      "end": 127.191,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "distance.",
+      "beat": 14,
+      "start": 127.191,
+      "end": 128.091,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "Eight",
+      "beat": 14,
+      "start": 128.391,
+      "end": 128.551,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "centimetres",
+      "beat": 14,
+      "start": 128.551,
+      "end": 129.431,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "is",
+      "beat": 14,
+      "start": 129.431,
+      "end": 129.911,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "zero",
+      "beat": 14,
+      "start": 129.911,
+      "end": 130.811,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "point",
+      "beat": 14,
+      "start": 129.911,
+      "end": 130.811,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "zero",
+      "beat": 14,
+      "start": 129.911,
+      "end": 130.811,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "eight",
+      "beat": 14,
+      "start": 129.911,
+      "end": 130.811,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "metres.",
+      "beat": 14,
+      "start": 131.271,
+      "end": 132.071,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "Pause",
+      "beat": 14,
+      "start": 132.071,
+      "end": 132.551,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "and",
+      "beat": 14,
+      "start": 132.551,
+      "end": 132.791,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "try",
+      "beat": 14,
+      "start": 132.791,
+      "end": 133.031,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "it.",
+      "beat": 14,
+      "start": 133.031,
+      "end": 133.355,
+      "lastInBeat": true,
+      "highlight": false
+    },
+    {
+      "text": "Force",
+      "beat": 15,
+      "start": 138.605,
+      "end": 139.165,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "equals",
+      "beat": 15,
+      "start": 139.165,
+      "end": 139.725,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "eight",
+      "beat": 15,
+      "start": 139.725,
+      "end": 140.205,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "hundred",
+      "beat": 15,
+      "start": 139.725,
+      "end": 140.205,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "joules,",
+      "beat": 15,
+      "start": 140.205,
+      "end": 141.085,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "divided",
+      "beat": 15,
+      "start": 141.085,
+      "end": 141.565,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "by",
+      "beat": 15,
+      "start": 141.565,
+      "end": 142.045,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "zero",
+      "beat": 15,
+      "start": 142.045,
+      "end": 142.945,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "point",
+      "beat": 15,
+      "start": 142.045,
+      "end": 142.945,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "zero",
+      "beat": 15,
+      "start": 142.045,
+      "end": 142.945,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "eight",
+      "beat": 15,
+      "start": 142.045,
+      "end": 142.945,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "metres.",
+      "beat": 15,
+      "start": 143.325,
+      "end": 144.225,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "That's",
+      "beat": 15,
+      "start": 144.285,
+      "end": 144.685,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "ten",
+      "beat": 15,
+      "start": 144.685,
+      "end": 145.245,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "thousand",
+      "beat": 15,
+      "start": 144.685,
+      "end": 145.245,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "newtons.",
+      "beat": 15,
+      "start": 145.245,
+      "end": 145.934,
+      "lastInBeat": true,
+      "highlight": true
+    },
+    {
+      "text": "Now",
+      "beat": 16,
+      "start": 146.184,
+      "end": 146.584,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 16,
+      "start": 146.584,
+      "end": 146.744,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "extended",
+      "beat": 16,
+      "start": 146.744,
+      "end": 147.464,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "part.",
+      "beat": 16,
+      "start": 147.464,
+      "end": 148.104,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "The",
+      "beat": 16,
+      "start": 148.104,
+      "end": 148.264,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "same",
+      "beat": 16,
+      "start": 148.264,
+      "end": 148.504,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "bullet",
+      "beat": 16,
+      "start": 148.504,
+      "end": 148.904,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "hits",
+      "beat": 16,
+      "start": 148.904,
+      "end": 149.224,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "a",
+      "beat": 16,
+      "start": 149.224,
+      "end": 149.464,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "two",
+      "beat": 16,
+      "start": 149.464,
+      "end": 150.264,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "kilogram",
+      "beat": 16,
+      "start": 150.264,
+      "end": 150.314,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "block",
+      "beat": 16,
+      "start": 150.264,
+      "end": 150.744,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "resting",
+      "beat": 16,
+      "start": 150.744,
+      "end": 151.144,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "on",
+      "beat": 16,
+      "start": 151.144,
+      "end": 151.304,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "a",
+      "beat": 16,
+      "start": 151.304,
+      "end": 151.464,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "smooth",
+      "beat": 16,
+      "start": 151.464,
+      "end": 151.944,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "surface.",
+      "beat": 16,
+      "start": 151.944,
+      "end": 152.824,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "It",
+      "beat": 16,
+      "start": 152.824,
+      "end": 152.984,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "embeds,",
+      "beat": 16,
+      "start": 152.984,
+      "end": 153.784,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "and",
+      "beat": 16,
+      "start": 153.784,
+      "end": 153.944,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 16,
+      "start": 153.944,
+      "end": 154.024,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "bullet",
+      "beat": 16,
+      "start": 154.024,
+      "end": 154.424,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "and",
+      "beat": 16,
+      "start": 154.424,
+      "end": 154.584,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "block",
+      "beat": 16,
+      "start": 154.584,
+      "end": 154.984,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "slide",
+      "beat": 16,
+      "start": 154.984,
+      "end": 155.384,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "off",
+      "beat": 16,
+      "start": 155.384,
+      "end": 155.624,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "together.",
+      "beat": 16,
+      "start": 155.624,
+      "end": 156.082,
+      "lastInBeat": true,
+      "highlight": false
+    },
+    {
+      "text": "Momentum",
+      "beat": 17,
+      "start": 156.331,
+      "end": 157.051,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "is",
+      "beat": 17,
+      "start": 157.051,
+      "end": 157.291,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "conserved.",
+      "beat": 17,
+      "start": 157.291,
+      "end": 158.171,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "So",
+      "beat": 17,
+      "start": 158.171,
+      "end": 158.651,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "zero",
+      "beat": 17,
+      "start": 158.651,
+      "end": 159.551,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "point",
+      "beat": 17,
+      "start": 158.651,
+      "end": 159.551,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "zero",
+      "beat": 17,
+      "start": 158.651,
+      "end": 159.551,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "one",
+      "beat": 17,
+      "start": 158.651,
+      "end": 159.551,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "times",
+      "beat": 17,
+      "start": 159.771,
+      "end": 160.331,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "four",
+      "beat": 17,
+      "start": 160.331,
+      "end": 160.971,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "hundred",
+      "beat": 17,
+      "start": 160.331,
+      "end": 160.971,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "equals",
+      "beat": 17,
+      "start": 160.971,
+      "end": 161.691,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "two",
+      "beat": 17,
+      "start": 161.691,
+      "end": 162.591,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "point",
+      "beat": 17,
+      "start": 161.691,
+      "end": 162.591,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "zero",
+      "beat": 17,
+      "start": 161.691,
+      "end": 162.591,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "one",
+      "beat": 17,
+      "start": 161.691,
+      "end": 162.591,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "times",
+      "beat": 17,
+      "start": 162.891,
+      "end": 163.371,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "v.",
+      "beat": 17,
+      "start": 163.371,
+      "end": 164.091,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "Pause,",
+      "beat": 17,
+      "start": 164.091,
+      "end": 164.811,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "and",
+      "beat": 17,
+      "start": 164.811,
+      "end": 165.051,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "find",
+      "beat": 17,
+      "start": 165.051,
+      "end": 165.371,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "v.",
+      "beat": 17,
+      "start": 165.371,
+      "end": 165.816,
+      "lastInBeat": true,
+      "highlight": false
+    },
+    {
+      "text": "Four",
+      "beat": 18,
+      "start": 171.306,
+      "end": 171.466,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "kilogram",
+      "beat": 18,
+      "start": 171.466,
+      "end": 172.026,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "metres",
+      "beat": 18,
+      "start": 172.026,
+      "end": 172.506,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "per",
+      "beat": 18,
+      "start": 172.506,
+      "end": 172.746,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "second,",
+      "beat": 18,
+      "start": 172.746,
+      "end": 173.466,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "divided",
+      "beat": 18,
+      "start": 173.466,
+      "end": 174.026,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "by",
+      "beat": 18,
+      "start": 174.026,
+      "end": 174.426,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "two",
+      "beat": 18,
+      "start": 174.426,
+      "end": 175.326,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "point",
+      "beat": 18,
+      "start": 174.426,
+      "end": 175.326,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "zero",
+      "beat": 18,
+      "start": 174.426,
+      "end": 175.326,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "one",
+      "beat": 18,
+      "start": 174.426,
+      "end": 175.326,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "kilograms,",
+      "beat": 18,
+      "start": 175.706,
+      "end": 176.606,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "gives",
+      "beat": 18,
+      "start": 176.666,
+      "end": 177.146,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "about",
+      "beat": 18,
+      "start": 177.146,
+      "end": 177.626,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "one",
+      "beat": 18,
+      "start": 177.626,
+      "end": 178.526,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "point",
+      "beat": 18,
+      "start": 177.626,
+      "end": 178.526,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "nine",
+      "beat": 18,
+      "start": 177.626,
+      "end": 178.526,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "nine",
+      "beat": 18,
+      "start": 177.626,
+      "end": 178.526,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "metres",
+      "beat": 18,
+      "start": 178.746,
+      "end": 179.226,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "per",
+      "beat": 18,
+      "start": 179.226,
+      "end": 179.466,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "second.",
+      "beat": 18,
+      "start": 179.466,
+      "end": 179.905,
+      "lastInBeat": true,
+      "highlight": true
+    },
+    {
+      "text": "Now",
+      "beat": 19,
+      "start": 180.155,
+      "end": 180.475,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 19,
+      "start": 180.475,
+      "end": 180.635,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "kinetic",
+      "beat": 19,
+      "start": 180.635,
+      "end": 181.115,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "energy",
+      "beat": 19,
+      "start": 181.115,
+      "end": 181.595,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "afterwards:",
+      "beat": 19,
+      "start": 181.595,
+      "end": 181.995,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "one",
+      "beat": 19,
+      "start": 181.995,
+      "end": 182.395,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "half,",
+      "beat": 19,
+      "start": 182.795,
+      "end": 183.435,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "times",
+      "beat": 19,
+      "start": 183.435,
+      "end": 183.915,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "two",
+      "beat": 19,
+      "start": 183.915,
+      "end": 184.815,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "point",
+      "beat": 19,
+      "start": 183.915,
+      "end": 184.815,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "zero",
+      "beat": 19,
+      "start": 183.915,
+      "end": 184.815,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "one,",
+      "beat": 19,
+      "start": 183.915,
+      "end": 184.815,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "times",
+      "beat": 19,
+      "start": 185.435,
+      "end": 185.995,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "one",
+      "beat": 19,
+      "start": 185.995,
+      "end": 186.895,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "point",
+      "beat": 19,
+      "start": 185.995,
+      "end": 186.895,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "nine",
+      "beat": 19,
+      "start": 185.995,
+      "end": 186.895,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "nine",
+      "beat": 19,
+      "start": 185.995,
+      "end": 186.895,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "squared.",
+      "beat": 19,
+      "start": 187.195,
+      "end": 188.075,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "That's",
+      "beat": 19,
+      "start": 188.075,
+      "end": 188.555,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "only",
+      "beat": 19,
+      "start": 188.555,
+      "end": 188.715,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "about",
+      "beat": 19,
+      "start": 188.715,
+      "end": 189.195,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "four",
+      "beat": 19,
+      "start": 189.195,
+      "end": 189.355,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "joules.",
+      "beat": 19,
+      "start": 189.355,
+      "end": 190.02,
+      "lastInBeat": true,
+      "highlight": true
+    },
+    {
+      "text": "Eight",
+      "beat": 20,
+      "start": 190.51,
+      "end": 190.91,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "hundred",
+      "beat": 20,
+      "start": 190.51,
+      "end": 190.91,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "joules",
+      "beat": 20,
+      "start": 190.91,
+      "end": 191.55,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "before.",
+      "beat": 20,
+      "start": 191.55,
+      "end": 192.27,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "About",
+      "beat": 20,
+      "start": 192.27,
+      "end": 192.67,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "four",
+      "beat": 20,
+      "start": 192.67,
+      "end": 192.91,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "joules",
+      "beat": 20,
+      "start": 192.91,
+      "end": 193.55,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "after.",
+      "beat": 20,
+      "start": 193.55,
+      "end": 194.19,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "Around",
+      "beat": 20,
+      "start": 194.19,
+      "end": 194.75,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "seven",
+      "beat": 20,
+      "start": 194.75,
+      "end": 195.65,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "hundred",
+      "beat": 20,
+      "start": 194.75,
+      "end": 195.65,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "and",
+      "beat": 20,
+      "start": 194.75,
+      "end": 195.65,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "ninety",
+      "beat": 20,
+      "start": 194.75,
+      "end": 195.65,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "six",
+      "beat": 20,
+      "start": 194.75,
+      "end": 195.65,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "joules",
+      "beat": 20,
+      "start": 196.03,
+      "end": 196.51,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "of",
+      "beat": 20,
+      "start": 196.51,
+      "end": 196.67,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "kinetic",
+      "beat": 20,
+      "start": 196.67,
+      "end": 197.15,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "energy",
+      "beat": 20,
+      "start": 197.15,
+      "end": 197.63,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "have",
+      "beat": 20,
+      "start": 197.63,
+      "end": 197.87,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "gone.",
+      "beat": 20,
+      "start": 197.87,
+      "end": 198.59,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "Kinetic",
+      "beat": 20,
+      "start": 198.59,
+      "end": 199.15,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "energy",
+      "beat": 20,
+      "start": 199.15,
+      "end": 199.79,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "is",
+      "beat": 20,
+      "start": 199.79,
+      "end": 199.95,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "not",
+      "beat": 20,
+      "start": 199.95,
+      "end": 200.19,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "conserved.",
+      "beat": 20,
+      "start": 200.19,
+      "end": 201.09,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "This",
+      "beat": 20,
+      "start": 201.31,
+      "end": 201.47,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "is",
+      "beat": 20,
+      "start": 201.47,
+      "end": 201.71,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "an",
+      "beat": 20,
+      "start": 201.71,
+      "end": 201.95,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "inelastic",
+      "beat": 20,
+      "start": 201.95,
+      "end": 202.67,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "collision.",
+      "beat": 20,
+      "start": 202.67,
+      "end": 203.315,
+      "lastInBeat": true,
+      "highlight": true
+    },
+    {
+      "text": "So",
+      "beat": 21,
+      "start": 203.565,
+      "end": 203.885,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "where",
+      "beat": 21,
+      "start": 203.885,
+      "end": 204.045,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "did",
+      "beat": 21,
+      "start": 204.045,
+      "end": 204.205,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "it",
+      "beat": 21,
+      "start": 204.205,
+      "end": 204.365,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "go?",
+      "beat": 21,
+      "start": 204.365,
+      "end": 204.845,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "Into",
+      "beat": 21,
+      "start": 204.845,
+      "end": 205.085,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 21,
+      "start": 205.085,
+      "end": 205.245,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "thermal",
+      "beat": 21,
+      "start": 205.245,
+      "end": 205.725,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "store",
+      "beat": 21,
+      "start": 205.725,
+      "end": 206.045,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "of",
+      "beat": 21,
+      "start": 206.045,
+      "end": 206.125,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 21,
+      "start": 206.125,
+      "end": 206.285,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "bullet",
+      "beat": 21,
+      "start": 206.285,
+      "end": 206.685,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "and",
+      "beat": 21,
+      "start": 206.685,
+      "end": 206.845,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "block,",
+      "beat": 21,
+      "start": 206.845,
+      "end": 207.565,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "into",
+      "beat": 21,
+      "start": 207.565,
+      "end": 207.805,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "sound,",
+      "beat": 21,
+      "start": 207.805,
+      "end": 208.525,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "and",
+      "beat": 21,
+      "start": 208.525,
+      "end": 208.685,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "into",
+      "beat": 21,
+      "start": 208.685,
+      "end": 208.925,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "deforming",
+      "beat": 21,
+      "start": 208.925,
+      "end": 209.565,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "the",
+      "beat": 21,
+      "start": 209.565,
+      "end": 209.725,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "wood.",
+      "beat": 21,
+      "start": 209.725,
+      "end": 210.445,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "Momentum",
+      "beat": 21,
+      "start": 210.445,
+      "end": 211.165,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "is",
+      "beat": 21,
+      "start": 211.165,
+      "end": 211.325,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "conserved,",
+      "beat": 21,
+      "start": 211.325,
+      "end": 212.205,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "but",
+      "beat": 21,
+      "start": 212.205,
+      "end": 212.365,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "kinetic",
+      "beat": 21,
+      "start": 212.365,
+      "end": 212.925,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "energy",
+      "beat": 21,
+      "start": 212.925,
+      "end": 213.405,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "is",
+      "beat": 21,
+      "start": 213.405,
+      "end": 213.645,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "not.",
+      "beat": 21,
+      "start": 213.645,
+      "end": 214.057,
+      "lastInBeat": true,
+      "highlight": false
+    },
+    {
+      "text": "Watch",
+      "beat": 22,
+      "start": 214.307,
+      "end": 214.707,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "out",
+      "beat": 22,
+      "start": 214.707,
+      "end": 214.867,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "for",
+      "beat": 22,
+      "start": 214.867,
+      "end": 215.107,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "four",
+      "beat": 22,
+      "start": 215.107,
+      "end": 215.347,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "classic",
+      "beat": 22,
+      "start": 215.347,
+      "end": 215.907,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "mistakes.",
+      "beat": 22,
+      "start": 215.907,
+      "end": 216.807,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "Saying",
+      "beat": 22,
+      "start": 216.947,
+      "end": 217.347,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "energy",
+      "beat": 22,
+      "start": 217.347,
+      "end": 217.907,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "is",
+      "beat": 22,
+      "start": 217.907,
+      "end": 218.147,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "destroyed.",
+      "beat": 22,
+      "start": 218.147,
+      "end": 219.047,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "Forgetting",
+      "beat": 22,
+      "start": 219.187,
+      "end": 219.747,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "to",
+      "beat": 22,
+      "start": 219.747,
+      "end": 219.907,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "square",
+      "beat": 22,
+      "start": 219.907,
+      "end": 220.307,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "v.",
+      "beat": 22,
+      "start": 220.307,
+      "end": 221.027,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "Not",
+      "beat": 22,
+      "start": 221.027,
+      "end": 221.267,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "converting",
+      "beat": 22,
+      "start": 221.267,
+      "end": 221.747,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "grams",
+      "beat": 22,
+      "start": 221.747,
+      "end": 222.147,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "to",
+      "beat": 22,
+      "start": 222.147,
+      "end": 222.307,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "kilograms.",
+      "beat": 22,
+      "start": 222.307,
+      "end": 223.207,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "And",
+      "beat": 22,
+      "start": 223.427,
+      "end": 223.587,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "assuming",
+      "beat": 22,
+      "start": 223.587,
+      "end": 224.067,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "kinetic",
+      "beat": 22,
+      "start": 224.067,
+      "end": 224.547,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "energy",
+      "beat": 22,
+      "start": 224.547,
+      "end": 225.107,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "is",
+      "beat": 22,
+      "start": 225.107,
+      "end": 225.267,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "conserved",
+      "beat": 22,
+      "start": 225.267,
+      "end": 225.987,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "when",
+      "beat": 22,
+      "start": 225.987,
+      "end": 226.227,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 22,
+      "start": 226.227,
+      "end": 226.387,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "bullet",
+      "beat": 22,
+      "start": 226.387,
+      "end": 226.787,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "embeds.",
+      "beat": 22,
+      "start": 226.787,
+      "end": 227.45,
+      "lastInBeat": true,
+      "highlight": false
+    },
+    {
+      "text": "Now",
+      "beat": 23,
+      "start": 227.7,
+      "end": 228.02,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "it's",
+      "beat": 23,
+      "start": 228.02,
+      "end": 228.34,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "your",
+      "beat": 23,
+      "start": 228.34,
+      "end": 228.5,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "turn.",
+      "beat": 23,
+      "start": 228.5,
+      "end": 229.22,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "Try",
+      "beat": 23,
+      "start": 229.22,
+      "end": 229.54,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 23,
+      "start": 229.54,
+      "end": 229.7,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "three",
+      "beat": 23,
+      "start": 229.7,
+      "end": 230.02,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "exam",
+      "beat": 23,
+      "start": 230.02,
+      "end": 230.92,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "style",
+      "beat": 23,
+      "start": 230.02,
+      "end": 230.92,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "questions",
+      "beat": 23,
+      "start": 230.98,
+      "end": 231.38,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "on",
+      "beat": 23,
+      "start": 231.38,
+      "end": 231.62,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "screen,",
+      "beat": 23,
+      "start": 231.62,
+      "end": 232.26,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "then",
+      "beat": 23,
+      "start": 232.26,
+      "end": 232.5,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "check",
+      "beat": 23,
+      "start": 232.5,
+      "end": 232.82,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "your",
+      "beat": 23,
+      "start": 232.82,
+      "end": 232.98,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "answers",
+      "beat": 23,
+      "start": 232.98,
+      "end": 233.38,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "with",
+      "beat": 23,
+      "start": 233.38,
+      "end": 233.54,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 23,
+      "start": 233.54,
+      "end": 233.7,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "mark",
+      "beat": 23,
+      "start": 233.7,
+      "end": 234.1,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "scheme.",
+      "beat": 23,
+      "start": 234.1,
+      "end": 234.74,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "You've",
+      "beat": 23,
+      "start": 234.74,
+      "end": 235.06,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "got",
+      "beat": 23,
+      "start": 235.06,
+      "end": 235.3,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "this.",
+      "beat": 23,
+      "start": 235.3,
+      "end": 235.74,
+      "lastInBeat": true,
+      "highlight": false
+    }
+  ]
+}

@@ -1,0 +1,4520 @@
+[
+  {
+    "start": 0.3,
+    "end": 1.1,
+    "words": [
+      {
+        "text": "A",
+        "highlight": false,
+        "start": 0.3,
+        "end": 0.54
+      },
+      {
+        "text": "bullet",
+        "highlight": false,
+        "start": 0.54,
+        "end": 0.94
+      },
+      {
+        "text": "is",
+        "highlight": false,
+        "start": 0.94,
+        "end": 1.1
+      }
+    ]
+  },
+  {
+    "start": 1.1,
+    "end": 1.9,
+    "words": [
+      {
+        "text": "moving",
+        "highlight": false,
+        "start": 1.1,
+        "end": 1.5
+      },
+      {
+        "text": "at",
+        "highlight": false,
+        "start": 1.5,
+        "end": 1.9
+      },
+      {
+        "text": "four",
+        "highlight": true,
+        "start": 1.9,
+        "end": 2.54
+      }
+    ]
+  },
+  {
+    "start": 1.9,
+    "end": 3.26,
+    "words": [
+      {
+        "text": "hundred",
+        "highlight": true,
+        "start": 1.9,
+        "end": 2.54
+      },
+      {
+        "text": "metres",
+        "highlight": true,
+        "start": 2.54,
+        "end": 3.02
+      },
+      {
+        "text": "per",
+        "highlight": true,
+        "start": 3.02,
+        "end": 3.26
+      }
+    ]
+  },
+  {
+    "start": 3.26,
+    "end": 3.98,
+    "words": [
+      {
+        "text": "second.",
+        "highlight": true,
+        "start": 3.26,
+        "end": 3.98
+      }
+    ]
+  },
+  {
+    "start": 3.98,
+    "end": 4.7,
+    "words": [
+      {
+        "text": "A",
+        "highlight": false,
+        "start": 3.98,
+        "end": 4.14
+      },
+      {
+        "text": "tenth",
+        "highlight": false,
+        "start": 4.14,
+        "end": 4.54
+      },
+      {
+        "text": "of",
+        "highlight": false,
+        "start": 4.54,
+        "end": 4.7
+      }
+    ]
+  },
+  {
+    "start": 4.7,
+    "end": 5.66,
+    "words": [
+      {
+        "text": "a",
+        "highlight": false,
+        "start": 4.7,
+        "end": 4.78
+      },
+      {
+        "text": "second",
+        "highlight": false,
+        "start": 4.78,
+        "end": 5.1
+      },
+      {
+        "text": "later,",
+        "highlight": false,
+        "start": 5.1,
+        "end": 5.66
+      }
+    ]
+  },
+  {
+    "start": 5.66,
+    "end": 6.46,
+    "words": [
+      {
+        "text": "it",
+        "highlight": false,
+        "start": 5.66,
+        "end": 5.82
+      },
+      {
+        "text": "has",
+        "highlight": false,
+        "start": 5.82,
+        "end": 5.98
+      },
+      {
+        "text": "stopped",
+        "highlight": false,
+        "start": 5.98,
+        "end": 6.46
+      }
+    ]
+  },
+  {
+    "start": 6.46,
+    "end": 7.34,
+    "words": [
+      {
+        "text": "dead",
+        "highlight": false,
+        "start": 6.46,
+        "end": 6.78
+      },
+      {
+        "text": "inside",
+        "highlight": false,
+        "start": 6.78,
+        "end": 7.18
+      },
+      {
+        "text": "a",
+        "highlight": false,
+        "start": 7.18,
+        "end": 7.34
+      }
+    ]
+  },
+  {
+    "start": 7.34,
+    "end": 8.38,
+    "words": [
+      {
+        "text": "block",
+        "highlight": false,
+        "start": 7.34,
+        "end": 7.66
+      },
+      {
+        "text": "of",
+        "highlight": false,
+        "start": 7.66,
+        "end": 7.82
+      },
+      {
+        "text": "wood.",
+        "highlight": false,
+        "start": 7.82,
+        "end": 8.38
+      }
+    ]
+  },
+  {
+    "start": 8.38,
+    "end": 9.02,
+    "words": [
+      {
+        "text": "So",
+        "highlight": false,
+        "start": 8.38,
+        "end": 8.62
+      },
+      {
+        "text": "where",
+        "highlight": true,
+        "start": 8.62,
+        "end": 8.86
+      },
+      {
+        "text": "did",
+        "highlight": false,
+        "start": 8.86,
+        "end": 9.02
+      }
+    ]
+  },
+  {
+    "start": 9.02,
+    "end": 10.365,
+    "words": [
+      {
+        "text": "all",
+        "highlight": false,
+        "start": 9.02,
+        "end": 9.18
+      },
+      {
+        "text": "that",
+        "highlight": false,
+        "start": 9.18,
+        "end": 9.34
+      },
+      {
+        "text": "energy",
+        "highlight": false,
+        "start": 9.34,
+        "end": 9.82
+      },
+      {
+        "text": "go?",
+        "highlight": false,
+        "start": 9.82,
+        "end": 10.215
+      }
+    ]
+  },
+  {
+    "start": 10.465,
+    "end": 11.585,
+    "words": [
+      {
+        "text": "Pause",
+        "highlight": false,
+        "start": 10.465,
+        "end": 10.945
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 10.945,
+        "end": 11.105
+      },
+      {
+        "text": "video,",
+        "highlight": false,
+        "start": 11.105,
+        "end": 11.585
+      }
+    ]
+  },
+  {
+    "start": 11.585,
+    "end": 12.857,
+    "words": [
+      {
+        "text": "and",
+        "highlight": false,
+        "start": 11.585,
+        "end": 11.825
+      },
+      {
+        "text": "make",
+        "highlight": false,
+        "start": 11.825,
+        "end": 11.985
+      },
+      {
+        "text": "your",
+        "highlight": false,
+        "start": 11.985,
+        "end": 12.145
+      },
+      {
+        "text": "guess.",
+        "highlight": false,
+        "start": 12.145,
+        "end": 12.707
+      }
+    ]
+  },
+  {
+    "start": 16.957,
+    "end": 17.837,
+    "words": [
+      {
+        "text": "Let's",
+        "highlight": false,
+        "start": 16.957,
+        "end": 17.357
+      },
+      {
+        "text": "follow",
+        "highlight": false,
+        "start": 17.357,
+        "end": 17.677
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 17.677,
+        "end": 17.837
+      }
+    ]
+  },
+  {
+    "start": 17.837,
+    "end": 18.717,
+    "words": [
+      {
+        "text": "energy.",
+        "highlight": false,
+        "start": 17.837,
+        "end": 18.717
+      }
+    ]
+  },
+  {
+    "start": 18.717,
+    "end": 19.437,
+    "words": [
+      {
+        "text": "When",
+        "highlight": false,
+        "start": 18.717,
+        "end": 18.957
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 18.957,
+        "end": 19.037
+      },
+      {
+        "text": "bullet",
+        "highlight": false,
+        "start": 19.037,
+        "end": 19.437
+      }
+    ]
+  },
+  {
+    "start": 19.437,
+    "end": 20.397,
+    "words": [
+      {
+        "text": "is",
+        "highlight": false,
+        "start": 19.437,
+        "end": 19.597
+      },
+      {
+        "text": "fired,",
+        "highlight": false,
+        "start": 19.597,
+        "end": 20.397
+      }
+    ]
+  },
+  {
+    "start": 20.397,
+    "end": 21.197,
+    "words": [
+      {
+        "text": "energy",
+        "highlight": false,
+        "start": 20.397,
+        "end": 20.957
+      },
+      {
+        "text": "in",
+        "highlight": false,
+        "start": 20.957,
+        "end": 21.117
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 21.117,
+        "end": 21.197
+      }
+    ]
+  },
+  {
+    "start": 21.197,
+    "end": 22.157,
+    "words": [
+      {
+        "text": "chemical",
+        "highlight": true,
+        "start": 21.197,
+        "end": 21.677
+      },
+      {
+        "text": "store",
+        "highlight": true,
+        "start": 21.677,
+        "end": 21.997
+      },
+      {
+        "text": "of",
+        "highlight": false,
+        "start": 21.997,
+        "end": 22.157
+      }
+    ]
+  },
+  {
+    "start": 22.157,
+    "end": 23.277,
+    "words": [
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 22.157,
+        "end": 22.237
+      },
+      {
+        "text": "gunpowder",
+        "highlight": false,
+        "start": 22.237,
+        "end": 23.037
+      },
+      {
+        "text": "is",
+        "highlight": false,
+        "start": 23.037,
+        "end": 23.277
+      }
+    ]
+  },
+  {
+    "start": 23.277,
+    "end": 24.317,
+    "words": [
+      {
+        "text": "transferred",
+        "highlight": false,
+        "start": 23.277,
+        "end": 24.077
+      },
+      {
+        "text": "to",
+        "highlight": false,
+        "start": 24.077,
+        "end": 24.237
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 24.237,
+        "end": 24.317
+      }
+    ]
+  },
+  {
+    "start": 24.317,
+    "end": 25.757,
+    "words": [
+      {
+        "text": "kinetic",
+        "highlight": true,
+        "start": 24.317,
+        "end": 24.877
+      },
+      {
+        "text": "energy",
+        "highlight": true,
+        "start": 24.877,
+        "end": 25.357
+      },
+      {
+        "text": "store",
+        "highlight": true,
+        "start": 25.357,
+        "end": 25.757
+      }
+    ]
+  },
+  {
+    "start": 25.757,
+    "end": 26.844,
+    "words": [
+      {
+        "text": "of",
+        "highlight": false,
+        "start": 25.757,
+        "end": 25.997
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 25.997,
+        "end": 26.157
+      },
+      {
+        "text": "bullet.",
+        "highlight": false,
+        "start": 26.157,
+        "end": 26.694
+      }
+    ]
+  },
+  {
+    "start": 26.944,
+    "end": 28.144,
+    "words": [
+      {
+        "text": "As",
+        "highlight": false,
+        "start": 26.944,
+        "end": 27.184
+      },
+      {
+        "text": "it",
+        "highlight": false,
+        "start": 27.184,
+        "end": 27.424
+      },
+      {
+        "text": "flies,",
+        "highlight": false,
+        "start": 27.424,
+        "end": 28.144
+      }
+    ]
+  },
+  {
+    "start": 28.144,
+    "end": 29.104,
+    "words": [
+      {
+        "text": "a",
+        "highlight": false,
+        "start": 28.144,
+        "end": 28.304
+      },
+      {
+        "text": "little",
+        "highlight": false,
+        "start": 28.304,
+        "end": 28.544
+      },
+      {
+        "text": "energy",
+        "highlight": false,
+        "start": 28.544,
+        "end": 29.104
+      }
+    ]
+  },
+  {
+    "start": 29.104,
+    "end": 30.064,
+    "words": [
+      {
+        "text": "is",
+        "highlight": false,
+        "start": 29.104,
+        "end": 29.264
+      },
+      {
+        "text": "transferred",
+        "highlight": false,
+        "start": 29.264,
+        "end": 29.904
+      },
+      {
+        "text": "to",
+        "highlight": false,
+        "start": 29.904,
+        "end": 30.064
+      }
+    ]
+  },
+  {
+    "start": 30.064,
+    "end": 31.424,
+    "words": [
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 30.064,
+        "end": 30.224
+      },
+      {
+        "text": "surroundings",
+        "highlight": false,
+        "start": 30.224,
+        "end": 31.104
+      },
+      {
+        "text": "by",
+        "highlight": false,
+        "start": 31.104,
+        "end": 31.424
+      }
+    ]
+  },
+  {
+    "start": 31.424,
+    "end": 32.734,
+    "words": [
+      {
+        "text": "air",
+        "highlight": true,
+        "start": 31.424,
+        "end": 31.824
+      },
+      {
+        "text": "resistance.",
+        "highlight": true,
+        "start": 31.824,
+        "end": 32.584
+      }
+    ]
+  },
+  {
+    "start": 32.834,
+    "end": 33.474,
+    "words": [
+      {
+        "text": "Then",
+        "highlight": false,
+        "start": 32.834,
+        "end": 33.074
+      },
+      {
+        "text": "it",
+        "highlight": false,
+        "start": 33.074,
+        "end": 33.234
+      },
+      {
+        "text": "hits",
+        "highlight": false,
+        "start": 33.234,
+        "end": 33.474
+      }
+    ]
+  },
+  {
+    "start": 33.474,
+    "end": 34.274,
+    "words": [
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 33.474,
+        "end": 33.634
+      },
+      {
+        "text": "wood.",
+        "highlight": false,
+        "start": 33.634,
+        "end": 34.274
+      }
+    ]
+  },
+  {
+    "start": 34.274,
+    "end": 35.314,
+    "words": [
+      {
+        "text": "The",
+        "highlight": false,
+        "start": 34.274,
+        "end": 34.434
+      },
+      {
+        "text": "wood",
+        "highlight": false,
+        "start": 34.434,
+        "end": 34.834
+      },
+      {
+        "text": "pushes",
+        "highlight": false,
+        "start": 34.834,
+        "end": 35.314
+      }
+    ]
+  },
+  {
+    "start": 35.314,
+    "end": 35.874,
+    "words": [
+      {
+        "text": "back",
+        "highlight": false,
+        "start": 35.314,
+        "end": 35.554
+      },
+      {
+        "text": "with",
+        "highlight": false,
+        "start": 35.554,
+        "end": 35.714
+      },
+      {
+        "text": "a",
+        "highlight": false,
+        "start": 35.714,
+        "end": 35.874
+      }
+    ]
+  },
+  {
+    "start": 35.874,
+    "end": 36.994,
+    "words": [
+      {
+        "text": "large",
+        "highlight": false,
+        "start": 35.874,
+        "end": 36.274
+      },
+      {
+        "text": "force,",
+        "highlight": false,
+        "start": 36.274,
+        "end": 36.994
+      }
+    ]
+  },
+  {
+    "start": 36.994,
+    "end": 37.794,
+    "words": [
+      {
+        "text": "and",
+        "highlight": false,
+        "start": 36.994,
+        "end": 37.154
+      },
+      {
+        "text": "that",
+        "highlight": false,
+        "start": 37.154,
+        "end": 37.394
+      },
+      {
+        "text": "force",
+        "highlight": false,
+        "start": 37.394,
+        "end": 37.794
+      }
+    ]
+  },
+  {
+    "start": 37.794,
+    "end": 38.514,
+    "words": [
+      {
+        "text": "does",
+        "highlight": false,
+        "start": 37.794,
+        "end": 38.034
+      },
+      {
+        "text": "work",
+        "highlight": true,
+        "start": 38.034,
+        "end": 38.354
+      },
+      {
+        "text": "on",
+        "highlight": false,
+        "start": 38.354,
+        "end": 38.514
+      }
+    ]
+  },
+  {
+    "start": 38.514,
+    "end": 39.314,
+    "words": [
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 38.514,
+        "end": 38.594
+      },
+      {
+        "text": "bullet,",
+        "highlight": false,
+        "start": 38.594,
+        "end": 39.314
+      }
+    ]
+  },
+  {
+    "start": 39.314,
+    "end": 40.514,
+    "words": [
+      {
+        "text": "emptying",
+        "highlight": false,
+        "start": 39.314,
+        "end": 39.794
+      },
+      {
+        "text": "its",
+        "highlight": false,
+        "start": 39.794,
+        "end": 39.954
+      },
+      {
+        "text": "kinetic",
+        "highlight": true,
+        "start": 39.954,
+        "end": 40.514
+      }
+    ]
+  },
+  {
+    "start": 40.514,
+    "end": 41.149,
+    "words": [
+      {
+        "text": "store.",
+        "highlight": true,
+        "start": 40.514,
+        "end": 40.999
+      }
+    ]
+  },
+  {
+    "start": 41.249,
+    "end": 42.369,
+    "words": [
+      {
+        "text": "That",
+        "highlight": false,
+        "start": 41.249,
+        "end": 41.569
+      },
+      {
+        "text": "energy",
+        "highlight": false,
+        "start": 41.569,
+        "end": 42.049
+      },
+      {
+        "text": "ends",
+        "highlight": false,
+        "start": 42.049,
+        "end": 42.369
+      }
+    ]
+  },
+  {
+    "start": 42.369,
+    "end": 42.849,
+    "words": [
+      {
+        "text": "up",
+        "highlight": false,
+        "start": 42.369,
+        "end": 42.529
+      },
+      {
+        "text": "in",
+        "highlight": false,
+        "start": 42.529,
+        "end": 42.769
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 42.769,
+        "end": 42.849
+      }
+    ]
+  },
+  {
+    "start": 42.849,
+    "end": 44.129,
+    "words": [
+      {
+        "text": "thermal",
+        "highlight": true,
+        "start": 42.849,
+        "end": 43.329
+      },
+      {
+        "text": "energy",
+        "highlight": true,
+        "start": 43.329,
+        "end": 43.809
+      },
+      {
+        "text": "store",
+        "highlight": true,
+        "start": 43.809,
+        "end": 44.129
+      }
+    ]
+  },
+  {
+    "start": 44.129,
+    "end": 44.849,
+    "words": [
+      {
+        "text": "of",
+        "highlight": false,
+        "start": 44.129,
+        "end": 44.289
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 44.289,
+        "end": 44.369
+      },
+      {
+        "text": "bullet",
+        "highlight": false,
+        "start": 44.369,
+        "end": 44.849
+      }
+    ]
+  },
+  {
+    "start": 44.849,
+    "end": 45.729,
+    "words": [
+      {
+        "text": "and",
+        "highlight": false,
+        "start": 44.849,
+        "end": 45.009
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 45.009,
+        "end": 45.169
+      },
+      {
+        "text": "wood,",
+        "highlight": false,
+        "start": 45.169,
+        "end": 45.729
+      }
+    ]
+  },
+  {
+    "start": 45.729,
+    "end": 46.849,
+    "words": [
+      {
+        "text": "as",
+        "highlight": false,
+        "start": 45.729,
+        "end": 46.129
+      },
+      {
+        "text": "sound,",
+        "highlight": true,
+        "start": 46.129,
+        "end": 46.849
+      }
+    ]
+  },
+  {
+    "start": 46.849,
+    "end": 47.809,
+    "words": [
+      {
+        "text": "and",
+        "highlight": false,
+        "start": 46.849,
+        "end": 47.009
+      },
+      {
+        "text": "in",
+        "highlight": false,
+        "start": 47.009,
+        "end": 47.169
+      },
+      {
+        "text": "splitting",
+        "highlight": false,
+        "start": 47.169,
+        "end": 47.809
+      }
+    ]
+  },
+  {
+    "start": 47.809,
+    "end": 48.769,
+    "words": [
+      {
+        "text": "and",
+        "highlight": false,
+        "start": 47.809,
+        "end": 47.969
+      },
+      {
+        "text": "deforming",
+        "highlight": true,
+        "start": 47.969,
+        "end": 48.609
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 48.609,
+        "end": 48.769
+      }
+    ]
+  },
+  {
+    "start": 48.769,
+    "end": 49.369,
+    "words": [
+      {
+        "text": "wood.",
+        "highlight": false,
+        "start": 48.769,
+        "end": 49.184
+      }
+    ]
+  },
+  {
+    "start": 49.434,
+    "end": 50.074,
+    "words": [
+      {
+        "text": "None",
+        "highlight": false,
+        "start": 49.434,
+        "end": 49.754
+      },
+      {
+        "text": "of",
+        "highlight": false,
+        "start": 49.754,
+        "end": 49.914
+      },
+      {
+        "text": "it",
+        "highlight": false,
+        "start": 49.914,
+        "end": 50.074
+      }
+    ]
+  },
+  {
+    "start": 50.074,
+    "end": 51.354,
+    "words": [
+      {
+        "text": "is",
+        "highlight": false,
+        "start": 50.074,
+        "end": 50.314
+      },
+      {
+        "text": "destroyed.",
+        "highlight": true,
+        "start": 50.314,
+        "end": 51.214
+      }
+    ]
+  },
+  {
+    "start": 51.354,
+    "end": 52.314,
+    "words": [
+      {
+        "text": "That's",
+        "highlight": false,
+        "start": 51.354,
+        "end": 51.594
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 51.594,
+        "end": 51.754
+      },
+      {
+        "text": "principle",
+        "highlight": false,
+        "start": 51.754,
+        "end": 52.314
+      }
+    ]
+  },
+  {
+    "start": 52.314,
+    "end": 53.514,
+    "words": [
+      {
+        "text": "of",
+        "highlight": false,
+        "start": 52.314,
+        "end": 52.474
+      },
+      {
+        "text": "conservation",
+        "highlight": true,
+        "start": 52.474,
+        "end": 53.274
+      },
+      {
+        "text": "of",
+        "highlight": true,
+        "start": 53.274,
+        "end": 53.514
+      }
+    ]
+  },
+  {
+    "start": 53.514,
+    "end": 54.474,
+    "words": [
+      {
+        "text": "energy.",
+        "highlight": true,
+        "start": 53.514,
+        "end": 54.414
+      }
+    ]
+  },
+  {
+    "start": 54.474,
+    "end": 55.354,
+    "words": [
+      {
+        "text": "But",
+        "highlight": false,
+        "start": 54.474,
+        "end": 54.634
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 54.634,
+        "end": 54.794
+      },
+      {
+        "text": "energy",
+        "highlight": false,
+        "start": 54.794,
+        "end": 55.354
+      }
+    ]
+  },
+  {
+    "start": 55.354,
+    "end": 56.714,
+    "words": [
+      {
+        "text": "has",
+        "highlight": false,
+        "start": 55.354,
+        "end": 55.514
+      },
+      {
+        "text": "been",
+        "highlight": false,
+        "start": 55.514,
+        "end": 55.754
+      },
+      {
+        "text": "dissipated:",
+        "highlight": true,
+        "start": 55.754,
+        "end": 56.654
+      }
+    ]
+  },
+  {
+    "start": 56.714,
+    "end": 57.594,
+    "words": [
+      {
+        "text": "spread",
+        "highlight": false,
+        "start": 56.714,
+        "end": 57.194
+      },
+      {
+        "text": "out",
+        "highlight": false,
+        "start": 57.194,
+        "end": 57.354
+      },
+      {
+        "text": "into",
+        "highlight": false,
+        "start": 57.354,
+        "end": 57.594
+      }
+    ]
+  },
+  {
+    "start": 57.594,
+    "end": 58.714,
+    "words": [
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 57.594,
+        "end": 57.834
+      },
+      {
+        "text": "surroundings,",
+        "highlight": false,
+        "start": 57.834,
+        "end": 58.714
+      }
+    ]
+  },
+  {
+    "start": 58.714,
+    "end": 59.434,
+    "words": [
+      {
+        "text": "where",
+        "highlight": true,
+        "start": 58.714,
+        "end": 58.954
+      },
+      {
+        "text": "it",
+        "highlight": false,
+        "start": 58.954,
+        "end": 59.034
+      },
+      {
+        "text": "can't",
+        "highlight": false,
+        "start": 59.034,
+        "end": 59.434
+      }
+    ]
+  },
+  {
+    "start": 59.434,
+    "end": 60.898,
+    "words": [
+      {
+        "text": "easily",
+        "highlight": false,
+        "start": 59.434,
+        "end": 59.834
+      },
+      {
+        "text": "be",
+        "highlight": false,
+        "start": 59.834,
+        "end": 60.074
+      },
+      {
+        "text": "used",
+        "highlight": false,
+        "start": 60.074,
+        "end": 60.314
+      },
+      {
+        "text": "again.",
+        "highlight": false,
+        "start": 60.314,
+        "end": 60.748
+      }
+    ]
+  },
+  {
+    "start": 60.998,
+    "end": 61.798,
+    "words": [
+      {
+        "text": "Here's",
+        "highlight": false,
+        "start": 60.998,
+        "end": 61.398
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 61.398,
+        "end": 61.478
+      },
+      {
+        "text": "whole",
+        "highlight": false,
+        "start": 61.478,
+        "end": 61.798
+      }
+    ]
+  },
+  {
+    "start": 61.798,
+    "end": 62.678,
+    "words": [
+      {
+        "text": "journey",
+        "highlight": false,
+        "start": 61.798,
+        "end": 62.278
+      },
+      {
+        "text": "as",
+        "highlight": false,
+        "start": 62.278,
+        "end": 62.518
+      },
+      {
+        "text": "an",
+        "highlight": false,
+        "start": 62.518,
+        "end": 62.678
+      }
+    ]
+  },
+  {
+    "start": 62.678,
+    "end": 64.438,
+    "words": [
+      {
+        "text": "energy",
+        "highlight": false,
+        "start": 62.678,
+        "end": 63.078
+      },
+      {
+        "text": "flow",
+        "highlight": false,
+        "start": 63.078,
+        "end": 63.478
+      },
+      {
+        "text": "diagram.",
+        "highlight": false,
+        "start": 63.478,
+        "end": 64.378
+      }
+    ]
+  },
+  {
+    "start": 64.438,
+    "end": 65.078,
+    "words": [
+      {
+        "text": "The",
+        "highlight": false,
+        "start": 64.438,
+        "end": 64.598
+      },
+      {
+        "text": "width",
+        "highlight": false,
+        "start": 64.598,
+        "end": 64.998
+      },
+      {
+        "text": "of",
+        "highlight": false,
+        "start": 64.998,
+        "end": 65.078
+      }
+    ]
+  },
+  {
+    "start": 65.078,
+    "end": 66.198,
+    "words": [
+      {
+        "text": "each",
+        "highlight": false,
+        "start": 65.078,
+        "end": 65.398
+      },
+      {
+        "text": "arrow",
+        "highlight": false,
+        "start": 65.398,
+        "end": 65.878
+      },
+      {
+        "text": "shows",
+        "highlight": false,
+        "start": 65.878,
+        "end": 66.198
+      }
+    ]
+  },
+  {
+    "start": 66.198,
+    "end": 67.238,
+    "words": [
+      {
+        "text": "how",
+        "highlight": false,
+        "start": 66.198,
+        "end": 66.438
+      },
+      {
+        "text": "much",
+        "highlight": false,
+        "start": 66.438,
+        "end": 66.678
+      },
+      {
+        "text": "energy",
+        "highlight": false,
+        "start": 66.678,
+        "end": 67.238
+      }
+    ]
+  },
+  {
+    "start": 67.238,
+    "end": 68.518,
+    "words": [
+      {
+        "text": "goes",
+        "highlight": false,
+        "start": 67.238,
+        "end": 67.558
+      },
+      {
+        "text": "that",
+        "highlight": false,
+        "start": 67.558,
+        "end": 67.878
+      },
+      {
+        "text": "way.",
+        "highlight": false,
+        "start": 67.878,
+        "end": 68.518
+      }
+    ]
+  },
+  {
+    "start": 68.518,
+    "end": 69.558,
+    "words": [
+      {
+        "text": "The",
+        "highlight": false,
+        "start": 68.518,
+        "end": 68.678
+      },
+      {
+        "text": "useful",
+        "highlight": false,
+        "start": 68.678,
+        "end": 69.158
+      },
+      {
+        "text": "share",
+        "highlight": false,
+        "start": 69.158,
+        "end": 69.558
+      }
+    ]
+  },
+  {
+    "start": 69.558,
+    "end": 70.278,
+    "words": [
+      {
+        "text": "that",
+        "highlight": false,
+        "start": 69.558,
+        "end": 69.718
+      },
+      {
+        "text": "reaches",
+        "highlight": false,
+        "start": 69.718,
+        "end": 70.118
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 70.118,
+        "end": 70.278
+      }
+    ]
+  },
+  {
+    "start": 70.278,
+    "end": 72.038,
+    "words": [
+      {
+        "text": "bullet's",
+        "highlight": false,
+        "start": 70.278,
+        "end": 70.838
+      },
+      {
+        "text": "kinetic",
+        "highlight": true,
+        "start": 70.838,
+        "end": 71.398
+      },
+      {
+        "text": "store,",
+        "highlight": true,
+        "start": 71.398,
+        "end": 72.038
+      }
+    ]
+  },
+  {
+    "start": 72.038,
+    "end": 72.838,
+    "words": [
+      {
+        "text": "divided",
+        "highlight": false,
+        "start": 72.038,
+        "end": 72.518
+      },
+      {
+        "text": "by",
+        "highlight": false,
+        "start": 72.518,
+        "end": 72.678
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 72.678,
+        "end": 72.838
+      }
+    ]
+  },
+  {
+    "start": 72.838,
+    "end": 73.958,
+    "words": [
+      {
+        "text": "total",
+        "highlight": false,
+        "start": 72.838,
+        "end": 73.158
+      },
+      {
+        "text": "input,",
+        "highlight": false,
+        "start": 73.158,
+        "end": 73.958
+      }
+    ]
+  },
+  {
+    "start": 73.958,
+    "end": 75.301,
+    "words": [
+      {
+        "text": "is",
+        "highlight": false,
+        "start": 73.958,
+        "end": 74.118
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 74.118,
+        "end": 74.278
+      },
+      {
+        "text": "efficiency.",
+        "highlight": true,
+        "start": 74.278,
+        "end": 75.151
+      }
+    ]
+  },
+  {
+    "start": 75.401,
+    "end": 76.281,
+    "words": [
+      {
+        "text": "Now",
+        "highlight": false,
+        "start": 75.401,
+        "end": 75.801
+      },
+      {
+        "text": "let's",
+        "highlight": false,
+        "start": 75.801,
+        "end": 76.041
+      },
+      {
+        "text": "put",
+        "highlight": false,
+        "start": 76.041,
+        "end": 76.281
+      }
+    ]
+  },
+  {
+    "start": 76.281,
+    "end": 77.481,
+    "words": [
+      {
+        "text": "numbers",
+        "highlight": false,
+        "start": 76.281,
+        "end": 76.681
+      },
+      {
+        "text": "on",
+        "highlight": false,
+        "start": 76.681,
+        "end": 76.921
+      },
+      {
+        "text": "it.",
+        "highlight": false,
+        "start": 76.921,
+        "end": 77.481
+      }
+    ]
+  },
+  {
+    "start": 77.481,
+    "end": 78.761,
+    "words": [
+      {
+        "text": "Example",
+        "highlight": false,
+        "start": 77.481,
+        "end": 78.361
+      },
+      {
+        "text": "one:",
+        "highlight": false,
+        "start": 78.361,
+        "end": 78.761
+      }
+    ]
+  },
+  {
+    "start": 78.761,
+    "end": 79.721,
+    "words": [
+      {
+        "text": "find",
+        "highlight": false,
+        "start": 78.761,
+        "end": 79.001
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 79.001,
+        "end": 79.161
+      },
+      {
+        "text": "kinetic",
+        "highlight": false,
+        "start": 79.161,
+        "end": 79.721
+      }
+    ]
+  },
+  {
+    "start": 79.721,
+    "end": 80.681,
+    "words": [
+      {
+        "text": "energy",
+        "highlight": false,
+        "start": 79.721,
+        "end": 80.201
+      },
+      {
+        "text": "of",
+        "highlight": false,
+        "start": 80.201,
+        "end": 80.441
+      },
+      {
+        "text": "a",
+        "highlight": false,
+        "start": 80.441,
+        "end": 80.681
+      }
+    ]
+  },
+  {
+    "start": 80.681,
+    "end": 81.801,
+    "words": [
+      {
+        "text": "ten",
+        "highlight": false,
+        "start": 80.681,
+        "end": 80.921
+      },
+      {
+        "text": "gram",
+        "highlight": false,
+        "start": 80.921,
+        "end": 81.321
+      },
+      {
+        "text": "bullet",
+        "highlight": false,
+        "start": 81.321,
+        "end": 81.801
+      }
+    ]
+  },
+  {
+    "start": 81.801,
+    "end": 82.601,
+    "words": [
+      {
+        "text": "moving",
+        "highlight": false,
+        "start": 81.801,
+        "end": 82.201
+      },
+      {
+        "text": "at",
+        "highlight": false,
+        "start": 82.201,
+        "end": 82.601
+      },
+      {
+        "text": "four",
+        "highlight": true,
+        "start": 82.601,
+        "end": 83.081
+      }
+    ]
+  },
+  {
+    "start": 82.601,
+    "end": 83.801,
+    "words": [
+      {
+        "text": "hundred",
+        "highlight": true,
+        "start": 82.601,
+        "end": 83.081
+      },
+      {
+        "text": "metres",
+        "highlight": true,
+        "start": 83.081,
+        "end": 83.561
+      },
+      {
+        "text": "per",
+        "highlight": true,
+        "start": 83.561,
+        "end": 83.801
+      }
+    ]
+  },
+  {
+    "start": 83.801,
+    "end": 84.441,
+    "words": [
+      {
+        "text": "second.",
+        "highlight": true,
+        "start": 83.801,
+        "end": 84.291
+      }
+    ]
+  },
+  {
+    "start": 84.541,
+    "end": 85.101,
+    "words": [
+      {
+        "text": "First,",
+        "highlight": false,
+        "start": 84.541,
+        "end": 85.101
+      }
+    ]
+  },
+  {
+    "start": 85.101,
+    "end": 85.901,
+    "words": [
+      {
+        "text": "convert",
+        "highlight": false,
+        "start": 85.101,
+        "end": 85.501
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 85.501,
+        "end": 85.581
+      },
+      {
+        "text": "mass",
+        "highlight": false,
+        "start": 85.581,
+        "end": 85.901
+      }
+    ]
+  },
+  {
+    "start": 85.901,
+    "end": 87.191,
+    "words": [
+      {
+        "text": "into",
+        "highlight": false,
+        "start": 85.901,
+        "end": 86.141
+      },
+      {
+        "text": "kilograms.",
+        "highlight": true,
+        "start": 86.141,
+        "end": 87.041
+      }
+    ]
+  },
+  {
+    "start": 87.421,
+    "end": 88.701,
+    "words": [
+      {
+        "text": "Ten",
+        "highlight": false,
+        "start": 87.421,
+        "end": 87.581
+      },
+      {
+        "text": "grams",
+        "highlight": false,
+        "start": 87.581,
+        "end": 88.141
+      },
+      {
+        "text": "is",
+        "highlight": false,
+        "start": 88.141,
+        "end": 88.701
+      }
+    ]
+  },
+  {
+    "start": 88.701,
+    "end": 88.701,
+    "words": [
+      {
+        "text": "zero",
+        "highlight": true,
+        "start": 88.701,
+        "end": 89.601
+      },
+      {
+        "text": "point",
+        "highlight": true,
+        "start": 88.701,
+        "end": 89.601
+      },
+      {
+        "text": "zero",
+        "highlight": true,
+        "start": 88.701,
+        "end": 89.601
+      }
+    ]
+  },
+  {
+    "start": 88.701,
+    "end": 91.031,
+    "words": [
+      {
+        "text": "one",
+        "highlight": true,
+        "start": 88.701,
+        "end": 89.601
+      },
+      {
+        "text": "kilograms.",
+        "highlight": true,
+        "start": 89.981,
+        "end": 90.881
+      }
+    ]
+  },
+  {
+    "start": 91.261,
+    "end": 91.821,
+    "words": [
+      {
+        "text": "This",
+        "highlight": false,
+        "start": 91.261,
+        "end": 91.421
+      },
+      {
+        "text": "is",
+        "highlight": false,
+        "start": 91.421,
+        "end": 91.661
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 91.661,
+        "end": 91.821
+      }
+    ]
+  },
+  {
+    "start": 91.821,
+    "end": 93.181,
+    "words": [
+      {
+        "text": "step",
+        "highlight": false,
+        "start": 91.821,
+        "end": 92.221
+      },
+      {
+        "text": "students",
+        "highlight": false,
+        "start": 92.221,
+        "end": 92.701
+      },
+      {
+        "text": "forget",
+        "highlight": false,
+        "start": 92.701,
+        "end": 93.181
+      }
+    ]
+  },
+  {
+    "start": 93.181,
+    "end": 94.167,
+    "words": [
+      {
+        "text": "most",
+        "highlight": false,
+        "start": 93.181,
+        "end": 93.421
+      },
+      {
+        "text": "often.",
+        "highlight": false,
+        "start": 93.421,
+        "end": 94.017
+      }
+    ]
+  },
+  {
+    "start": 94.267,
+    "end": 95.867,
+    "words": [
+      {
+        "text": "Kinetic",
+        "highlight": false,
+        "start": 94.267,
+        "end": 94.827
+      },
+      {
+        "text": "energy",
+        "highlight": false,
+        "start": 94.827,
+        "end": 95.467
+      },
+      {
+        "text": "equals",
+        "highlight": false,
+        "start": 95.467,
+        "end": 95.867
+      }
+    ]
+  },
+  {
+    "start": 95.867,
+    "end": 96.667,
+    "words": [
+      {
+        "text": "one",
+        "highlight": false,
+        "start": 95.867,
+        "end": 96.187
+      },
+      {
+        "text": "half",
+        "highlight": false,
+        "start": 96.187,
+        "end": 96.667
+      },
+      {
+        "text": "m",
+        "highlight": false,
+        "start": 96.667,
+        "end": 97.227
+      }
+    ]
+  },
+  {
+    "start": 96.667,
+    "end": 98.027,
+    "words": [
+      {
+        "text": "v",
+        "highlight": false,
+        "start": 96.667,
+        "end": 97.227
+      },
+      {
+        "text": "squared.",
+        "highlight": false,
+        "start": 97.227,
+        "end": 98.027
+      }
+    ]
+  },
+  {
+    "start": 98.027,
+    "end": 98.907,
+    "words": [
+      {
+        "text": "Pause",
+        "highlight": false,
+        "start": 98.027,
+        "end": 98.427
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 98.427,
+        "end": 98.587
+      },
+      {
+        "text": "video",
+        "highlight": false,
+        "start": 98.587,
+        "end": 98.907
+      }
+    ]
+  },
+  {
+    "start": 98.907,
+    "end": 99.851,
+    "words": [
+      {
+        "text": "and",
+        "highlight": false,
+        "start": 98.907,
+        "end": 99.147
+      },
+      {
+        "text": "try",
+        "highlight": false,
+        "start": 99.147,
+        "end": 99.387
+      },
+      {
+        "text": "it.",
+        "highlight": false,
+        "start": 99.387,
+        "end": 99.701
+      }
+    ]
+  },
+  {
+    "start": 105.111,
+    "end": 105.751,
+    "words": [
+      {
+        "text": "One",
+        "highlight": false,
+        "start": 105.111,
+        "end": 105.351
+      },
+      {
+        "text": "half,",
+        "highlight": false,
+        "start": 105.351,
+        "end": 105.751
+      }
+    ]
+  },
+  {
+    "start": 105.751,
+    "end": 106.311,
+    "words": [
+      {
+        "text": "times",
+        "highlight": false,
+        "start": 105.751,
+        "end": 106.311
+      },
+      {
+        "text": "zero",
+        "highlight": false,
+        "start": 106.311,
+        "end": 107.211
+      },
+      {
+        "text": "point",
+        "highlight": false,
+        "start": 106.311,
+        "end": 107.211
+      }
+    ]
+  },
+  {
+    "start": 106.311,
+    "end": 107.361,
+    "words": [
+      {
+        "text": "zero",
+        "highlight": false,
+        "start": 106.311,
+        "end": 107.211
+      },
+      {
+        "text": "one,",
+        "highlight": false,
+        "start": 106.311,
+        "end": 107.211
+      }
+    ]
+  },
+  {
+    "start": 107.831,
+    "end": 109.031,
+    "words": [
+      {
+        "text": "times",
+        "highlight": false,
+        "start": 107.831,
+        "end": 108.471
+      },
+      {
+        "text": "four",
+        "highlight": false,
+        "start": 108.471,
+        "end": 109.031
+      },
+      {
+        "text": "hundred",
+        "highlight": false,
+        "start": 108.471,
+        "end": 109.031
+      }
+    ]
+  },
+  {
+    "start": 109.031,
+    "end": 109.751,
+    "words": [
+      {
+        "text": "squared,",
+        "highlight": false,
+        "start": 109.031,
+        "end": 109.751
+      }
+    ]
+  },
+  {
+    "start": 109.751,
+    "end": 110.791,
+    "words": [
+      {
+        "text": "gives",
+        "highlight": false,
+        "start": 109.751,
+        "end": 110.231
+      },
+      {
+        "text": "eight",
+        "highlight": true,
+        "start": 110.231,
+        "end": 110.791
+      },
+      {
+        "text": "hundred",
+        "highlight": true,
+        "start": 110.231,
+        "end": 110.791
+      }
+    ]
+  },
+  {
+    "start": 110.791,
+    "end": 111.671,
+    "words": [
+      {
+        "text": "joules.",
+        "highlight": true,
+        "start": 110.791,
+        "end": 111.671
+      }
+    ]
+  },
+  {
+    "start": 111.671,
+    "end": 112.391,
+    "words": [
+      {
+        "text": "And",
+        "highlight": false,
+        "start": 111.671,
+        "end": 111.831
+      },
+      {
+        "text": "don't",
+        "highlight": false,
+        "start": 111.831,
+        "end": 112.151
+      },
+      {
+        "text": "forget",
+        "highlight": false,
+        "start": 112.151,
+        "end": 112.391
+      }
+    ]
+  },
+  {
+    "start": 112.391,
+    "end": 113.765,
+    "words": [
+      {
+        "text": "to",
+        "highlight": false,
+        "start": 112.391,
+        "end": 112.551
+      },
+      {
+        "text": "square",
+        "highlight": true,
+        "start": 112.551,
+        "end": 112.951
+      },
+      {
+        "text": "the",
+        "highlight": true,
+        "start": 112.951,
+        "end": 113.111
+      },
+      {
+        "text": "speed.",
+        "highlight": true,
+        "start": 113.111,
+        "end": 113.615
+      }
+    ]
+  },
+  {
+    "start": 113.865,
+    "end": 115.145,
+    "words": [
+      {
+        "text": "Example",
+        "highlight": false,
+        "start": 113.865,
+        "end": 114.665
+      },
+      {
+        "text": "two.",
+        "highlight": false,
+        "start": 114.665,
+        "end": 115.145
+      }
+    ]
+  },
+  {
+    "start": 115.145,
+    "end": 116.185,
+    "words": [
+      {
+        "text": "The",
+        "highlight": false,
+        "start": 115.145,
+        "end": 115.305
+      },
+      {
+        "text": "bullet",
+        "highlight": false,
+        "start": 115.305,
+        "end": 115.785
+      },
+      {
+        "text": "stops",
+        "highlight": false,
+        "start": 115.785,
+        "end": 116.185
+      }
+    ]
+  },
+  {
+    "start": 116.185,
+    "end": 117.225,
+    "words": [
+      {
+        "text": "after",
+        "highlight": false,
+        "start": 116.185,
+        "end": 116.425
+      },
+      {
+        "text": "travelling",
+        "highlight": false,
+        "start": 116.425,
+        "end": 117.065
+      },
+      {
+        "text": "eight",
+        "highlight": false,
+        "start": 117.065,
+        "end": 117.225
+      }
+    ]
+  },
+  {
+    "start": 117.225,
+    "end": 118.345,
+    "words": [
+      {
+        "text": "centimetres",
+        "highlight": false,
+        "start": 117.225,
+        "end": 118.025
+      },
+      {
+        "text": "into",
+        "highlight": false,
+        "start": 118.025,
+        "end": 118.185
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 118.185,
+        "end": 118.345
+      }
+    ]
+  },
+  {
+    "start": 118.345,
+    "end": 119.065,
+    "words": [
+      {
+        "text": "wood.",
+        "highlight": false,
+        "start": 118.345,
+        "end": 119.065
+      }
+    ]
+  },
+  {
+    "start": 119.065,
+    "end": 120.185,
+    "words": [
+      {
+        "text": "What",
+        "highlight": false,
+        "start": 119.065,
+        "end": 119.305
+      },
+      {
+        "text": "average",
+        "highlight": false,
+        "start": 119.305,
+        "end": 119.785
+      },
+      {
+        "text": "force",
+        "highlight": false,
+        "start": 119.785,
+        "end": 120.185
+      }
+    ]
+  },
+  {
+    "start": 120.185,
+    "end": 120.905,
+    "words": [
+      {
+        "text": "does",
+        "highlight": false,
+        "start": 120.185,
+        "end": 120.425
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 120.425,
+        "end": 120.585
+      },
+      {
+        "text": "wood",
+        "highlight": false,
+        "start": 120.585,
+        "end": 120.905
+      }
+    ]
+  },
+  {
+    "start": 120.905,
+    "end": 121.891,
+    "words": [
+      {
+        "text": "exert",
+        "highlight": false,
+        "start": 120.905,
+        "end": 121.305
+      },
+      {
+        "text": "on",
+        "highlight": false,
+        "start": 121.305,
+        "end": 121.465
+      },
+      {
+        "text": "it?",
+        "highlight": false,
+        "start": 121.465,
+        "end": 121.741
+      }
+    ]
+  },
+  {
+    "start": 121.991,
+    "end": 122.871,
+    "words": [
+      {
+        "text": "All",
+        "highlight": false,
+        "start": 121.991,
+        "end": 122.391
+      },
+      {
+        "text": "eight",
+        "highlight": true,
+        "start": 122.391,
+        "end": 122.871
+      },
+      {
+        "text": "hundred",
+        "highlight": true,
+        "start": 122.391,
+        "end": 122.871
+      }
+    ]
+  },
+  {
+    "start": 122.871,
+    "end": 123.911,
+    "words": [
+      {
+        "text": "joules",
+        "highlight": true,
+        "start": 122.871,
+        "end": 123.351
+      },
+      {
+        "text": "is",
+        "highlight": false,
+        "start": 123.351,
+        "end": 123.511
+      },
+      {
+        "text": "removed",
+        "highlight": false,
+        "start": 123.511,
+        "end": 123.911
+      }
+    ]
+  },
+  {
+    "start": 123.911,
+    "end": 125.031,
+    "words": [
+      {
+        "text": "by",
+        "highlight": false,
+        "start": 123.911,
+        "end": 124.151
+      },
+      {
+        "text": "work",
+        "highlight": true,
+        "start": 124.151,
+        "end": 124.471
+      },
+      {
+        "text": "done,",
+        "highlight": false,
+        "start": 124.471,
+        "end": 125.031
+      }
+    ]
+  },
+  {
+    "start": 125.031,
+    "end": 125.911,
+    "words": [
+      {
+        "text": "and",
+        "highlight": false,
+        "start": 125.031,
+        "end": 125.191
+      },
+      {
+        "text": "work",
+        "highlight": true,
+        "start": 125.191,
+        "end": 125.591
+      },
+      {
+        "text": "done",
+        "highlight": false,
+        "start": 125.591,
+        "end": 125.911
+      }
+    ]
+  },
+  {
+    "start": 125.911,
+    "end": 127.191,
+    "words": [
+      {
+        "text": "equals",
+        "highlight": false,
+        "start": 125.911,
+        "end": 126.311
+      },
+      {
+        "text": "force",
+        "highlight": false,
+        "start": 126.311,
+        "end": 126.791
+      },
+      {
+        "text": "times",
+        "highlight": false,
+        "start": 126.791,
+        "end": 127.191
+      }
+    ]
+  },
+  {
+    "start": 127.191,
+    "end": 128.241,
+    "words": [
+      {
+        "text": "distance.",
+        "highlight": false,
+        "start": 127.191,
+        "end": 128.091
+      }
+    ]
+  },
+  {
+    "start": 128.391,
+    "end": 129.911,
+    "words": [
+      {
+        "text": "Eight",
+        "highlight": false,
+        "start": 128.391,
+        "end": 128.551
+      },
+      {
+        "text": "centimetres",
+        "highlight": false,
+        "start": 128.551,
+        "end": 129.431
+      },
+      {
+        "text": "is",
+        "highlight": false,
+        "start": 129.431,
+        "end": 129.911
+      }
+    ]
+  },
+  {
+    "start": 129.911,
+    "end": 129.911,
+    "words": [
+      {
+        "text": "zero",
+        "highlight": true,
+        "start": 129.911,
+        "end": 130.811
+      },
+      {
+        "text": "point",
+        "highlight": true,
+        "start": 129.911,
+        "end": 130.811
+      },
+      {
+        "text": "zero",
+        "highlight": true,
+        "start": 129.911,
+        "end": 130.811
+      }
+    ]
+  },
+  {
+    "start": 129.911,
+    "end": 132.071,
+    "words": [
+      {
+        "text": "eight",
+        "highlight": true,
+        "start": 129.911,
+        "end": 130.811
+      },
+      {
+        "text": "metres.",
+        "highlight": true,
+        "start": 131.271,
+        "end": 132.071
+      }
+    ]
+  },
+  {
+    "start": 132.071,
+    "end": 133.505,
+    "words": [
+      {
+        "text": "Pause",
+        "highlight": false,
+        "start": 132.071,
+        "end": 132.551
+      },
+      {
+        "text": "and",
+        "highlight": false,
+        "start": 132.551,
+        "end": 132.791
+      },
+      {
+        "text": "try",
+        "highlight": false,
+        "start": 132.791,
+        "end": 133.031
+      },
+      {
+        "text": "it.",
+        "highlight": false,
+        "start": 133.031,
+        "end": 133.355
+      }
+    ]
+  },
+  {
+    "start": 138.605,
+    "end": 139.725,
+    "words": [
+      {
+        "text": "Force",
+        "highlight": false,
+        "start": 138.605,
+        "end": 139.165
+      },
+      {
+        "text": "equals",
+        "highlight": false,
+        "start": 139.165,
+        "end": 139.725
+      },
+      {
+        "text": "eight",
+        "highlight": true,
+        "start": 139.725,
+        "end": 140.205
+      }
+    ]
+  },
+  {
+    "start": 139.725,
+    "end": 141.085,
+    "words": [
+      {
+        "text": "hundred",
+        "highlight": true,
+        "start": 139.725,
+        "end": 140.205
+      },
+      {
+        "text": "joules,",
+        "highlight": true,
+        "start": 140.205,
+        "end": 141.085
+      }
+    ]
+  },
+  {
+    "start": 141.085,
+    "end": 142.045,
+    "words": [
+      {
+        "text": "divided",
+        "highlight": false,
+        "start": 141.085,
+        "end": 141.565
+      },
+      {
+        "text": "by",
+        "highlight": false,
+        "start": 141.565,
+        "end": 142.045
+      },
+      {
+        "text": "zero",
+        "highlight": true,
+        "start": 142.045,
+        "end": 142.945
+      }
+    ]
+  },
+  {
+    "start": 142.045,
+    "end": 143.095,
+    "words": [
+      {
+        "text": "point",
+        "highlight": true,
+        "start": 142.045,
+        "end": 142.945
+      },
+      {
+        "text": "zero",
+        "highlight": true,
+        "start": 142.045,
+        "end": 142.945
+      },
+      {
+        "text": "eight",
+        "highlight": true,
+        "start": 142.045,
+        "end": 142.945
+      }
+    ]
+  },
+  {
+    "start": 143.325,
+    "end": 144.285,
+    "words": [
+      {
+        "text": "metres.",
+        "highlight": true,
+        "start": 143.325,
+        "end": 144.225
+      }
+    ]
+  },
+  {
+    "start": 144.285,
+    "end": 145.245,
+    "words": [
+      {
+        "text": "That's",
+        "highlight": false,
+        "start": 144.285,
+        "end": 144.685
+      },
+      {
+        "text": "ten",
+        "highlight": true,
+        "start": 144.685,
+        "end": 145.245
+      },
+      {
+        "text": "thousand",
+        "highlight": true,
+        "start": 144.685,
+        "end": 145.245
+      }
+    ]
+  },
+  {
+    "start": 145.245,
+    "end": 146.084,
+    "words": [
+      {
+        "text": "newtons.",
+        "highlight": true,
+        "start": 145.245,
+        "end": 145.934
+      }
+    ]
+  },
+  {
+    "start": 146.184,
+    "end": 148.104,
+    "words": [
+      {
+        "text": "Now",
+        "highlight": false,
+        "start": 146.184,
+        "end": 146.584
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 146.584,
+        "end": 146.744
+      },
+      {
+        "text": "extended",
+        "highlight": false,
+        "start": 146.744,
+        "end": 147.464
+      },
+      {
+        "text": "part.",
+        "highlight": false,
+        "start": 147.464,
+        "end": 148.104
+      }
+    ]
+  },
+  {
+    "start": 148.104,
+    "end": 148.904,
+    "words": [
+      {
+        "text": "The",
+        "highlight": false,
+        "start": 148.104,
+        "end": 148.264
+      },
+      {
+        "text": "same",
+        "highlight": false,
+        "start": 148.264,
+        "end": 148.504
+      },
+      {
+        "text": "bullet",
+        "highlight": false,
+        "start": 148.504,
+        "end": 148.904
+      }
+    ]
+  },
+  {
+    "start": 148.904,
+    "end": 150.264,
+    "words": [
+      {
+        "text": "hits",
+        "highlight": false,
+        "start": 148.904,
+        "end": 149.224
+      },
+      {
+        "text": "a",
+        "highlight": false,
+        "start": 149.224,
+        "end": 149.464
+      },
+      {
+        "text": "two",
+        "highlight": false,
+        "start": 149.464,
+        "end": 150.264
+      }
+    ]
+  },
+  {
+    "start": 150.264,
+    "end": 151.144,
+    "words": [
+      {
+        "text": "kilogram",
+        "highlight": false,
+        "start": 150.264,
+        "end": 150.314
+      },
+      {
+        "text": "block",
+        "highlight": false,
+        "start": 150.264,
+        "end": 150.744
+      },
+      {
+        "text": "resting",
+        "highlight": false,
+        "start": 150.744,
+        "end": 151.144
+      }
+    ]
+  },
+  {
+    "start": 151.144,
+    "end": 152.824,
+    "words": [
+      {
+        "text": "on",
+        "highlight": false,
+        "start": 151.144,
+        "end": 151.304
+      },
+      {
+        "text": "a",
+        "highlight": false,
+        "start": 151.304,
+        "end": 151.464
+      },
+      {
+        "text": "smooth",
+        "highlight": false,
+        "start": 151.464,
+        "end": 151.944
+      },
+      {
+        "text": "surface.",
+        "highlight": false,
+        "start": 151.944,
+        "end": 152.824
+      }
+    ]
+  },
+  {
+    "start": 152.824,
+    "end": 153.784,
+    "words": [
+      {
+        "text": "It",
+        "highlight": false,
+        "start": 152.824,
+        "end": 152.984
+      },
+      {
+        "text": "embeds,",
+        "highlight": false,
+        "start": 152.984,
+        "end": 153.784
+      }
+    ]
+  },
+  {
+    "start": 153.784,
+    "end": 154.424,
+    "words": [
+      {
+        "text": "and",
+        "highlight": false,
+        "start": 153.784,
+        "end": 153.944
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 153.944,
+        "end": 154.024
+      },
+      {
+        "text": "bullet",
+        "highlight": false,
+        "start": 154.024,
+        "end": 154.424
+      }
+    ]
+  },
+  {
+    "start": 154.424,
+    "end": 155.384,
+    "words": [
+      {
+        "text": "and",
+        "highlight": false,
+        "start": 154.424,
+        "end": 154.584
+      },
+      {
+        "text": "block",
+        "highlight": false,
+        "start": 154.584,
+        "end": 154.984
+      },
+      {
+        "text": "slide",
+        "highlight": false,
+        "start": 154.984,
+        "end": 155.384
+      }
+    ]
+  },
+  {
+    "start": 155.384,
+    "end": 156.232,
+    "words": [
+      {
+        "text": "off",
+        "highlight": false,
+        "start": 155.384,
+        "end": 155.624
+      },
+      {
+        "text": "together.",
+        "highlight": false,
+        "start": 155.624,
+        "end": 156.082
+      }
+    ]
+  },
+  {
+    "start": 156.331,
+    "end": 158.171,
+    "words": [
+      {
+        "text": "Momentum",
+        "highlight": true,
+        "start": 156.331,
+        "end": 157.051
+      },
+      {
+        "text": "is",
+        "highlight": true,
+        "start": 157.051,
+        "end": 157.291
+      },
+      {
+        "text": "conserved.",
+        "highlight": true,
+        "start": 157.291,
+        "end": 158.171
+      }
+    ]
+  },
+  {
+    "start": 158.171,
+    "end": 158.651,
+    "words": [
+      {
+        "text": "So",
+        "highlight": false,
+        "start": 158.171,
+        "end": 158.651
+      },
+      {
+        "text": "zero",
+        "highlight": false,
+        "start": 158.651,
+        "end": 159.551
+      },
+      {
+        "text": "point",
+        "highlight": false,
+        "start": 158.651,
+        "end": 159.551
+      }
+    ]
+  },
+  {
+    "start": 158.651,
+    "end": 160.331,
+    "words": [
+      {
+        "text": "zero",
+        "highlight": false,
+        "start": 158.651,
+        "end": 159.551
+      },
+      {
+        "text": "one",
+        "highlight": false,
+        "start": 158.651,
+        "end": 159.551
+      },
+      {
+        "text": "times",
+        "highlight": false,
+        "start": 159.771,
+        "end": 160.331
+      }
+    ]
+  },
+  {
+    "start": 160.331,
+    "end": 161.691,
+    "words": [
+      {
+        "text": "four",
+        "highlight": false,
+        "start": 160.331,
+        "end": 160.971
+      },
+      {
+        "text": "hundred",
+        "highlight": false,
+        "start": 160.331,
+        "end": 160.971
+      },
+      {
+        "text": "equals",
+        "highlight": false,
+        "start": 160.971,
+        "end": 161.691
+      }
+    ]
+  },
+  {
+    "start": 161.691,
+    "end": 161.691,
+    "words": [
+      {
+        "text": "two",
+        "highlight": false,
+        "start": 161.691,
+        "end": 162.591
+      },
+      {
+        "text": "point",
+        "highlight": false,
+        "start": 161.691,
+        "end": 162.591
+      },
+      {
+        "text": "zero",
+        "highlight": false,
+        "start": 161.691,
+        "end": 162.591
+      }
+    ]
+  },
+  {
+    "start": 161.691,
+    "end": 164.091,
+    "words": [
+      {
+        "text": "one",
+        "highlight": false,
+        "start": 161.691,
+        "end": 162.591
+      },
+      {
+        "text": "times",
+        "highlight": false,
+        "start": 162.891,
+        "end": 163.371
+      },
+      {
+        "text": "v.",
+        "highlight": false,
+        "start": 163.371,
+        "end": 164.091
+      }
+    ]
+  },
+  {
+    "start": 164.091,
+    "end": 164.811,
+    "words": [
+      {
+        "text": "Pause,",
+        "highlight": false,
+        "start": 164.091,
+        "end": 164.811
+      }
+    ]
+  },
+  {
+    "start": 164.811,
+    "end": 165.966,
+    "words": [
+      {
+        "text": "and",
+        "highlight": false,
+        "start": 164.811,
+        "end": 165.051
+      },
+      {
+        "text": "find",
+        "highlight": false,
+        "start": 165.051,
+        "end": 165.371
+      },
+      {
+        "text": "v.",
+        "highlight": false,
+        "start": 165.371,
+        "end": 165.816
+      }
+    ]
+  },
+  {
+    "start": 171.306,
+    "end": 172.506,
+    "words": [
+      {
+        "text": "Four",
+        "highlight": false,
+        "start": 171.306,
+        "end": 171.466
+      },
+      {
+        "text": "kilogram",
+        "highlight": false,
+        "start": 171.466,
+        "end": 172.026
+      },
+      {
+        "text": "metres",
+        "highlight": false,
+        "start": 172.026,
+        "end": 172.506
+      }
+    ]
+  },
+  {
+    "start": 172.506,
+    "end": 173.466,
+    "words": [
+      {
+        "text": "per",
+        "highlight": false,
+        "start": 172.506,
+        "end": 172.746
+      },
+      {
+        "text": "second,",
+        "highlight": false,
+        "start": 172.746,
+        "end": 173.466
+      }
+    ]
+  },
+  {
+    "start": 173.466,
+    "end": 174.426,
+    "words": [
+      {
+        "text": "divided",
+        "highlight": false,
+        "start": 173.466,
+        "end": 174.026
+      },
+      {
+        "text": "by",
+        "highlight": false,
+        "start": 174.026,
+        "end": 174.426
+      },
+      {
+        "text": "two",
+        "highlight": false,
+        "start": 174.426,
+        "end": 175.326
+      }
+    ]
+  },
+  {
+    "start": 174.426,
+    "end": 175.476,
+    "words": [
+      {
+        "text": "point",
+        "highlight": false,
+        "start": 174.426,
+        "end": 175.326
+      },
+      {
+        "text": "zero",
+        "highlight": false,
+        "start": 174.426,
+        "end": 175.326
+      },
+      {
+        "text": "one",
+        "highlight": false,
+        "start": 174.426,
+        "end": 175.326
+      }
+    ]
+  },
+  {
+    "start": 175.706,
+    "end": 176.666,
+    "words": [
+      {
+        "text": "kilograms,",
+        "highlight": true,
+        "start": 175.706,
+        "end": 176.606
+      }
+    ]
+  },
+  {
+    "start": 176.666,
+    "end": 177.626,
+    "words": [
+      {
+        "text": "gives",
+        "highlight": false,
+        "start": 176.666,
+        "end": 177.146
+      },
+      {
+        "text": "about",
+        "highlight": false,
+        "start": 177.146,
+        "end": 177.626
+      },
+      {
+        "text": "one",
+        "highlight": true,
+        "start": 177.626,
+        "end": 178.526
+      }
+    ]
+  },
+  {
+    "start": 177.626,
+    "end": 178.676,
+    "words": [
+      {
+        "text": "point",
+        "highlight": true,
+        "start": 177.626,
+        "end": 178.526
+      },
+      {
+        "text": "nine",
+        "highlight": true,
+        "start": 177.626,
+        "end": 178.526
+      },
+      {
+        "text": "nine",
+        "highlight": true,
+        "start": 177.626,
+        "end": 178.526
+      }
+    ]
+  },
+  {
+    "start": 178.746,
+    "end": 180.055,
+    "words": [
+      {
+        "text": "metres",
+        "highlight": true,
+        "start": 178.746,
+        "end": 179.226
+      },
+      {
+        "text": "per",
+        "highlight": true,
+        "start": 179.226,
+        "end": 179.466
+      },
+      {
+        "text": "second.",
+        "highlight": true,
+        "start": 179.466,
+        "end": 179.905
+      }
+    ]
+  },
+  {
+    "start": 180.155,
+    "end": 181.115,
+    "words": [
+      {
+        "text": "Now",
+        "highlight": false,
+        "start": 180.155,
+        "end": 180.475
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 180.475,
+        "end": 180.635
+      },
+      {
+        "text": "kinetic",
+        "highlight": false,
+        "start": 180.635,
+        "end": 181.115
+      }
+    ]
+  },
+  {
+    "start": 181.115,
+    "end": 181.995,
+    "words": [
+      {
+        "text": "energy",
+        "highlight": false,
+        "start": 181.115,
+        "end": 181.595
+      },
+      {
+        "text": "afterwards:",
+        "highlight": false,
+        "start": 181.595,
+        "end": 181.995
+      }
+    ]
+  },
+  {
+    "start": 181.995,
+    "end": 183.435,
+    "words": [
+      {
+        "text": "one",
+        "highlight": false,
+        "start": 181.995,
+        "end": 182.395
+      },
+      {
+        "text": "half,",
+        "highlight": false,
+        "start": 182.795,
+        "end": 183.435
+      }
+    ]
+  },
+  {
+    "start": 183.435,
+    "end": 183.915,
+    "words": [
+      {
+        "text": "times",
+        "highlight": false,
+        "start": 183.435,
+        "end": 183.915
+      },
+      {
+        "text": "two",
+        "highlight": false,
+        "start": 183.915,
+        "end": 184.815
+      },
+      {
+        "text": "point",
+        "highlight": false,
+        "start": 183.915,
+        "end": 184.815
+      }
+    ]
+  },
+  {
+    "start": 183.915,
+    "end": 184.965,
+    "words": [
+      {
+        "text": "zero",
+        "highlight": false,
+        "start": 183.915,
+        "end": 184.815
+      },
+      {
+        "text": "one,",
+        "highlight": false,
+        "start": 183.915,
+        "end": 184.815
+      }
+    ]
+  },
+  {
+    "start": 185.435,
+    "end": 185.995,
+    "words": [
+      {
+        "text": "times",
+        "highlight": false,
+        "start": 185.435,
+        "end": 185.995
+      },
+      {
+        "text": "one",
+        "highlight": false,
+        "start": 185.995,
+        "end": 186.895
+      },
+      {
+        "text": "point",
+        "highlight": false,
+        "start": 185.995,
+        "end": 186.895
+      }
+    ]
+  },
+  {
+    "start": 185.995,
+    "end": 188.075,
+    "words": [
+      {
+        "text": "nine",
+        "highlight": false,
+        "start": 185.995,
+        "end": 186.895
+      },
+      {
+        "text": "nine",
+        "highlight": false,
+        "start": 185.995,
+        "end": 186.895
+      },
+      {
+        "text": "squared.",
+        "highlight": false,
+        "start": 187.195,
+        "end": 188.075
+      }
+    ]
+  },
+  {
+    "start": 188.075,
+    "end": 189.195,
+    "words": [
+      {
+        "text": "That's",
+        "highlight": false,
+        "start": 188.075,
+        "end": 188.555
+      },
+      {
+        "text": "only",
+        "highlight": false,
+        "start": 188.555,
+        "end": 188.715
+      },
+      {
+        "text": "about",
+        "highlight": false,
+        "start": 188.715,
+        "end": 189.195
+      }
+    ]
+  },
+  {
+    "start": 189.195,
+    "end": 190.17,
+    "words": [
+      {
+        "text": "four",
+        "highlight": true,
+        "start": 189.195,
+        "end": 189.355
+      },
+      {
+        "text": "joules.",
+        "highlight": true,
+        "start": 189.355,
+        "end": 190.02
+      }
+    ]
+  },
+  {
+    "start": 190.51,
+    "end": 191.55,
+    "words": [
+      {
+        "text": "Eight",
+        "highlight": true,
+        "start": 190.51,
+        "end": 190.91
+      },
+      {
+        "text": "hundred",
+        "highlight": true,
+        "start": 190.51,
+        "end": 190.91
+      },
+      {
+        "text": "joules",
+        "highlight": true,
+        "start": 190.91,
+        "end": 191.55
+      }
+    ]
+  },
+  {
+    "start": 191.55,
+    "end": 192.27,
+    "words": [
+      {
+        "text": "before.",
+        "highlight": false,
+        "start": 191.55,
+        "end": 192.27
+      }
+    ]
+  },
+  {
+    "start": 192.27,
+    "end": 193.55,
+    "words": [
+      {
+        "text": "About",
+        "highlight": false,
+        "start": 192.27,
+        "end": 192.67
+      },
+      {
+        "text": "four",
+        "highlight": true,
+        "start": 192.67,
+        "end": 192.91
+      },
+      {
+        "text": "joules",
+        "highlight": true,
+        "start": 192.91,
+        "end": 193.55
+      }
+    ]
+  },
+  {
+    "start": 193.55,
+    "end": 194.19,
+    "words": [
+      {
+        "text": "after.",
+        "highlight": false,
+        "start": 193.55,
+        "end": 194.19
+      }
+    ]
+  },
+  {
+    "start": 194.19,
+    "end": 194.75,
+    "words": [
+      {
+        "text": "Around",
+        "highlight": false,
+        "start": 194.19,
+        "end": 194.75
+      },
+      {
+        "text": "seven",
+        "highlight": true,
+        "start": 194.75,
+        "end": 195.65
+      },
+      {
+        "text": "hundred",
+        "highlight": true,
+        "start": 194.75,
+        "end": 195.65
+      }
+    ]
+  },
+  {
+    "start": 194.75,
+    "end": 195.8,
+    "words": [
+      {
+        "text": "and",
+        "highlight": true,
+        "start": 194.75,
+        "end": 195.65
+      },
+      {
+        "text": "ninety",
+        "highlight": true,
+        "start": 194.75,
+        "end": 195.65
+      },
+      {
+        "text": "six",
+        "highlight": true,
+        "start": 194.75,
+        "end": 195.65
+      }
+    ]
+  },
+  {
+    "start": 196.03,
+    "end": 197.15,
+    "words": [
+      {
+        "text": "joules",
+        "highlight": true,
+        "start": 196.03,
+        "end": 196.51
+      },
+      {
+        "text": "of",
+        "highlight": false,
+        "start": 196.51,
+        "end": 196.67
+      },
+      {
+        "text": "kinetic",
+        "highlight": false,
+        "start": 196.67,
+        "end": 197.15
+      }
+    ]
+  },
+  {
+    "start": 197.15,
+    "end": 198.59,
+    "words": [
+      {
+        "text": "energy",
+        "highlight": false,
+        "start": 197.15,
+        "end": 197.63
+      },
+      {
+        "text": "have",
+        "highlight": false,
+        "start": 197.63,
+        "end": 197.87
+      },
+      {
+        "text": "gone.",
+        "highlight": false,
+        "start": 197.87,
+        "end": 198.59
+      }
+    ]
+  },
+  {
+    "start": 198.59,
+    "end": 199.95,
+    "words": [
+      {
+        "text": "Kinetic",
+        "highlight": false,
+        "start": 198.59,
+        "end": 199.15
+      },
+      {
+        "text": "energy",
+        "highlight": false,
+        "start": 199.15,
+        "end": 199.79
+      },
+      {
+        "text": "is",
+        "highlight": false,
+        "start": 199.79,
+        "end": 199.95
+      }
+    ]
+  },
+  {
+    "start": 199.95,
+    "end": 201.24,
+    "words": [
+      {
+        "text": "not",
+        "highlight": true,
+        "start": 199.95,
+        "end": 200.19
+      },
+      {
+        "text": "conserved.",
+        "highlight": true,
+        "start": 200.19,
+        "end": 201.09
+      }
+    ]
+  },
+  {
+    "start": 201.31,
+    "end": 201.95,
+    "words": [
+      {
+        "text": "This",
+        "highlight": false,
+        "start": 201.31,
+        "end": 201.47
+      },
+      {
+        "text": "is",
+        "highlight": false,
+        "start": 201.47,
+        "end": 201.71
+      },
+      {
+        "text": "an",
+        "highlight": false,
+        "start": 201.71,
+        "end": 201.95
+      }
+    ]
+  },
+  {
+    "start": 201.95,
+    "end": 203.465,
+    "words": [
+      {
+        "text": "inelastic",
+        "highlight": true,
+        "start": 201.95,
+        "end": 202.67
+      },
+      {
+        "text": "collision.",
+        "highlight": true,
+        "start": 202.67,
+        "end": 203.315
+      }
+    ]
+  },
+  {
+    "start": 203.565,
+    "end": 204.205,
+    "words": [
+      {
+        "text": "So",
+        "highlight": false,
+        "start": 203.565,
+        "end": 203.885
+      },
+      {
+        "text": "where",
+        "highlight": true,
+        "start": 203.885,
+        "end": 204.045
+      },
+      {
+        "text": "did",
+        "highlight": false,
+        "start": 204.045,
+        "end": 204.205
+      }
+    ]
+  },
+  {
+    "start": 204.205,
+    "end": 204.845,
+    "words": [
+      {
+        "text": "it",
+        "highlight": false,
+        "start": 204.205,
+        "end": 204.365
+      },
+      {
+        "text": "go?",
+        "highlight": false,
+        "start": 204.365,
+        "end": 204.845
+      }
+    ]
+  },
+  {
+    "start": 204.845,
+    "end": 205.725,
+    "words": [
+      {
+        "text": "Into",
+        "highlight": false,
+        "start": 204.845,
+        "end": 205.085
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 205.085,
+        "end": 205.245
+      },
+      {
+        "text": "thermal",
+        "highlight": true,
+        "start": 205.245,
+        "end": 205.725
+      }
+    ]
+  },
+  {
+    "start": 205.725,
+    "end": 206.285,
+    "words": [
+      {
+        "text": "store",
+        "highlight": true,
+        "start": 205.725,
+        "end": 206.045
+      },
+      {
+        "text": "of",
+        "highlight": false,
+        "start": 206.045,
+        "end": 206.125
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 206.125,
+        "end": 206.285
+      }
+    ]
+  },
+  {
+    "start": 206.285,
+    "end": 207.565,
+    "words": [
+      {
+        "text": "bullet",
+        "highlight": false,
+        "start": 206.285,
+        "end": 206.685
+      },
+      {
+        "text": "and",
+        "highlight": false,
+        "start": 206.685,
+        "end": 206.845
+      },
+      {
+        "text": "block,",
+        "highlight": false,
+        "start": 206.845,
+        "end": 207.565
+      }
+    ]
+  },
+  {
+    "start": 207.565,
+    "end": 208.525,
+    "words": [
+      {
+        "text": "into",
+        "highlight": false,
+        "start": 207.565,
+        "end": 207.805
+      },
+      {
+        "text": "sound,",
+        "highlight": true,
+        "start": 207.805,
+        "end": 208.525
+      }
+    ]
+  },
+  {
+    "start": 208.525,
+    "end": 209.565,
+    "words": [
+      {
+        "text": "and",
+        "highlight": false,
+        "start": 208.525,
+        "end": 208.685
+      },
+      {
+        "text": "into",
+        "highlight": false,
+        "start": 208.685,
+        "end": 208.925
+      },
+      {
+        "text": "deforming",
+        "highlight": true,
+        "start": 208.925,
+        "end": 209.565
+      }
+    ]
+  },
+  {
+    "start": 209.565,
+    "end": 210.445,
+    "words": [
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 209.565,
+        "end": 209.725
+      },
+      {
+        "text": "wood.",
+        "highlight": false,
+        "start": 209.725,
+        "end": 210.445
+      }
+    ]
+  },
+  {
+    "start": 210.445,
+    "end": 212.205,
+    "words": [
+      {
+        "text": "Momentum",
+        "highlight": true,
+        "start": 210.445,
+        "end": 211.165
+      },
+      {
+        "text": "is",
+        "highlight": true,
+        "start": 211.165,
+        "end": 211.325
+      },
+      {
+        "text": "conserved,",
+        "highlight": true,
+        "start": 211.325,
+        "end": 212.205
+      }
+    ]
+  },
+  {
+    "start": 212.205,
+    "end": 213.405,
+    "words": [
+      {
+        "text": "but",
+        "highlight": false,
+        "start": 212.205,
+        "end": 212.365
+      },
+      {
+        "text": "kinetic",
+        "highlight": false,
+        "start": 212.365,
+        "end": 212.925
+      },
+      {
+        "text": "energy",
+        "highlight": false,
+        "start": 212.925,
+        "end": 213.405
+      }
+    ]
+  },
+  {
+    "start": 213.405,
+    "end": 214.207,
+    "words": [
+      {
+        "text": "is",
+        "highlight": false,
+        "start": 213.405,
+        "end": 213.645
+      },
+      {
+        "text": "not.",
+        "highlight": false,
+        "start": 213.645,
+        "end": 214.057
+      }
+    ]
+  },
+  {
+    "start": 214.307,
+    "end": 215.107,
+    "words": [
+      {
+        "text": "Watch",
+        "highlight": false,
+        "start": 214.307,
+        "end": 214.707
+      },
+      {
+        "text": "out",
+        "highlight": false,
+        "start": 214.707,
+        "end": 214.867
+      },
+      {
+        "text": "for",
+        "highlight": false,
+        "start": 214.867,
+        "end": 215.107
+      }
+    ]
+  },
+  {
+    "start": 215.107,
+    "end": 216.947,
+    "words": [
+      {
+        "text": "four",
+        "highlight": false,
+        "start": 215.107,
+        "end": 215.347
+      },
+      {
+        "text": "classic",
+        "highlight": false,
+        "start": 215.347,
+        "end": 215.907
+      },
+      {
+        "text": "mistakes.",
+        "highlight": false,
+        "start": 215.907,
+        "end": 216.807
+      }
+    ]
+  },
+  {
+    "start": 216.947,
+    "end": 218.147,
+    "words": [
+      {
+        "text": "Saying",
+        "highlight": false,
+        "start": 216.947,
+        "end": 217.347
+      },
+      {
+        "text": "energy",
+        "highlight": false,
+        "start": 217.347,
+        "end": 217.907
+      },
+      {
+        "text": "is",
+        "highlight": false,
+        "start": 217.907,
+        "end": 218.147
+      }
+    ]
+  },
+  {
+    "start": 218.147,
+    "end": 219.187,
+    "words": [
+      {
+        "text": "destroyed.",
+        "highlight": true,
+        "start": 218.147,
+        "end": 219.047
+      }
+    ]
+  },
+  {
+    "start": 219.187,
+    "end": 220.307,
+    "words": [
+      {
+        "text": "Forgetting",
+        "highlight": false,
+        "start": 219.187,
+        "end": 219.747
+      },
+      {
+        "text": "to",
+        "highlight": false,
+        "start": 219.747,
+        "end": 219.907
+      },
+      {
+        "text": "square",
+        "highlight": true,
+        "start": 219.907,
+        "end": 220.307
+      }
+    ]
+  },
+  {
+    "start": 220.307,
+    "end": 221.027,
+    "words": [
+      {
+        "text": "v.",
+        "highlight": true,
+        "start": 220.307,
+        "end": 221.027
+      }
+    ]
+  },
+  {
+    "start": 221.027,
+    "end": 222.147,
+    "words": [
+      {
+        "text": "Not",
+        "highlight": false,
+        "start": 221.027,
+        "end": 221.267
+      },
+      {
+        "text": "converting",
+        "highlight": false,
+        "start": 221.267,
+        "end": 221.747
+      },
+      {
+        "text": "grams",
+        "highlight": true,
+        "start": 221.747,
+        "end": 222.147
+      }
+    ]
+  },
+  {
+    "start": 222.147,
+    "end": 223.357,
+    "words": [
+      {
+        "text": "to",
+        "highlight": true,
+        "start": 222.147,
+        "end": 222.307
+      },
+      {
+        "text": "kilograms.",
+        "highlight": true,
+        "start": 222.307,
+        "end": 223.207
+      }
+    ]
+  },
+  {
+    "start": 223.427,
+    "end": 224.547,
+    "words": [
+      {
+        "text": "And",
+        "highlight": false,
+        "start": 223.427,
+        "end": 223.587
+      },
+      {
+        "text": "assuming",
+        "highlight": false,
+        "start": 223.587,
+        "end": 224.067
+      },
+      {
+        "text": "kinetic",
+        "highlight": false,
+        "start": 224.067,
+        "end": 224.547
+      }
+    ]
+  },
+  {
+    "start": 224.547,
+    "end": 225.987,
+    "words": [
+      {
+        "text": "energy",
+        "highlight": false,
+        "start": 224.547,
+        "end": 225.107
+      },
+      {
+        "text": "is",
+        "highlight": false,
+        "start": 225.107,
+        "end": 225.267
+      },
+      {
+        "text": "conserved",
+        "highlight": false,
+        "start": 225.267,
+        "end": 225.987
+      }
+    ]
+  },
+  {
+    "start": 225.987,
+    "end": 226.787,
+    "words": [
+      {
+        "text": "when",
+        "highlight": false,
+        "start": 225.987,
+        "end": 226.227
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 226.227,
+        "end": 226.387
+      },
+      {
+        "text": "bullet",
+        "highlight": false,
+        "start": 226.387,
+        "end": 226.787
+      }
+    ]
+  },
+  {
+    "start": 226.787,
+    "end": 227.6,
+    "words": [
+      {
+        "text": "embeds.",
+        "highlight": false,
+        "start": 226.787,
+        "end": 227.45
+      }
+    ]
+  },
+  {
+    "start": 227.7,
+    "end": 229.22,
+    "words": [
+      {
+        "text": "Now",
+        "highlight": false,
+        "start": 227.7,
+        "end": 228.02
+      },
+      {
+        "text": "it's",
+        "highlight": false,
+        "start": 228.02,
+        "end": 228.34
+      },
+      {
+        "text": "your",
+        "highlight": false,
+        "start": 228.34,
+        "end": 228.5
+      },
+      {
+        "text": "turn.",
+        "highlight": false,
+        "start": 228.5,
+        "end": 229.22
+      }
+    ]
+  },
+  {
+    "start": 229.22,
+    "end": 230.02,
+    "words": [
+      {
+        "text": "Try",
+        "highlight": false,
+        "start": 229.22,
+        "end": 229.54
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 229.54,
+        "end": 229.7
+      },
+      {
+        "text": "three",
+        "highlight": false,
+        "start": 229.7,
+        "end": 230.02
+      }
+    ]
+  },
+  {
+    "start": 230.02,
+    "end": 231.38,
+    "words": [
+      {
+        "text": "exam",
+        "highlight": false,
+        "start": 230.02,
+        "end": 230.92
+      },
+      {
+        "text": "style",
+        "highlight": false,
+        "start": 230.02,
+        "end": 230.92
+      },
+      {
+        "text": "questions",
+        "highlight": false,
+        "start": 230.98,
+        "end": 231.38
+      }
+    ]
+  },
+  {
+    "start": 231.38,
+    "end": 232.26,
+    "words": [
+      {
+        "text": "on",
+        "highlight": false,
+        "start": 231.38,
+        "end": 231.62
+      },
+      {
+        "text": "screen,",
+        "highlight": false,
+        "start": 231.62,
+        "end": 232.26
+      }
+    ]
+  },
+  {
+    "start": 232.26,
+    "end": 232.98,
+    "words": [
+      {
+        "text": "then",
+        "highlight": false,
+        "start": 232.26,
+        "end": 232.5
+      },
+      {
+        "text": "check",
+        "highlight": false,
+        "start": 232.5,
+        "end": 232.82
+      },
+      {
+        "text": "your",
+        "highlight": false,
+        "start": 232.82,
+        "end": 232.98
+      }
+    ]
+  },
+  {
+    "start": 232.98,
+    "end": 233.7,
+    "words": [
+      {
+        "text": "answers",
+        "highlight": false,
+        "start": 232.98,
+        "end": 233.38
+      },
+      {
+        "text": "with",
+        "highlight": false,
+        "start": 233.38,
+        "end": 233.54
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 233.54,
+        "end": 233.7
+      }
+    ]
+  },
+  {
+    "start": 233.7,
+    "end": 234.74,
+    "words": [
+      {
+        "text": "mark",
+        "highlight": true,
+        "start": 233.7,
+        "end": 234.1
+      },
+      {
+        "text": "scheme.",
+        "highlight": true,
+        "start": 234.1,
+        "end": 234.74
+      }
+    ]
+  },
+  {
+    "start": 234.74,
+    "end": 235.89,
+    "words": [
+      {
+        "text": "You've",
+        "highlight": false,
+        "start": 234.74,
+        "end": 235.06
+      },
+      {
+        "text": "got",
+        "highlight": false,
+        "start": 235.06,
+        "end": 235.3
+      },
+      {
+        "text": "this.",
+        "highlight": false,
+        "start": 235.3,
+        "end": 235.74
+      }
+    ]
+  }
+]
