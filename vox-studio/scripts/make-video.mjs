@@ -7,6 +7,7 @@
 //
 // Every stage writes reusable artefacts; see README.md for the full map.
 import { spawnSync } from "node:child_process";
+import crypto from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -221,27 +222,40 @@ const main = async () => {
     log("--skip-render: stopping before render");
     return;
   }
-  step(7, "Render (Remotion → H.264/AAC)");
+  step(7, "Render (Remotion, resumable chunks)");
+  // Frames are rendered in short muted chunks keyed by a hash of the plan, so an
+  // interrupted render (container restart, crash) resumes where it stopped.
+  // Chunks are joined losslessly, then the mixed soundtrack is muxed in once.
   const browser = findBrowser();
-  const renderArgs = [
-    "remotion",
-    "render",
-    "src/index.ts",
-    "Explainer",
-    masterMp4,
-    `--props=${planPath}`,
-    "--codec=h264",
-    "--audio-codec=aac",
-    "--audio-bitrate=192k",
-    "--crf=16",
-    "--pixel-format=yuv420p",
-    `--concurrency=${args.concurrency ?? process.env.REMOTION_CONCURRENCY ?? 4}`,
-    "--log=warn",
-    ...(browser ? [`--browser-executable=${browser}`] : []),
-  ];
+  const planHash = crypto.createHash("sha1").update(fs.readFileSync(planPath)).digest("hex").slice(0, 10);
+  const chunkDir = path.join(OUT, "chunks", planHash);
+  fs.mkdirSync(chunkDir, { recursive: true });
+  for (const d of fs.readdirSync(path.join(OUT, "chunks"))) if (d !== planHash) fs.rmSync(path.join(OUT, "chunks", d), { recursive: true, force: true });
+  const CH = Number(args["chunk-frames"] ?? 600);
+  const total = plan.durationInFrames;
+  const chunks = [];
+  for (let a = 0; a < total; a += CH) chunks.push([a, Math.min(total, a + CH) - 1]);
   const tr = Date.now();
-  run("npx", renderArgs);
-  stage("Render", "done", `Remotion master in ${((Date.now() - tr) / 1000).toFixed(0)}s`);
+  let rendered = 0;
+  for (const [a, b] of chunks) {
+    const file = path.join(chunkDir, `f${String(a).padStart(6, "0")}-${String(b).padStart(6, "0")}.mp4`);
+    if (fs.existsSync(file)) continue;
+    const part = `${file}.part.mp4`;
+    log(`render frames ${a}–${b} of ${total - 1}`);
+    run("npx", [
+      "remotion", "render", "src/index.ts", "Explainer", part,
+      `--props=${planPath}`, `--frames=${a}-${b}`, "--muted",
+      "--codec=h264", "--crf=16", "--pixel-format=yuv420p",
+      `--concurrency=${args.concurrency ?? process.env.REMOTION_CONCURRENCY ?? 4}`, "--log=error",
+      ...(browser ? [`--browser-executable=${browser}`] : []),
+    ]);
+    fs.renameSync(part, file);
+    rendered++;
+  }
+  const list = path.join(chunkDir, "list.txt");
+  fs.writeFileSync(list, chunks.map(([a, b]) => `file 'f${String(a).padStart(6, "0")}-${String(b).padStart(6, "0")}.mp4'`).join("\n") + "\n");
+  run("ffmpeg", ["-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", list, "-c", "copy", masterMp4]);
+  stage("Render", "done", `${chunks.length} chunks (${rendered} rendered this run) in ${((Date.now() - tr) / 1000).toFixed(0)}s`);
 
   // ── 7b. delivery encode ──────────────────────────────────────────────────
   // Chromium frames come out full-range BT.601 (yuvj420p); platforms expect
@@ -249,14 +263,18 @@ const main = async () => {
   step("7b", "Delivery encode (H.264 High, yuv420p BT.709, AAC, faststart)");
   const te = Date.now();
   run("ffmpeg", [
-    "-y", "-v", "error", "-i", masterMp4,
+    "-y", "-v", "error", "-i", masterMp4, "-i", path.join(BUILD, "mix.wav"),
+    "-map", "0:v:0", "-map", "1:a:0",
     "-vf", "scale=in_range=pc:out_range=tv:in_color_matrix=bt601:out_color_matrix=bt709,format=yuv420p",
     "-c:v", "libx264", "-preset", "slow", "-crf", String(args.crf ?? 21), "-maxrate", "12M", "-bufsize", "24M",
     "-profile:v", "high", "-level", "4.2",
     "-color_range", "tv", "-colorspace", "bt709", "-color_primaries", "bt709", "-color_trc", "bt709",
-    "-c:a", "copy", "-movflags", "+faststart", finalMp4,
+    "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-shortest", "-movflags", "+faststart", finalMp4,
   ]);
-  if (!args["keep-master"]) fs.rmSync(masterMp4, { force: true });
+  if (!args["keep-master"]) {
+    fs.rmSync(masterMp4, { force: true });
+    fs.rmSync(path.join(OUT, "chunks"), { recursive: true, force: true });
+  }
   stage("Delivery encode", "done", `${rel(finalMp4)} (${(fs.statSync(finalMp4).size / 1e6).toFixed(1)} MB) in ${((Date.now() - te) / 1000).toFixed(0)}s`);
 
   // ── 8. QC ────────────────────────────────────────────────────────────────

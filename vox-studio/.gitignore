@@ -16,3 +16,4 @@ audio/sky-*/*.wav
 output/sky-*/*.mp4
 output/sky-*/*.wav
 output/*/.render.log
+output/*/chunks/
