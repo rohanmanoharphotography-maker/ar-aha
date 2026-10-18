@@ -143,6 +143,9 @@ const main = async () => {
       `# Fact-check sources — ${storyboard.title}\n\n` + storyboard.sources.map((s) => `- **${s.claim}**\n  ${s.source} — ${s.url}`).join("\n") + "\n",
     );
   }
+  // companion documents shipped with a storyboard pack (worksheets, notes) travel with the video
+  const packDir = path.join(ROOT, "input", slug);
+  if (fs.existsSync(packDir)) for (const f of fs.readdirSync(packDir).filter((f) => f.endsWith(".md") && f !== "README.md")) fs.copyFileSync(path.join(packDir, f), path.join(OUT, f));
   const finalMp4 = path.resolve(ROOT, args.output ?? path.join("output", slug, "final-video.mp4"));
   const masterMp4 = path.join(OUT, "render-master.mp4");
   fs.mkdirSync(path.dirname(finalMp4), { recursive: true });

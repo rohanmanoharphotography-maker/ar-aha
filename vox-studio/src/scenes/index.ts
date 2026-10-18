@@ -6,6 +6,18 @@ import { FridgeScene } from "./FridgeScene";
 import { ChartScene, FallbackScene, ImageScene, KineticScene, MapScene, StatScene, TimelineScene, TitleScene } from "./GenericScenes";
 import { HookScene } from "./HookScene";
 import { IndicatorScene } from "./IndicatorScene";
+import {
+  BulletHookScene,
+  CollisionScene,
+  ConservationScene,
+  EquationScene,
+  KECompareScene,
+  MistakesScene,
+  QuestionsScene,
+  SankeyScene,
+  TransfersScene,
+  WhereScene,
+} from "./LessonScenes";
 import { LoggerScene } from "./LoggerScene";
 import { RangeScene } from "./RangeScene";
 import { RouteScene } from "./RouteScene";
@@ -36,6 +48,17 @@ export const SCENES: Record<string, AnyScene> = {
   chart: ChartScene,
   timeline: TimelineScene,
   map: MapScene,
+  // lesson templates (wide stage)
+  "bullet-hook": BulletHookScene,
+  transfers: TransfersScene,
+  conservation: ConservationScene,
+  sankey: SankeyScene,
+  equation: EquationScene,
+  collision: CollisionScene,
+  "ke-compare": KECompareScene,
+  where: WhereScene,
+  mistakes: MistakesScene,
+  questions: QuestionsScene,
 };
 
 export const sceneFor = (type: string): AnyScene => SCENES[type] ?? FallbackScene;

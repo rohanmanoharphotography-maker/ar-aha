@@ -78,7 +78,7 @@ export const runQc = async ({ mp4, plan, storyboard, outDir, targetDuration, dur
 
   // 5. scenes complete
   const registry = fs.readFileSync(path.join(root, "src/scenes/index.ts"), "utf8");
-  const known = new Set([...registry.matchAll(/^\s+(\w+): \w+Scene,/gm)].map((m) => m[1]));
+  const known = new Set([...registry.matchAll(/^\s+"?([\w-]+)"?: \w+Scene,/gm)].map((m) => m[1]));
   const missing = storyboard.scenes.filter((s) => !plan.scenes.find((p) => p.id === s.id));
   const unknown = plan.scenes.filter((s) => !known.has(s.type));
   const short = plan.scenes.filter((s) => s.durationInFrames < 30);

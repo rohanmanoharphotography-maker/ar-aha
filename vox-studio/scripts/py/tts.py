@@ -37,8 +37,9 @@ def trim_silence(a, sr, thresh=0.01, pad=0.04):
     return a[s:e]
 
 
-def total_len(clips, sr):
-    return LEAD + sum(len(c) for c in clips) / sr + GAP * (len(clips) - 1)
+def total_len(clips, sr, beats=None):
+    pauses = sum(b.get("pauseAfter", 0) for b in beats or [])
+    return LEAD + sum(len(c) for c in clips) / sr + GAP * (len(clips) - 1) + pauses
 
 
 def main():
@@ -65,17 +66,17 @@ def main():
         # Kokoro's rate is not linear in `speed`, so refit iteratively.
         budget = target - TAIL
         for _ in range(3):
-            got = total_len(clips, sr)
+            got = total_len(clips, sr, beats)
             if abs(got - budget) <= 0.5:
                 break
-            fixed = LEAD + GAP * (len(clips) - 1)
+            fixed = LEAD + GAP * (len(clips) - 1) + sum(b.get("pauseAfter", 0) for b in beats)
             new_speed = float(np.clip(speed * (got - fixed) / max(budget - fixed, 1), MIN_SPEED, MAX_SPEED))
             if abs(new_speed - speed) < 0.005:
                 break
             log(f"tts: {got:.2f}s vs budget {budget:.2f}s -> refit speed {speed:.3f} -> {new_speed:.3f}")
             speed = new_speed
             clips, sr = synth_all(kokoro, beats, voice, speed)
-        got = total_len(clips, sr)
+        got = total_len(clips, sr, beats)
         if abs(got - budget) > 1.5:
             log(f"tts: WARNING narration {got:.1f}s cannot meet {budget:.1f}s within natural speed range; shorten the script")
 
@@ -87,8 +88,9 @@ def main():
         dur = len(c) / sr
         out.append({"id": b["id"], "start": round(t, 3), "end": round(t + dur, 3)})
         parts.append(c)
-        parts.append(np.zeros(int(GAP * sr), dtype=np.float32))
-        t += dur + GAP
+        gap = GAP + float(b.get("pauseAfter", 0))  # practice pauses are silent holds
+        parts.append(np.zeros(int(gap * sr), dtype=np.float32))
+        t += dur + gap
     narration = np.concatenate(parts[:-1])
     peak = np.max(np.abs(narration)) or 1.0
     narration = narration / peak * 0.89

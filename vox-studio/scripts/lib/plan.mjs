@@ -6,7 +6,10 @@ const norm = (w) => w.toLowerCase().replace(/[^a-z0-9°']/g, "");
 
 /** Find the first word (or phrase) in `words` matching `cue`; returns the word object. */
 export const findCue = (words, cue) => {
-  const parts = cue.split(/\s+/).map(norm).filter(Boolean);
+  // "word#2" = the second time the word is spoken in this scene
+  const [phrase, nth] = cue.split("#");
+  let skip = Math.max(1, Number(nth) || 1) - 1;
+  const parts = phrase.split(/\s+/).map(norm).filter(Boolean);
   for (let i = 0; i <= words.length - parts.length; i++) {
     let ok = true;
     for (let k = 0; k < parts.length; k++) {
@@ -16,7 +19,7 @@ export const findCue = (words, cue) => {
         break;
       }
     }
-    if (ok) return words[i];
+    if (ok && skip-- === 0) return words[i];
   }
   return null;
 };
@@ -48,13 +51,21 @@ export const buildPlan = ({ storyboard, timing, captions, format, fps = 30, audi
     const cueSpec = { ...(s.props?.cues ?? {}) };
     // split-scene sides carry their own cue words
     for (const side of ["left", "right"]) if (s.props?.[side]?.cue) cueSpec[s.props[side].cue] = s.props[side].cue;
+    // list-style props (equation lines, given values, notes, checklist items) carry their own cue words
+    for (const key of ["lines", "given", "items"]) (s.props?.[key] ?? []).forEach((it, k) => it?.cue && (cueSpec[`${key}.${k}`] = it.cue));
+    for (const key of ["note", "convertNote"]) if (s.props?.[key]?.cue) cueSpec[key] = s.props[key].cue;
     for (const [name, word] of Object.entries(cueSpec)) {
       const hit = findCue(words, String(word));
       if (hit) cues[name] = Math.round(hit.start * fps);
       else warnings.push(`scene "${s.id}": cue "${name}" word "${word}" not spoken in this scene — using fallback timing`);
     }
     const { cues: _omit, ...props } = s.props ?? {};
-    return { id: s.id, type: s.type, from, durationInFrames, cues, words, props };
+    // practice pauses: the silence after any beat flagged with pauseAfter
+    const pauses = s.beats
+      .map((id) => ({ b: storyboard.beats.find((x) => x.id === id), t: beatById.get(id) }))
+      .filter(({ b }) => b?.pauseAfter)
+      .map(({ b, t }) => ({ start: Math.round((t.end - t0) * fps) + 4, end: Math.round((t.end + b.pauseAfter - t0) * fps) }));
+    return { id: s.id, type: s.type, from, durationInFrames, cues, words, props, ...(pauses.length ? { pauses } : {}) };
   });
 
   return {
@@ -68,6 +79,7 @@ export const buildPlan = ({ storyboard, timing, captions, format, fps = 30, audi
       captions,
       showCaptions,
       transitionFrames,
+      ...(storyboard.stage ? { stage: storyboard.stage } : {}),
     },
     warnings,
   };
@@ -134,6 +146,7 @@ export const buildSfxPlan = (plan) => {
         break;
       default:
         at(s.from + 4, "pop", 0.5);
+        for (const v of Object.values(s.cues)) at(s.from + v, "tick", 0.45);
     }
   });
   return ev.filter((e) => e.t >= 0).sort((a, b) => a.t - b.t);

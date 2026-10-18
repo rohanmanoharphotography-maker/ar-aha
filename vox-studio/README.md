@@ -15,7 +15,9 @@ topic / script / voiceover
    → automatic QC (ffprobe, decode, black/freeze/silence, loudness, ASR subtitle-sync, contact sheet)
 ```
 
-Demo: [`output/cold-chain/final-video.mp4`](output/cold-chain/final-video.mp4). It is a 45 s, 1080×1920 explainer on how vaccines are kept safe through the cold chain.
+Demos:
+- [`output/bullet-energy/final-video.mp4`](output/bullet-energy/final-video.mp4): a 16:9 IGCSE Physics lesson on where a bullet's energy goes, with pause-and-try practice moments and a companion [worksheet](output/bullet-energy/worksheet.md).
+- [`output/cold-chain/final-video.mp4`](output/cold-chain/final-video.mp4). It is a 45 s, 1080×1920 explainer on how vaccines are kept safe through the cold chain.
 
 ## Setup
 
@@ -93,10 +95,13 @@ src/
     MapRoute.tsx                 stylised map, route draw-on, stop pins, riding marker
     Timeline.tsx                 horizontal/vertical progress with checkmarks
     Subtitles.tsx                editorial burned-in captions
+    Lesson.tsx                   EquationBoard, GivenCard (unit conversion), EnergyStore, Sankey, FlowArrow, PauseBadge, Sticky
     Paper.tsx                    paper background, halftone fields, film grain, vignette
   scenes/                      scene templates (storyboard `type` → component, see scenes/index.ts)
     hook range split route travel logger indicator fridge excursion closer   (directed)
     title kinetic stat image chart timeline map                             (generic / auto-storyboard)
+    bullet-hook transfers conservation sankey equation collision
+    ke-compare where mistakes questions                                     (lessons, wide stage: LessonScenes.tsx)
   illustrations/               code-drawn paper-cut SVG art (vial, thermometer, fridge, truck, …)
   animations/motion.ts         springs, draw-on, torn edges, easing helpers
   lib/                         theme tokens, layout/safe-areas, schema/types, fonts
@@ -125,7 +130,9 @@ assets/                        Remotion public dir: textures/, sfx/, build/ (sta
 }
 ```
 
-`cues` name the **spoken word** each animation lands on. Frame numbers are never typed by hand, so re-voicing or changing the rate retimes everything automatically.
+`cues` name the **spoken word** each animation lands on. `"word#2"` means its second occurrence in the scene, and a phrase such as `"square the"` disambiguates a word.
+List props (`lines`, `given`, `items`) carry their own `cue`. A beat with `"pauseAfter": 5` adds a silent 5-second "pause and try it" hold with an on-screen countdown.
+Set `"stage": "wide"` for a storyboard designed for 16:9; scenes are then laid out on a 1760×880 stage instead of the tall 1000×1160 one. Frame numbers are never typed by hand, so re-voicing or changing the rate retimes everything automatically.
 
 ## Design system
 

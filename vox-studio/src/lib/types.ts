@@ -26,6 +26,8 @@ export const planSceneSchema = z.object({
   /** words spoken during the scene, times relative to scene start (seconds) */
   words: z.array(wordSchema),
   props: z.record(z.any()),
+  /** silent practice pauses, frames relative to scene start */
+  pauses: z.array(z.object({ start: z.number(), end: z.number() })).optional(),
 });
 export type PlanScene = z.infer<typeof planSceneSchema>;
 
@@ -39,6 +41,7 @@ export const explainerSchema = z.object({
   captions: z.array(captionSchema),
   showCaptions: z.boolean(),
   transitionFrames: z.number(),
+  stage: z.enum(["tall", "wide"]).optional(),
 });
 export type ExplainerProps = z.infer<typeof explainerSchema>;
 

@@ -27,22 +27,50 @@ _TENS = "twenty thirty forty fifty sixty seventy eighty ninety".split()
 
 
 def num_words(n):
+    """Spoken English for a non-negative integer (to the millions)."""
     n = int(n)
     if n < 20:
         return [_UNITS[n]]
     if n < 100:
         t, u = divmod(n, 10)
         return [_TENS[t - 2]] + ([_UNITS[u]] if u else [])
-    return [str(n)]
+    if n < 1000:
+        h, r = divmod(n, 100)
+        return [_UNITS[h], "hundred"] + (["and"] + num_words(r) if r else [])
+    if n < 1_000_000:
+        th, r = divmod(n, 1000)
+        return num_words(th) + ["thousand"] + ((["and"] if r < 100 else []) + num_words(r) if r else [])
+    m, r = divmod(n, 1_000_000)
+    return num_words(m) + ["million"] + (num_words(r) if r else [])
+
+
+# US spellings / ASR shorthands → script forms
+_SPELL = {"meters": "metres", "meter": "metre", "centimeters": "centimetres", "centimeter": "centimetre",
+          "kilometers": "kilometres", "traveling": "travelling", "mv": ["m", "v"], "kg": ["kilograms"],
+          "colour": "color", "colours": "colors"}
 
 
 def norm_tokens(word):
-    """Normalise a word for matching; numbers expand to their spoken form."""
-    w = word.lower().replace("’", "'")
-    w = re.sub(r"[^a-z0-9'%°]", "", w)
-    if re.fullmatch(r"\d+", w):
-        return num_words(w)
-    return [w] if w else []
+    """Normalise a word for matching; numbers (incl. decimals, 10,000, 2kg) expand to their spoken form."""
+    w = word.lower().replace("’", "'").replace("-", " ")
+    out = []
+    for part in w.split():
+        part = re.sub(r"[^a-z0-9'%°.,]", "", part).strip(".,")
+        m = re.fullmatch(r"(\d[\d,]*)(?:\.(\d+))?([a-z]*)", part)
+        if m:
+            out += num_words(m.group(1).replace(",", ""))
+            if m.group(2):
+                out += ["point"] + [_UNITS[int(d)] for d in m.group(2)]
+            if m.group(3):
+                sp = _SPELL.get(m.group(3), m.group(3))
+                out += sp if isinstance(sp, list) else [sp]
+            continue
+        part = part.replace(".", "").replace(",", "")
+        if not part:
+            continue
+        sp = _SPELL.get(part, part)
+        out += sp if isinstance(sp, list) else [sp]
+    return out
 
 
 _recognizer = None
@@ -73,8 +101,16 @@ def transcribe(audio, offset=0.0):
     r.decode_stream(s)
     toks, ts = s.result.tokens, s.result.timestamps
     words = []
+    def glued_number(tok):
+        # the recogniser emits digits without a leading space ("at400", "kilograms.10");
+        # start a new word unless the digit continues a number ("2." + "01")
+        if not words or not tok[:1].isdigit():
+            return False
+        prev = words[-1][0]
+        return not (prev[-1:].isdigit() or (prev.endswith(".") and prev[-2:-1].isdigit()) or prev.endswith(","))
+
     for tok, t in zip(toks, ts):
-        if tok.startswith(" ") or not words:
+        if tok.startswith(" ") or not words or glued_number(tok):
             if tok.strip() == "":
                 continue
             words.append([tok.strip(), t + offset, None])

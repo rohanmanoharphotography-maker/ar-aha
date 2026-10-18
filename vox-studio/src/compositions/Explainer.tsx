@@ -3,7 +3,7 @@ import { AbsoluteFill, Audio, Easing, interpolate, Sequence, staticFile, useCurr
 import { tornEdge } from "../animations/motion";
 import { Grain, PaperBackground } from "../components/Paper";
 import { Subtitles } from "../components/Subtitles";
-import { SceneContext, STAGE_H, STAGE_W, useLayout } from "../lib/layout";
+import { SceneContext, StageContext, useLayout } from "../lib/layout";
 import { C } from "../lib/theme";
 import type { ExplainerProps, PlanScene } from "../lib/types";
 import { sceneFor } from "../scenes";
@@ -26,7 +26,7 @@ const SceneShell: React.FC<{ scene: PlanScene; index: number; T: number; isLast:
   const exit = isLast ? 0 : interpolate(local, [dur - T, dur], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp", easing: Easing.in(Easing.cubic) });
   const clip = index === 0 || reveal <= 0 ? undefined : `${tornEdge(index * 7, "top", 16, 3)}`;
   return (
-    <SceneContext.Provider value={{ pre, duration: dur }}>
+    <SceneContext.Provider value={{ pre, duration: dur, pauses: scene.pauses }}>
       <AbsoluteFill
         style={{
           transform: `translateY(${reveal}%) translateY(${-exit * 14}%)`,
@@ -40,8 +40,8 @@ const SceneShell: React.FC<{ scene: PlanScene; index: number; T: number; isLast:
               position: "absolute",
               left: layout.stage.x,
               top: layout.stage.y,
-              width: STAGE_W,
-              height: STAGE_H,
+              width: layout.stage.w,
+              height: layout.stage.h,
               transform: `scale(${layout.stage.scale})`,
               transformOrigin: "0 0",
             }}
@@ -58,9 +58,10 @@ const SceneShell: React.FC<{ scene: PlanScene; index: number; T: number; isLast:
   );
 };
 
-export const Explainer: React.FC<ExplainerProps> = ({ scenes, captions, audio, showCaptions, transitionFrames }) => {
+export const Explainer: React.FC<ExplainerProps> = ({ scenes, captions, audio, showCaptions, transitionFrames, stage }) => {
   const T = transitionFrames;
   return (
+    <StageContext.Provider value={stage ?? "tall"}>
     <AbsoluteFill style={{ backgroundColor: C.paper }}>
       <PaperBackground />
       {scenes.map((s, i) => {
@@ -75,5 +76,6 @@ export const Explainer: React.FC<ExplainerProps> = ({ scenes, captions, audio, s
       {showCaptions ? <Subtitles captions={captions} /> : null}
       {audio ? <Audio src={audio.startsWith("http") ? audio : staticFile(audio)} /> : null}
     </AbsoluteFill>
+    </StageContext.Provider>
   );
 };
