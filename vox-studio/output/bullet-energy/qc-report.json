@@ -1,0 +1,106 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "MP4 exists",
+      "ok": true,
+      "detail": "85.1 MB"
+    },
+    {
+      "name": "Resolution",
+      "ok": true,
+      "detail": "1920×1080 (expected 1920×1080)"
+    },
+    {
+      "name": "Frame rate",
+      "ok": true,
+      "detail": "30.00 fps"
+    },
+    {
+      "name": "Video codec",
+      "ok": true,
+      "detail": "h264 High yuv420p"
+    },
+    {
+      "name": "Audio stream",
+      "ok": true,
+      "detail": "aac 48000 Hz 2ch"
+    },
+    {
+      "name": "Duration matches plan",
+      "ok": true,
+      "detail": "237.33s (plan 237.33s)"
+    },
+    {
+      "name": "Decodes cleanly",
+      "ok": true,
+      "detail": "no decoder errors"
+    },
+    {
+      "name": "No black segments",
+      "ok": true,
+      "detail": "none ≥0.3s"
+    },
+    {
+      "name": "No frozen video (>3s)",
+      "ok": true,
+      "detail": "motion throughout"
+    },
+    {
+      "name": "No audio dropouts",
+      "ok": true,
+      "detail": "no silence ≥1.5s"
+    },
+    {
+      "name": "Loudness",
+      "ok": true,
+      "detail": "-16 LUFS integrated (target −16)"
+    },
+    {
+      "name": "All scenes present",
+      "ok": true,
+      "detail": "12 scenes, 291–1154 frames each"
+    },
+    {
+      "name": "Assets present",
+      "ok": true,
+      "detail": "textures, grain, mix"
+    },
+    {
+      "name": "Representative frames extracted",
+      "ok": true,
+      "detail": "12 frames → output/bullet-energy/contact-sheet.jpg"
+    },
+    {
+      "name": "Frames have content",
+      "ok": true,
+      "detail": "every scene frame has full tonal range"
+    },
+    {
+      "name": "Subtitle sync vs speech",
+      "ok": true,
+      "detail": "99% words matched; onset error median 36 ms, p95 146 ms"
+    },
+    {
+      "name": "SRT export",
+      "ok": true,
+      "detail": "output/bullet-energy/subtitles.srt"
+    }
+  ],
+  "contactSheet": "/home/user/ar-aha/vox-studio/output/bullet-energy/contact-sheet.jpg",
+  "thumbnail": "/home/user/ar-aha/vox-studio/output/bullet-energy/thumbnail.jpg",
+  "frames": [
+    "scene_01_hook.png",
+    "scene_02_transfers.png",
+    "scene_03_conservation.png",
+    "scene_04_sankey.png",
+    "scene_05_example1.png",
+    "scene_06_example2.png",
+    "scene_07_collision.png",
+    "scene_08_momentum.png",
+    "scene_09_ke-compare.png",
+    "scene_10_where.png",
+    "scene_11_mistakes.png",
+    "scene_12_your-turn.png"
+  ]
+}
