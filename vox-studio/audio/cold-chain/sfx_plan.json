@@ -1,0 +1,177 @@
+[
+  {
+    "t": 1.333,
+    "name": "pop",
+    "gain": 0.8
+  },
+  {
+    "t": 3.9,
+    "name": "tick",
+    "gain": 0.9
+  },
+  {
+    "t": 4.7,
+    "name": "whoosh",
+    "gain": 0.7
+  },
+  {
+    "t": 7.033,
+    "name": "tick",
+    "gain": 1
+  },
+  {
+    "t": 7.567,
+    "name": "tick",
+    "gain": 1
+  },
+  {
+    "t": 8.067,
+    "name": "pop",
+    "gain": 0.6
+  },
+  {
+    "t": 8.833,
+    "name": "whoosh",
+    "gain": 0.7
+  },
+  {
+    "t": 9.7,
+    "name": "pop",
+    "gain": 0.7
+  },
+  {
+    "t": 11.3,
+    "name": "pop",
+    "gain": 0.7
+  },
+  {
+    "t": 13.167,
+    "name": "whoosh",
+    "gain": 0.7
+  },
+  {
+    "t": 14.8,
+    "name": "ding",
+    "gain": 0.5
+  },
+  {
+    "t": 16.433,
+    "name": "ding",
+    "gain": 0.5
+  },
+  {
+    "t": 18.067,
+    "name": "ding",
+    "gain": 0.5
+  },
+  {
+    "t": 18.433,
+    "name": "whoosh",
+    "gain": 0.7
+  },
+  {
+    "t": 19.8,
+    "name": "pop",
+    "gain": 0.7
+  },
+  {
+    "t": 20.5,
+    "name": "pop",
+    "gain": 0.7
+  },
+  {
+    "t": 22.6,
+    "name": "ding",
+    "gain": 0.6
+  },
+  {
+    "t": 22.933,
+    "name": "whoosh",
+    "gain": 0.7
+  },
+  {
+    "t": 23.867,
+    "name": "pop",
+    "gain": 0.7
+  },
+  {
+    "t": 26.033,
+    "name": "tick",
+    "gain": 1
+  },
+  {
+    "t": 26.267,
+    "name": "whoosh",
+    "gain": 0.7
+  },
+  {
+    "t": 27.933,
+    "name": "pop",
+    "gain": 0.7
+  },
+  {
+    "t": 29.467,
+    "name": "tick",
+    "gain": 1
+  },
+  {
+    "t": 29.6,
+    "name": "whoosh",
+    "gain": 0.7
+  },
+  {
+    "t": 32.467,
+    "name": "tick",
+    "gain": 0.8
+  },
+  {
+    "t": 32.683,
+    "name": "tick",
+    "gain": 0.8
+  },
+  {
+    "t": 32.9,
+    "name": "tick",
+    "gain": 0.8
+  },
+  {
+    "t": 33.117,
+    "name": "tick",
+    "gain": 0.8
+  },
+  {
+    "t": 33.333,
+    "name": "tick",
+    "gain": 0.8
+  },
+  {
+    "t": 33.433,
+    "name": "whoosh",
+    "gain": 0.7
+  },
+  {
+    "t": 34.7,
+    "name": "alert",
+    "gain": 0.8
+  },
+  {
+    "t": 36.567,
+    "name": "stamp",
+    "gain": 1
+  },
+  {
+    "t": 39.033,
+    "name": "whoosh",
+    "gain": 0.7
+  },
+  {
+    "t": 41.367,
+    "name": "pop",
+    "gain": 0.8
+  },
+  {
+    "t": 43.333,
+    "name": "ding",
+    "gain": 0.6
+  }
+]

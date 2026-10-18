@@ -1,0 +1,349 @@
+{
+  "slug": "cold-chain",
+  "title": "The Cold Chain",
+  "topic": "How vaccines are kept safe through the cold chain",
+  "audience": "General public and healthcare students",
+  "style": "editorial",
+  "voice": "am_michael",
+  "targetDuration": 45,
+  "keywords": [
+    "ruined",
+    "no one",
+    "two",
+    "eight",
+    "degrees Celsius",
+    "too warm",
+    "lose strength",
+    "frozen",
+    "for good",
+    "cold chain",
+    "unbroken",
+    "refrigerated trucks",
+    "insulated boxes",
+    "data loggers",
+    "around the clock",
+    "darkens",
+    "dedicated fridge",
+    "every workday",
+    "out of range",
+    "set aside",
+    "your arm"
+  ],
+  "beats": [
+    {
+      "id": 1,
+      "text": "A vaccine can be ruined long before it reaches your arm. And no one would see it."
+    },
+    {
+      "id": 2,
+      "text": "Most vaccines must stay between two and eight degrees Celsius."
+    },
+    {
+      "id": 3,
+      "text": "Too warm, and they lose strength. Frozen, many are damaged for good."
+    },
+    {
+      "id": 4,
+      "text": "So they travel a cold chain: an unbroken line of cold, from factory to clinic."
+    },
+    {
+      "id": 5,
+      "text": "Refrigerated trucks and insulated boxes keep them in range."
+    },
+    {
+      "id": 6,
+      "text": "Data loggers record the temperature around the clock."
+    },
+    {
+      "id": 7,
+      "text": "Some vials carry a label that darkens with too much heat."
+    },
+    {
+      "id": 8,
+      "text": "At the pharmacy, a dedicated fridge is checked every workday."
+    },
+    {
+      "id": 9,
+      "text": "If it slips out of range, doses are set aside until experts decide if they're usable."
+    },
+    {
+      "id": 10,
+      "text": "A vaccine only protects you if the cold held, all the way to your arm."
+    }
+  ],
+  "scenes": [
+    {
+      "id": "hook",
+      "type": "hook",
+      "beats": [
+        1
+      ],
+      "props": {
+        "kicker": "An invisible problem",
+        "lines": [
+          "RUINED",
+          "BEFORE IT",
+          "REACHES YOU"
+        ],
+        "highlight": "RUINED",
+        "illustration": "vial",
+        "cues": {
+          "title": "ruined",
+          "eye": "no one"
+        }
+      }
+    },
+    {
+      "id": "range",
+      "type": "range",
+      "beats": [
+        2
+      ],
+      "props": {
+        "kicker": "The safe zone",
+        "min": 2,
+        "max": 8,
+        "unit": "°C",
+        "altUnit": "36–46 °F",
+        "label": "Refrigerated vaccines",
+        "cues": {
+          "min": "two",
+          "max": "eight",
+          "band": "degrees"
+        }
+      }
+    },
+    {
+      "id": "damage",
+      "type": "split",
+      "beats": [
+        3
+      ],
+      "props": {
+        "left": {
+          "title": "TOO WARM",
+          "caption": "Potency slowly drops",
+          "icon": "sun",
+          "tone": "warm",
+          "cue": "warm"
+        },
+        "right": {
+          "title": "FROZEN",
+          "caption": "Many are damaged for good",
+          "icon": "snowflake",
+          "tone": "cold",
+          "cue": "frozen"
+        },
+        "footnote": "Illustrative — not measured data"
+      }
+    },
+    {
+      "id": "chain",
+      "type": "route",
+      "beats": [
+        4
+      ],
+      "props": {
+        "kicker": "The cold chain",
+        "headline": "An unbroken line of cold",
+        "stops": [
+          {
+            "label": "Manufacturer",
+            "icon": "factory"
+          },
+          {
+            "label": "Distributor",
+            "icon": "warehouse"
+          },
+          {
+            "label": "Clinic",
+            "icon": "clinic"
+          }
+        ],
+        "cues": {
+          "start": "chain",
+          "end": "clinic",
+          "headline": "unbroken"
+        }
+      }
+    },
+    {
+      "id": "transport",
+      "type": "travel",
+      "beats": [
+        5
+      ],
+      "props": {
+        "kicker": "In transit",
+        "labels": [
+          "Refrigerated trucks",
+          "Insulated boxes + cold packs"
+        ],
+        "cues": {
+          "truck": "trucks",
+          "box": "insulated",
+          "range": "range"
+        }
+      }
+    },
+    {
+      "id": "logger",
+      "type": "logger",
+      "beats": [
+        6
+      ],
+      "props": {
+        "kicker": "Continuous monitoring",
+        "device": "Digital data logger",
+        "min": 2,
+        "max": 8,
+        "footnote": "Illustrative reading",
+        "cues": {
+          "device": "loggers",
+          "line": "record",
+          "clock": "clock"
+        }
+      }
+    },
+    {
+      "id": "vvm",
+      "type": "indicator",
+      "beats": [
+        7
+      ],
+      "props": {
+        "kicker": "Vaccine vial monitor",
+        "stages": [
+          {
+            "label": "Inner square lighter",
+            "verdict": "OK to use",
+            "ok": true
+          },
+          {
+            "label": "Inner square matches or darker",
+            "verdict": "Do not use",
+            "ok": false
+          }
+        ],
+        "cues": {
+          "label": "label",
+          "darken": "darkens",
+          "heat": "heat"
+        }
+      }
+    },
+    {
+      "id": "pharmacy",
+      "type": "fridge",
+      "beats": [
+        8
+      ],
+      "props": {
+        "kicker": "At the pharmacy",
+        "headline": "Checked every workday",
+        "days": [
+          "MON",
+          "TUE",
+          "WED",
+          "THU",
+          "FRI"
+        ],
+        "cues": {
+          "fridge": "dedicated",
+          "checks": "checked"
+        }
+      }
+    },
+    {
+      "id": "excursion",
+      "type": "excursion",
+      "beats": [
+        9
+      ],
+      "props": {
+        "kicker": "Temperature excursion",
+        "max": 8,
+        "stamp": "DO NOT USE",
+        "subStamp": "pending review",
+        "steps": [
+          {
+            "label": "Set aside",
+            "sub": "labelled do not use"
+          },
+          {
+            "label": "Keep cold",
+            "sub": "in proper storage"
+          },
+          {
+            "label": "Experts assess",
+            "sub": "maker / health dept"
+          }
+        ],
+        "cues": {
+          "spike": "slips",
+          "stamp": "aside",
+          "steps": "experts"
+        },
+        "footnote": "Illustrative scenario"
+      }
+    },
+    {
+      "id": "closer",
+      "type": "closer",
+      "beats": [
+        10
+      ],
+      "props": {
+        "kicker": "Factory → clinic → you",
+        "lines": [
+          "IF THE COLD",
+          "HELD"
+        ],
+        "highlight": "COLD",
+        "signoff": "The Cold Chain",
+        "cues": {
+          "arm": "protects",
+          "title": "cold",
+          "signoff": "arm"
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Most refrigerated vaccines are stored between 2°C and 8°C (36°F–46°F).",
+      "source": "CDC, Vaccine Storage and Handling Toolkit",
+      "url": "https://www.cdc.gov/vaccines/hcp/storage-handling/"
+    },
+    {
+      "claim": "Heat exposure reduces vaccine potency; exposure to freezing temperatures can permanently damage many refrigerated vaccines, and loss of potency cannot be seen.",
+      "source": "CDC, Vaccine Storage and Handling Toolkit; WHO, Immunization in Practice (Module 3: The cold chain)",
+      "url": "https://www.cdc.gov/vaccines/hcp/storage-handling/"
+    },
+    {
+      "claim": "The cold chain spans manufacturer, distribution and the provider, using refrigerated transport and qualified insulated containers with conditioned cold packs.",
+      "source": "CDC, Vaccine Storage and Handling Toolkit (Transport section); WHO Immunization in Practice",
+      "url": "https://www.cdc.gov/vaccines/hcp/storage-handling/"
+    },
+    {
+      "claim": "Digital data loggers continuously record storage temperatures.",
+      "source": "CDC, Vaccine Storage and Handling Toolkit (Temperature Monitoring Equipment)",
+      "url": "https://www.cdc.gov/vaccines/hcp/storage-handling/"
+    },
+    {
+      "claim": "Vaccine vial monitors are heat-sensitive labels; if the inner square matches or is darker than the outer circle, the vaccine should not be used.",
+      "source": "WHO, Vaccine Vial Monitor guidance",
+      "url": "https://www.who.int/teams/immunization-vaccines-and-biologicals/essential-programme-on-immunization/supply-chain"
+    },
+    {
+      "claim": "Use purpose-built/dedicated vaccine storage units and check and record temperatures at the start of each workday.",
+      "source": "CDC, Vaccine Storage and Handling Toolkit",
+      "url": "https://www.cdc.gov/vaccines/hcp/storage-handling/"
+    },
+    {
+      "claim": "After a temperature excursion, label vaccines 'Do Not Use', keep them stored at proper temperature, and contact the manufacturer or immunization program before using or discarding.",
+      "source": "CDC, Vaccine Storage and Handling Toolkit (Temperature Excursions)",
+      "url": "https://www.cdc.gov/vaccines/hcp/storage-handling/"
+    }
+  ]
+}

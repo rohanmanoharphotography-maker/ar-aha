@@ -1,0 +1,29 @@
+{
+  "name": "vox-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Automated editorial explainer video production system (Remotion + Kokoro TTS + sherpa-onnx ASR + FFmpeg)",
+  "type": "module",
+  "scripts": {
+    "setup": "node scripts/setup.mjs",
+    "make-video": "node scripts/make-video.mjs",
+    "studio": "remotion studio src/index.ts",
+    "qc": "node scripts/qc.mjs",
+    "stills": "node scripts/stills.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fontsource/ibm-plex-mono": "5.2.5",
+    "@fontsource/inter": "5.2.5",
+    "@fontsource/playfair-display": "5.2.5",
+    "@remotion/cli": "4.0.531",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.531",
+    "zod": "3.22.3"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "typescript": "5.6.3"
+  }
+}

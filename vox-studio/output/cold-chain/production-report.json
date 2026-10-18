@@ -1,0 +1,183 @@
+{
+  "started": "2026-10-18T20:00:43.633Z",
+  "args": {
+    "topic": "How vaccines are kept safe through the cold chain",
+    "duration": "45",
+    "format": "vertical",
+    "style": "editorial",
+    "output": "output/cold-chain/final-video.mp4"
+  },
+  "stages": [
+    {
+      "name": "Script & storyboard",
+      "status": "done",
+      "detail": "topic pack input/cold-chain/storyboard.json"
+    },
+    {
+      "name": "Textures & SFX",
+      "status": "done",
+      "detail": "procedural paper, grain, 7 synthesised SFX"
+    },
+    {
+      "name": "Voiceover",
+      "status": "done",
+      "detail": "Kokoro am_michael @ 1.114x, 43.76s speech"
+    },
+    {
+      "name": "Alignment & subtitles",
+      "status": "done",
+      "detail": "47 caption groups, ASR word coverage 96.0%"
+    },
+    {
+      "name": "Scene plan",
+      "status": "done",
+      "detail": "10 scenes, 1361 frames"
+    },
+    {
+      "name": "Music & mix",
+      "status": "done",
+      "detail": "original synthesised bed, 35 SFX, voice/music separation 20 dB, -16 LUFS"
+    },
+    {
+      "name": "Render",
+      "status": "done",
+      "detail": "Remotion master in 293s"
+    },
+    {
+      "name": "Delivery encode",
+      "status": "done",
+      "detail": "output/cold-chain/final-video.mp4 (62.6 MB) in 103s"
+    },
+    {
+      "name": "Quality control",
+      "status": "passed",
+      "detail": "18/18 checks"
+    }
+  ],
+  "limitations": [
+    "Narration is synthetic (Kokoro am_michael); for flagship releases record a human voiceover and pass --voice.",
+    "Scenes damage, logger, excursion show illustrative (not measured) traces/meters; each is labelled on screen as illustrative.",
+    "Automated QC checks format, sync, loudness and blank frames; cropping/overflow is judged by reviewing contact-sheet.jpg (done for this run only if stated in the delivery notes)."
+  ],
+  "qc": {
+    "passed": true,
+    "checks": [
+      {
+        "name": "MP4 exists",
+        "ok": true,
+        "detail": "62.6 MB"
+      },
+      {
+        "name": "Resolution",
+        "ok": true,
+        "detail": "1080×1920 (expected 1080×1920)"
+      },
+      {
+        "name": "Frame rate",
+        "ok": true,
+        "detail": "30.00 fps"
+      },
+      {
+        "name": "Video codec",
+        "ok": true,
+        "detail": "h264 High yuv420p"
+      },
+      {
+        "name": "Audio stream",
+        "ok": true,
+        "detail": "aac 48000 Hz 2ch"
+      },
+      {
+        "name": "Duration matches plan",
+        "ok": true,
+        "detail": "45.38s (plan 45.37s)"
+      },
+      {
+        "name": "Duration vs target",
+        "ok": true,
+        "detail": "45.38s vs 45s target (±2.7s)"
+      },
+      {
+        "name": "Decodes cleanly",
+        "ok": true,
+        "detail": "no decoder errors"
+      },
+      {
+        "name": "No black segments",
+        "ok": true,
+        "detail": "none ≥0.3s"
+      },
+      {
+        "name": "No frozen video (>3s)",
+        "ok": true,
+        "detail": "motion throughout"
+      },
+      {
+        "name": "No audio dropouts",
+        "ok": true,
+        "detail": "no silence ≥1.5s"
+      },
+      {
+        "name": "Loudness",
+        "ok": true,
+        "detail": "-16.1 LUFS integrated (target −16)"
+      },
+      {
+        "name": "All scenes present",
+        "ok": true,
+        "detail": "10 scenes, 100–178 frames each"
+      },
+      {
+        "name": "Assets present",
+        "ok": true,
+        "detail": "textures, grain, mix"
+      },
+      {
+        "name": "Representative frames extracted",
+        "ok": true,
+        "detail": "10 frames → output/cold-chain/contact-sheet.jpg"
+      },
+      {
+        "name": "Frames have content",
+        "ok": true,
+        "detail": "every scene frame has full tonal range"
+      },
+      {
+        "name": "Subtitle sync vs speech",
+        "ok": true,
+        "detail": "95% words matched; onset error median 35 ms, p95 116 ms"
+      },
+      {
+        "name": "SRT export",
+        "ok": true,
+        "detail": "output/cold-chain/subtitles.srt"
+      }
+    ],
+    "contactSheet": "/home/user/ar-aha/vox-studio/output/cold-chain/contact-sheet.jpg",
+    "thumbnail": "/home/user/ar-aha/vox-studio/output/cold-chain/thumbnail.jpg",
+    "frames": [
+      "scene_01_hook.png",
+      "scene_02_range.png",
+      "scene_03_damage.png",
+      "scene_04_chain.png",
+      "scene_05_transport.png",
+      "scene_06_logger.png",
+      "scene_07_vvm.png",
+      "scene_08_pharmacy.png",
+      "scene_09_excursion.png",
+      "scene_10_closer.png"
+    ]
+  },
+  "finished": "2026-10-18T20:09:05.496Z",
+  "elapsedSeconds": 502,
+  "outputs": {
+    "video": "output/cold-chain/final-video.mp4",
+    "subtitles": "output/cold-chain/subtitles.srt",
+    "narration": "output/cold-chain/narration.wav",
+    "storyboard": "output/cold-chain/storyboard.json",
+    "script": "output/cold-chain/script.txt",
+    "plan": "output/cold-chain/plan.json",
+    "contactSheet": "output/cold-chain/contact-sheet.jpg",
+    "thumbnail": "output/cold-chain/thumbnail.jpg"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "slug": "sky-voice-portrait",
+  "title": "Why the sky is blue",
+  "topic": "Why the sky is blue",
+  "style": "editorial",
+  "voice": "am_michael",
+  "keywords": [
+    "sunlight",
+    "carries",
+    "molecules",
+    "scatter",
+    "scattered",
+    "reaches",
+    "crosses"
+  ],
+  "beats": [
+    {
+      "id": 1,
+      "text": "Sunlight looks white, but it carries every colour of the rainbow."
+    },
+    {
+      "id": 2,
+      "text": "When it hits the air, tiny molecules scatter short blue wavelengths far more than red ones."
+    },
+    {
+      "id": 3,
+      "text": "That scattered blue reaches your eyes from every direction, so the whole sky glows blue."
+    },
+    {
+      "id": 4,
+      "text": "At sunset, light crosses much more air, the blue is scattered away, and reds and oranges are left."
+    }
+  ],
+  "scenes": [
+    {
+      "id": "s1",
+      "type": "title",
+      "beats": [
+        1
+      ],
+      "props": {
+        "kicker": "Why the sky is blue",
+        "lines": [
+          "SUNLIGHT LOOKS",
+          "WHITE"
+        ],
+        "highlight": "SUNLIGHT",
+        "icon": "sun"
+      }
+    },
+    {
+      "id": "s2",
+      "type": "kinetic",
+      "beats": [
+        2
+      ],
+      "props": {
+        "focus": "wavelengths",
+        "tone": "cold",
+        "cues": {
+          "focus": "wavelengths"
+        }
+      }
+    },
+    {
+      "id": "s3",
+      "type": "kinetic",
+      "beats": [
+        3
+      ],
+      "props": {
+        "focus": "scattered",
+        "tone": "cold",
+        "cues": {
+          "focus": "scattered"
+        }
+      }
+    },
+    {
+      "id": "s4",
+      "type": "kinetic",
+      "beats": [
+        4
+      ],
+      "props": {
+        "icon": "sun",
+        "focus": "crosses",
+        "tone": "warm",
+        "cues": {
+          "focus": "crosses"
+        }
+      }
+    }
+  ],
+  "sources": [],
+  "generatedBy": "auto-storyboard (heuristic)"
+}

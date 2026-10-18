@@ -1,0 +1,63 @@
+{
+  "engine": "kokoro-onnx v1.0",
+  "voice": "am_michael",
+  "speed": 1.114,
+  "sampleRate": 24000,
+  "lead": 0.35,
+  "gap": 0.3,
+  "tail": 1.6,
+  "speechEnd": 43.76,
+  "duration": 45.36,
+  "beats": [
+    {
+      "id": 1,
+      "start": 0.35,
+      "end": 4.926
+    },
+    {
+      "id": 2,
+      "start": 5.226,
+      "end": 9.06
+    },
+    {
+      "id": 3,
+      "start": 9.36,
+      "end": 13.399
+    },
+    {
+      "id": 4,
+      "start": 13.7,
+      "end": 18.664
+    },
+    {
+      "id": 5,
+      "start": 18.964,
+      "end": 23.15
+    },
+    {
+      "id": 6,
+      "start": 23.45,
+      "end": 26.494
+    },
+    {
+      "id": 7,
+      "start": 26.794,
+      "end": 29.818
+    },
+    {
+      "id": 8,
+      "start": 30.118,
+      "end": 33.665
+    },
+    {
+      "id": 9,
+      "start": 33.965,
+      "end": 39.254
+    },
+    {
+      "id": 10,
+      "start": 39.554,
+      "end": 43.76
+    }
+  ]
+}

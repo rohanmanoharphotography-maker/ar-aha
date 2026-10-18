@@ -1,0 +1,10 @@
+{
+  "asrWords": 120,
+  "captionWords": 123,
+  "matched": 117,
+  "coverage": 0.9512,
+  "medianOffset": 0.035,
+  "p95Offset": 0.116,
+  "maxOffset": 0.194,
+  "wordsInsideGroupWindow": 1.0
+}

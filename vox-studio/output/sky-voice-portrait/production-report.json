@@ -1,0 +1,171 @@
+{
+  "started": "2026-10-18T19:58:15.165Z",
+  "args": {
+    "script": "input/examples/script.txt",
+    "voice": "/tmp/claude-0/narration_test.wav",
+    "title": "Why the sky is blue",
+    "slug": "sky-voice-portrait",
+    "format": "4:5"
+  },
+  "stages": [
+    {
+      "name": "Script & storyboard",
+      "status": "done",
+      "detail": "auto-storyboard from script (generic scene templates)"
+    },
+    {
+      "name": "Textures & SFX",
+      "status": "done",
+      "detail": "procedural paper, grain, 7 synthesised SFX"
+    },
+    {
+      "name": "Voiceover",
+      "status": "done",
+      "detail": "supplied recording /tmp/claude-0/narration_test.wav"
+    },
+    {
+      "name": "Alignment & subtitles",
+      "status": "done",
+      "detail": "22 caption groups, ASR word coverage 98.3%"
+    },
+    {
+      "name": "Scene plan",
+      "status": "done",
+      "detail": "4 scenes, 644 frames"
+    },
+    {
+      "name": "Music & mix",
+      "status": "done",
+      "detail": "original synthesised bed, 7 SFX, voice/music separation 20 dB, -16 LUFS"
+    },
+    {
+      "name": "Render",
+      "status": "done",
+      "detail": "Remotion master in 94s"
+    },
+    {
+      "name": "Delivery encode",
+      "status": "done",
+      "detail": "output/sky-voice-portrait/final-video.mp4 (12.4 MB) in 26s"
+    },
+    {
+      "name": "Quality control",
+      "status": "passed",
+      "detail": "17/17 checks"
+    }
+  ],
+  "limitations": [
+    "Storyboard has no `sources` list — on-screen claims have not been fact-checked by this pipeline.",
+    "Automated QC checks format, sync, loudness and blank frames; cropping/overflow is judged by reviewing contact-sheet.jpg (done for this run only if stated in the delivery notes)."
+  ],
+  "qc": {
+    "passed": true,
+    "checks": [
+      {
+        "name": "MP4 exists",
+        "ok": true,
+        "detail": "12.4 MB"
+      },
+      {
+        "name": "Resolution",
+        "ok": true,
+        "detail": "1080×1350 (expected 1080×1350)"
+      },
+      {
+        "name": "Frame rate",
+        "ok": true,
+        "detail": "30.00 fps"
+      },
+      {
+        "name": "Video codec",
+        "ok": true,
+        "detail": "h264 High yuv420p"
+      },
+      {
+        "name": "Audio stream",
+        "ok": true,
+        "detail": "aac 48000 Hz 2ch"
+      },
+      {
+        "name": "Duration matches plan",
+        "ok": true,
+        "detail": "21.48s (plan 21.47s)"
+      },
+      {
+        "name": "Decodes cleanly",
+        "ok": true,
+        "detail": "no decoder errors"
+      },
+      {
+        "name": "No black segments",
+        "ok": true,
+        "detail": "none ≥0.3s"
+      },
+      {
+        "name": "No frozen video (>3s)",
+        "ok": true,
+        "detail": "motion throughout"
+      },
+      {
+        "name": "No audio dropouts",
+        "ok": true,
+        "detail": "no silence ≥1.5s"
+      },
+      {
+        "name": "Loudness",
+        "ok": true,
+        "detail": "-16.1 LUFS integrated (target −16)"
+      },
+      {
+        "name": "All scenes present",
+        "ok": true,
+        "detail": "4 scenes, 116–235 frames each"
+      },
+      {
+        "name": "Assets present",
+        "ok": true,
+        "detail": "textures, grain, mix"
+      },
+      {
+        "name": "Representative frames extracted",
+        "ok": true,
+        "detail": "4 frames → output/sky-voice-portrait/contact-sheet.jpg"
+      },
+      {
+        "name": "Frames have content",
+        "ok": true,
+        "detail": "every scene frame has full tonal range"
+      },
+      {
+        "name": "Subtitle sync vs speech",
+        "ok": true,
+        "detail": "98% words matched; onset error median 0 ms, p95 8 ms"
+      },
+      {
+        "name": "SRT export",
+        "ok": true,
+        "detail": "output/sky-voice-portrait/subtitles.srt"
+      }
+    ],
+    "contactSheet": "/home/user/ar-aha/vox-studio/output/sky-voice-portrait/contact-sheet.jpg",
+    "thumbnail": "/home/user/ar-aha/vox-studio/output/sky-voice-portrait/thumbnail.jpg",
+    "frames": [
+      "scene_01_s1.png",
+      "scene_02_s2.png",
+      "scene_03_s3.png",
+      "scene_04_s4.png"
+    ]
+  },
+  "finished": "2026-10-18T20:00:43.196Z",
+  "elapsedSeconds": 148,
+  "outputs": {
+    "video": "output/sky-voice-portrait/final-video.mp4",
+    "subtitles": "output/sky-voice-portrait/subtitles.srt",
+    "narration": "output/sky-voice-portrait/narration.wav",
+    "storyboard": "output/sky-voice-portrait/storyboard.json",
+    "script": "output/sky-voice-portrait/script.txt",
+    "plan": "output/sky-voice-portrait/plan.json",
+    "contactSheet": "output/sky-voice-portrait/contact-sheet.jpg",
+    "thumbnail": "output/sky-voice-portrait/thumbnail.jpg"
+  }
+}

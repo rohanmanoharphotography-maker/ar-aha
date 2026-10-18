@@ -1,0 +1,17 @@
+node_modules/
+.venv/
+models/
+__pycache__/
+*.pyc
+.env
+# regenerable / intermediate
+assets/build/
+output/*/render-master.mp4
+output/*/stills/
+output/*/qc/*.png
+audio/*/premix.wav
+audio/*/beats/
+# mode-test runs (input/examples): keep reports/contact sheets, not media
+audio/sky-*/*.wav
+output/sky-*/*.mp4
+output/sky-*/*.wav

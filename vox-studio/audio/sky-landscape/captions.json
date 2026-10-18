@@ -1,0 +1,494 @@
+[
+  {
+    "start": 0.3,
+    "end": 1.74,
+    "words": [
+      {
+        "text": "Sunlight",
+        "highlight": true,
+        "start": 0.3,
+        "end": 0.94
+      },
+      {
+        "text": "looks",
+        "highlight": false,
+        "start": 0.94,
+        "end": 1.18
+      },
+      {
+        "text": "white,",
+        "highlight": false,
+        "start": 1.18,
+        "end": 1.74
+      }
+    ]
+  },
+  {
+    "start": 1.74,
+    "end": 2.46,
+    "words": [
+      {
+        "text": "but",
+        "highlight": false,
+        "start": 1.74,
+        "end": 1.9
+      },
+      {
+        "text": "it",
+        "highlight": false,
+        "start": 1.9,
+        "end": 2.06
+      },
+      {
+        "text": "carries",
+        "highlight": true,
+        "start": 2.06,
+        "end": 2.46
+      }
+    ]
+  },
+  {
+    "start": 2.46,
+    "end": 3.18,
+    "words": [
+      {
+        "text": "every",
+        "highlight": false,
+        "start": 2.46,
+        "end": 2.7
+      },
+      {
+        "text": "colour",
+        "highlight": false,
+        "start": 2.7,
+        "end": 2.86
+      },
+      {
+        "text": "of",
+        "highlight": false,
+        "start": 3.02,
+        "end": 3.18
+      }
+    ]
+  },
+  {
+    "start": 3.18,
+    "end": 4.031,
+    "words": [
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 3.18,
+        "end": 3.26
+      },
+      {
+        "text": "rainbow.",
+        "highlight": false,
+        "start": 3.26,
+        "end": 3.881
+      }
+    ]
+  },
+  {
+    "start": 4.131,
+    "end": 4.691,
+    "words": [
+      {
+        "text": "When",
+        "highlight": false,
+        "start": 4.131,
+        "end": 4.371
+      },
+      {
+        "text": "it",
+        "highlight": false,
+        "start": 4.371,
+        "end": 4.451
+      },
+      {
+        "text": "hits",
+        "highlight": false,
+        "start": 4.451,
+        "end": 4.691
+      }
+    ]
+  },
+  {
+    "start": 4.691,
+    "end": 5.411,
+    "words": [
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 4.691,
+        "end": 4.851
+      },
+      {
+        "text": "air,",
+        "highlight": false,
+        "start": 4.851,
+        "end": 5.411
+      }
+    ]
+  },
+  {
+    "start": 5.411,
+    "end": 6.931,
+    "words": [
+      {
+        "text": "tiny",
+        "highlight": false,
+        "start": 5.411,
+        "end": 5.891
+      },
+      {
+        "text": "molecules",
+        "highlight": true,
+        "start": 5.891,
+        "end": 6.531
+      },
+      {
+        "text": "scatter",
+        "highlight": true,
+        "start": 6.531,
+        "end": 6.931
+      }
+    ]
+  },
+  {
+    "start": 6.931,
+    "end": 8.371,
+    "words": [
+      {
+        "text": "short",
+        "highlight": false,
+        "start": 6.931,
+        "end": 7.331
+      },
+      {
+        "text": "blue",
+        "highlight": false,
+        "start": 7.331,
+        "end": 7.651
+      },
+      {
+        "text": "wavelengths",
+        "highlight": false,
+        "start": 7.651,
+        "end": 8.371
+      }
+    ]
+  },
+  {
+    "start": 8.371,
+    "end": 8.931,
+    "words": [
+      {
+        "text": "far",
+        "highlight": false,
+        "start": 8.371,
+        "end": 8.611
+      },
+      {
+        "text": "more",
+        "highlight": false,
+        "start": 8.611,
+        "end": 8.771
+      },
+      {
+        "text": "than",
+        "highlight": false,
+        "start": 8.771,
+        "end": 8.931
+      }
+    ]
+  },
+  {
+    "start": 8.931,
+    "end": 9.717,
+    "words": [
+      {
+        "text": "red",
+        "highlight": false,
+        "start": 8.931,
+        "end": 9.171
+      },
+      {
+        "text": "ones.",
+        "highlight": false,
+        "start": 9.171,
+        "end": 9.567
+      }
+    ]
+  },
+  {
+    "start": 9.817,
+    "end": 10.937,
+    "words": [
+      {
+        "text": "That",
+        "highlight": false,
+        "start": 9.817,
+        "end": 10.137
+      },
+      {
+        "text": "scattered",
+        "highlight": true,
+        "start": 10.137,
+        "end": 10.537
+      },
+      {
+        "text": "blue",
+        "highlight": false,
+        "start": 10.537,
+        "end": 10.937
+      }
+    ]
+  },
+  {
+    "start": 10.937,
+    "end": 11.817,
+    "words": [
+      {
+        "text": "reaches",
+        "highlight": true,
+        "start": 10.937,
+        "end": 11.257
+      },
+      {
+        "text": "your",
+        "highlight": false,
+        "start": 11.257,
+        "end": 11.417
+      },
+      {
+        "text": "eyes",
+        "highlight": false,
+        "start": 11.417,
+        "end": 11.817
+      }
+    ]
+  },
+  {
+    "start": 11.817,
+    "end": 13.097,
+    "words": [
+      {
+        "text": "from",
+        "highlight": false,
+        "start": 11.817,
+        "end": 12.057
+      },
+      {
+        "text": "every",
+        "highlight": false,
+        "start": 12.057,
+        "end": 12.297
+      },
+      {
+        "text": "direction,",
+        "highlight": false,
+        "start": 12.297,
+        "end": 13.097
+      }
+    ]
+  },
+  {
+    "start": 13.097,
+    "end": 13.657,
+    "words": [
+      {
+        "text": "so",
+        "highlight": false,
+        "start": 13.097,
+        "end": 13.257
+      },
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 13.257,
+        "end": 13.417
+      },
+      {
+        "text": "whole",
+        "highlight": false,
+        "start": 13.417,
+        "end": 13.657
+      }
+    ]
+  },
+  {
+    "start": 13.657,
+    "end": 14.967,
+    "words": [
+      {
+        "text": "sky",
+        "highlight": false,
+        "start": 13.657,
+        "end": 14.057
+      },
+      {
+        "text": "glows",
+        "highlight": false,
+        "start": 14.057,
+        "end": 14.457
+      },
+      {
+        "text": "blue.",
+        "highlight": false,
+        "start": 14.457,
+        "end": 14.817
+      }
+    ]
+  },
+  {
+    "start": 15.067,
+    "end": 15.867,
+    "words": [
+      {
+        "text": "At",
+        "highlight": false,
+        "start": 15.067,
+        "end": 15.387
+      },
+      {
+        "text": "sunset,",
+        "highlight": false,
+        "start": 15.387,
+        "end": 15.867
+      }
+    ]
+  },
+  {
+    "start": 15.867,
+    "end": 16.907,
+    "words": [
+      {
+        "text": "light",
+        "highlight": false,
+        "start": 15.867,
+        "end": 16.187
+      },
+      {
+        "text": "crosses",
+        "highlight": true,
+        "start": 16.187,
+        "end": 16.667
+      },
+      {
+        "text": "much",
+        "highlight": false,
+        "start": 16.667,
+        "end": 16.907
+      }
+    ]
+  },
+  {
+    "start": 16.907,
+    "end": 17.707,
+    "words": [
+      {
+        "text": "more",
+        "highlight": false,
+        "start": 16.907,
+        "end": 17.067
+      },
+      {
+        "text": "air,",
+        "highlight": false,
+        "start": 17.067,
+        "end": 17.707
+      }
+    ]
+  },
+  {
+    "start": 17.707,
+    "end": 18.347,
+    "words": [
+      {
+        "text": "the",
+        "highlight": false,
+        "start": 17.707,
+        "end": 17.867
+      },
+      {
+        "text": "blue",
+        "highlight": false,
+        "start": 17.867,
+        "end": 18.187
+      },
+      {
+        "text": "is",
+        "highlight": false,
+        "start": 18.187,
+        "end": 18.347
+      }
+    ]
+  },
+  {
+    "start": 18.347,
+    "end": 19.147,
+    "words": [
+      {
+        "text": "scattered",
+        "highlight": true,
+        "start": 18.347,
+        "end": 18.747
+      },
+      {
+        "text": "away,",
+        "highlight": false,
+        "start": 18.747,
+        "end": 19.147
+      }
+    ]
+  },
+  {
+    "start": 19.147,
+    "end": 19.867,
+    "words": [
+      {
+        "text": "and",
+        "highlight": false,
+        "start": 19.147,
+        "end": 19.307
+      },
+      {
+        "text": "reds",
+        "highlight": false,
+        "start": 19.307,
+        "end": 19.707
+      },
+      {
+        "text": "and",
+        "highlight": false,
+        "start": 19.707,
+        "end": 19.867
+      }
+    ]
+  },
+  {
+    "start": 19.867,
+    "end": 21.13,
+    "words": [
+      {
+        "text": "oranges",
+        "highlight": false,
+        "start": 19.867,
+        "end": 20.347
+      },
+      {
+        "text": "are",
+        "highlight": false,
+        "start": 20.347,
+        "end": 20.507
+      },
+      {
+        "text": "left.",
+        "highlight": false,
+        "start": 20.507,
+        "end": 20.98
+      }
+    ]
+  }
+]

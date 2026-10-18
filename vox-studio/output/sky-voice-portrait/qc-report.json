@@ -1,0 +1,98 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "MP4 exists",
+      "ok": true,
+      "detail": "12.4 MB"
+    },
+    {
+      "name": "Resolution",
+      "ok": true,
+      "detail": "1080×1350 (expected 1080×1350)"
+    },
+    {
+      "name": "Frame rate",
+      "ok": true,
+      "detail": "30.00 fps"
+    },
+    {
+      "name": "Video codec",
+      "ok": true,
+      "detail": "h264 High yuv420p"
+    },
+    {
+      "name": "Audio stream",
+      "ok": true,
+      "detail": "aac 48000 Hz 2ch"
+    },
+    {
+      "name": "Duration matches plan",
+      "ok": true,
+      "detail": "21.48s (plan 21.47s)"
+    },
+    {
+      "name": "Decodes cleanly",
+      "ok": true,
+      "detail": "no decoder errors"
+    },
+    {
+      "name": "No black segments",
+      "ok": true,
+      "detail": "none ≥0.3s"
+    },
+    {
+      "name": "No frozen video (>3s)",
+      "ok": true,
+      "detail": "motion throughout"
+    },
+    {
+      "name": "No audio dropouts",
+      "ok": true,
+      "detail": "no silence ≥1.5s"
+    },
+    {
+      "name": "Loudness",
+      "ok": true,
+      "detail": "-16.1 LUFS integrated (target −16)"
+    },
+    {
+      "name": "All scenes present",
+      "ok": true,
+      "detail": "4 scenes, 116–235 frames each"
+    },
+    {
+      "name": "Assets present",
+      "ok": true,
+      "detail": "textures, grain, mix"
+    },
+    {
+      "name": "Representative frames extracted",
+      "ok": true,
+      "detail": "4 frames → output/sky-voice-portrait/contact-sheet.jpg"
+    },
+    {
+      "name": "Frames have content",
+      "ok": true,
+      "detail": "every scene frame has full tonal range"
+    },
+    {
+      "name": "Subtitle sync vs speech",
+      "ok": true,
+      "detail": "98% words matched; onset error median 0 ms, p95 8 ms"
+    },
+    {
+      "name": "SRT export",
+      "ok": true,
+      "detail": "output/sky-voice-portrait/subtitles.srt"
+    }
+  ],
+  "contactSheet": "/home/user/ar-aha/vox-studio/output/sky-voice-portrait/contact-sheet.jpg",
+  "thumbnail": "/home/user/ar-aha/vox-studio/output/sky-voice-portrait/thumbnail.jpg",
+  "frames": [
+    "scene_01_s1.png",
+    "scene_02_s2.png",
+    "scene_03_s3.png",
+    "scene_04_s4.png"
+  ]
+}

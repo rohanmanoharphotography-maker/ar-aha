@@ -1,0 +1,1056 @@
+{
+  "duration": 45.36,
+  "speechEnd": 43.76,
+  "alignment": {
+    "engine": "parakeet-tdt-0.6b-v2-int8 (sherpa-onnx)",
+    "wordCoverage": 0.96
+  },
+  "beats": [
+    {
+      "id": 1,
+      "start": 0.35,
+      "end": 4.926,
+      "text": "A vaccine can be ruined long before it reaches your arm. And no one would see it."
+    },
+    {
+      "id": 2,
+      "start": 5.226,
+      "end": 9.06,
+      "text": "Most vaccines must stay between two and eight degrees Celsius."
+    },
+    {
+      "id": 3,
+      "start": 9.36,
+      "end": 13.399,
+      "text": "Too warm, and they lose strength. Frozen, many are damaged for good."
+    },
+    {
+      "id": 4,
+      "start": 13.7,
+      "end": 18.664,
+      "text": "So they travel a cold chain: an unbroken line of cold, from factory to clinic."
+    },
+    {
+      "id": 5,
+      "start": 18.964,
+      "end": 23.15,
+      "text": "Refrigerated trucks and insulated boxes keep them in range."
+    },
+    {
+      "id": 6,
+      "start": 23.45,
+      "end": 26.494,
+      "text": "Data loggers record the temperature around the clock."
+    },
+    {
+      "id": 7,
+      "start": 26.794,
+      "end": 29.818,
+      "text": "Some vials carry a label that darkens with too much heat."
+    },
+    {
+      "id": 8,
+      "start": 30.118,
+      "end": 33.665,
+      "text": "At the pharmacy, a dedicated fridge is checked every workday."
+    },
+    {
+      "id": 9,
+      "start": 33.965,
+      "end": 39.254,
+      "text": "If it slips out of range, doses are set aside until experts decide if they're usable."
+    },
+    {
+      "id": 10,
+      "start": 39.554,
+      "end": 43.76,
+      "text": "A vaccine only protects you if the cold held, all the way to your arm."
+    }
+  ],
+  "words": [
+    {
+      "text": "A",
+      "beat": 1,
+      "start": 0.3,
+      "end": 0.54,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "vaccine",
+      "beat": 1,
+      "start": 0.54,
+      "end": 1.02,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "can",
+      "beat": 1,
+      "start": 1.02,
+      "end": 1.18,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "be",
+      "beat": 1,
+      "start": 1.18,
+      "end": 1.34,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "ruined",
+      "beat": 1,
+      "start": 1.34,
+      "end": 1.9,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "long",
+      "beat": 1,
+      "start": 1.9,
+      "end": 2.14,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "before",
+      "beat": 1,
+      "start": 2.14,
+      "end": 2.38,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "it",
+      "beat": 1,
+      "start": 2.38,
+      "end": 2.54,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "reaches",
+      "beat": 1,
+      "start": 2.54,
+      "end": 2.94,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "your",
+      "beat": 1,
+      "start": 2.94,
+      "end": 3.1,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "arm.",
+      "beat": 1,
+      "start": 3.1,
+      "end": 3.74,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "And",
+      "beat": 1,
+      "start": 3.74,
+      "end": 3.9,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "no",
+      "beat": 1,
+      "start": 3.9,
+      "end": 4.14,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "one",
+      "beat": 1,
+      "start": 4.14,
+      "end": 4.38,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "would",
+      "beat": 1,
+      "start": 4.38,
+      "end": 4.54,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "see",
+      "beat": 1,
+      "start": 4.54,
+      "end": 4.7,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "it.",
+      "beat": 1,
+      "start": 4.7,
+      "end": 4.926,
+      "lastInBeat": true,
+      "highlight": false
+    },
+    {
+      "text": "Most",
+      "beat": 2,
+      "start": 5.176,
+      "end": 5.496,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "vaccines",
+      "beat": 2,
+      "start": 5.496,
+      "end": 6.136,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "must",
+      "beat": 2,
+      "start": 6.136,
+      "end": 6.456,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "stay",
+      "beat": 2,
+      "start": 6.456,
+      "end": 6.696,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "between",
+      "beat": 2,
+      "start": 6.696,
+      "end": 6.968,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "two",
+      "beat": 2,
+      "start": 6.968,
+      "end": 7.24,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "and",
+      "beat": 2,
+      "start": 7.24,
+      "end": 7.512,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "eight",
+      "beat": 2,
+      "start": 7.512,
+      "end": 7.784,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "degrees",
+      "beat": 2,
+      "start": 8.056,
+      "end": 8.456,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "Celsius.",
+      "beat": 2,
+      "start": 8.456,
+      "end": 9.06,
+      "lastInBeat": true,
+      "highlight": true
+    },
+    {
+      "text": "Too",
+      "beat": 3,
+      "start": 9.47,
+      "end": 9.71,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "warm,",
+      "beat": 3,
+      "start": 9.71,
+      "end": 10.03,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "and",
+      "beat": 3,
+      "start": 10.03,
+      "end": 10.19,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "they",
+      "beat": 3,
+      "start": 10.19,
+      "end": 10.35,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "lose",
+      "beat": 3,
+      "start": 10.35,
+      "end": 10.59,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "strength.",
+      "beat": 3,
+      "start": 10.59,
+      "end": 11.31,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "Frozen,",
+      "beat": 3,
+      "start": 11.31,
+      "end": 11.95,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "many",
+      "beat": 3,
+      "start": 11.95,
+      "end": 12.19,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "are",
+      "beat": 3,
+      "start": 12.19,
+      "end": 12.35,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "damaged",
+      "beat": 3,
+      "start": 12.35,
+      "end": 12.91,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "for",
+      "beat": 3,
+      "start": 12.91,
+      "end": 13.07,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "good.",
+      "beat": 3,
+      "start": 13.07,
+      "end": 13.399,
+      "lastInBeat": true,
+      "highlight": true
+    },
+    {
+      "text": "So",
+      "beat": 4,
+      "start": 13.65,
+      "end": 13.89,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "they",
+      "beat": 4,
+      "start": 13.89,
+      "end": 14.05,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "travel",
+      "beat": 4,
+      "start": 14.05,
+      "end": 14.45,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "a",
+      "beat": 4,
+      "start": 14.45,
+      "end": 14.61,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "cold",
+      "beat": 4,
+      "start": 14.61,
+      "end": 14.93,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "chain:",
+      "beat": 4,
+      "start": 14.93,
+      "end": 15.57,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "an",
+      "beat": 4,
+      "start": 15.57,
+      "end": 15.73,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "unbroken",
+      "beat": 4,
+      "start": 15.73,
+      "end": 16.45,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "line",
+      "beat": 4,
+      "start": 16.45,
+      "end": 16.69,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "of",
+      "beat": 4,
+      "start": 16.69,
+      "end": 16.85,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "cold,",
+      "beat": 4,
+      "start": 16.85,
+      "end": 17.33,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "from",
+      "beat": 4,
+      "start": 17.33,
+      "end": 17.57,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "factory",
+      "beat": 4,
+      "start": 17.57,
+      "end": 18.05,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "to",
+      "beat": 4,
+      "start": 18.05,
+      "end": 18.21,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "clinic.",
+      "beat": 4,
+      "start": 18.21,
+      "end": 18.664,
+      "lastInBeat": true,
+      "highlight": false
+    },
+    {
+      "text": "Refrigerated",
+      "beat": 5,
+      "start": 18.914,
+      "end": 19.794,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "trucks",
+      "beat": 5,
+      "start": 19.794,
+      "end": 20.274,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "and",
+      "beat": 5,
+      "start": 20.274,
+      "end": 20.514,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "insulated",
+      "beat": 5,
+      "start": 20.514,
+      "end": 21.154,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "boxes",
+      "beat": 5,
+      "start": 21.154,
+      "end": 21.874,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "keep",
+      "beat": 5,
+      "start": 21.874,
+      "end": 22.194,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "them",
+      "beat": 5,
+      "start": 22.194,
+      "end": 22.434,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "in",
+      "beat": 5,
+      "start": 22.434,
+      "end": 22.594,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "range.",
+      "beat": 5,
+      "start": 22.594,
+      "end": 23.15,
+      "lastInBeat": true,
+      "highlight": false
+    },
+    {
+      "text": "Data",
+      "beat": 6,
+      "start": 23.4,
+      "end": 23.88,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "loggers",
+      "beat": 6,
+      "start": 23.88,
+      "end": 24.6,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "record",
+      "beat": 6,
+      "start": 24.6,
+      "end": 24.92,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 6,
+      "start": 24.92,
+      "end": 25.08,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "temperature",
+      "beat": 6,
+      "start": 25.08,
+      "end": 25.64,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "around",
+      "beat": 6,
+      "start": 25.64,
+      "end": 25.88,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "the",
+      "beat": 6,
+      "start": 25.88,
+      "end": 26.04,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "clock.",
+      "beat": 6,
+      "start": 26.04,
+      "end": 26.494,
+      "lastInBeat": true,
+      "highlight": true
+    },
+    {
+      "text": "Some",
+      "beat": 7,
+      "start": 26.744,
+      "end": 27.064,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "vials",
+      "beat": 7,
+      "start": 27.064,
+      "end": 27.624,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "carry",
+      "beat": 7,
+      "start": 27.624,
+      "end": 27.784,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "a",
+      "beat": 7,
+      "start": 27.784,
+      "end": 27.944,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "label",
+      "beat": 7,
+      "start": 27.944,
+      "end": 28.344,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "that",
+      "beat": 7,
+      "start": 28.344,
+      "end": 28.504,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "darkens",
+      "beat": 7,
+      "start": 28.504,
+      "end": 28.984,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "with",
+      "beat": 7,
+      "start": 28.984,
+      "end": 29.144,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "too",
+      "beat": 7,
+      "start": 29.144,
+      "end": 29.304,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "much",
+      "beat": 7,
+      "start": 29.304,
+      "end": 29.464,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "heat.",
+      "beat": 7,
+      "start": 29.464,
+      "end": 29.818,
+      "lastInBeat": true,
+      "highlight": false
+    },
+    {
+      "text": "At",
+      "beat": 8,
+      "start": 30.068,
+      "end": 30.308,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 8,
+      "start": 30.308,
+      "end": 30.388,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "pharmacy,",
+      "beat": 8,
+      "start": 30.388,
+      "end": 31.108,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "a",
+      "beat": 8,
+      "start": 31.108,
+      "end": 31.348,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "dedicated",
+      "beat": 8,
+      "start": 31.348,
+      "end": 31.908,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "fridge",
+      "beat": 8,
+      "start": 31.908,
+      "end": 32.308,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "is",
+      "beat": 8,
+      "start": 32.308,
+      "end": 32.468,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "checked",
+      "beat": 8,
+      "start": 32.468,
+      "end": 32.948,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "every",
+      "beat": 8,
+      "start": 32.948,
+      "end": 33.108,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "workday.",
+      "beat": 8,
+      "start": 33.108,
+      "end": 33.665,
+      "lastInBeat": true,
+      "highlight": true
+    },
+    {
+      "text": "If",
+      "beat": 9,
+      "start": 33.915,
+      "end": 34.155,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "it",
+      "beat": 9,
+      "start": 34.155,
+      "end": 34.315,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "slips",
+      "beat": 9,
+      "start": 34.315,
+      "end": 34.635,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "out",
+      "beat": 9,
+      "start": 34.635,
+      "end": 34.795,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "of",
+      "beat": 9,
+      "start": 34.795,
+      "end": 34.955,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "range,",
+      "beat": 9,
+      "start": 34.955,
+      "end": 35.595,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "doses",
+      "beat": 9,
+      "start": 35.595,
+      "end": 36.155,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "are",
+      "beat": 9,
+      "start": 36.155,
+      "end": 36.315,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "set",
+      "beat": 9,
+      "start": 36.315,
+      "end": 36.555,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "aside",
+      "beat": 9,
+      "start": 36.555,
+      "end": 36.955,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "until",
+      "beat": 9,
+      "start": 36.955,
+      "end": 37.275,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "experts",
+      "beat": 9,
+      "start": 37.275,
+      "end": 37.915,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "decide",
+      "beat": 9,
+      "start": 37.915,
+      "end": 38.315,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "if",
+      "beat": 9,
+      "start": 38.315,
+      "end": 38.475,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "they're",
+      "beat": 9,
+      "start": 38.475,
+      "end": 38.795,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "usable.",
+      "beat": 9,
+      "start": 38.795,
+      "end": 39.254,
+      "lastInBeat": true,
+      "highlight": false
+    },
+    {
+      "text": "A",
+      "beat": 10,
+      "start": 39.504,
+      "end": 39.744,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "vaccine",
+      "beat": 10,
+      "start": 39.744,
+      "end": 40.304,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "only",
+      "beat": 10,
+      "start": 40.304,
+      "end": 40.544,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "protects",
+      "beat": 10,
+      "start": 40.544,
+      "end": 41.024,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "you",
+      "beat": 10,
+      "start": 41.024,
+      "end": 41.184,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "if",
+      "beat": 10,
+      "start": 41.184,
+      "end": 41.344,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 10,
+      "start": 41.344,
+      "end": 41.504,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "cold",
+      "beat": 10,
+      "start": 41.504,
+      "end": 41.904,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "held,",
+      "beat": 10,
+      "start": 41.904,
+      "end": 42.544,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "all",
+      "beat": 10,
+      "start": 42.544,
+      "end": 42.784,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "the",
+      "beat": 10,
+      "start": 42.784,
+      "end": 42.944,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "way",
+      "beat": 10,
+      "start": 42.944,
+      "end": 43.104,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "to",
+      "beat": 10,
+      "start": 43.104,
+      "end": 43.184,
+      "lastInBeat": false,
+      "highlight": false
+    },
+    {
+      "text": "your",
+      "beat": 10,
+      "start": 43.184,
+      "end": 43.344,
+      "lastInBeat": false,
+      "highlight": true
+    },
+    {
+      "text": "arm.",
+      "beat": 10,
+      "start": 43.344,
+      "end": 43.76,
+      "lastInBeat": true,
+      "highlight": true
+    }
+  ]
+}

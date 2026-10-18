@@ -1,0 +1,33 @@
+{
+  "engine": "kokoro-onnx v1.0",
+  "voice": "am_michael",
+  "speed": 1.12,
+  "sampleRate": 24000,
+  "lead": 0.35,
+  "gap": 0.3,
+  "tail": 1.6,
+  "speechEnd": 20.98,
+  "duration": 22.58,
+  "beats": [
+    {
+      "id": 1,
+      "start": 0.35,
+      "end": 3.881
+    },
+    {
+      "id": 2,
+      "start": 4.181,
+      "end": 9.567
+    },
+    {
+      "id": 3,
+      "start": 9.867,
+      "end": 14.817
+    },
+    {
+      "id": 4,
+      "start": 15.117,
+      "end": 20.98
+    }
+  ]
+}

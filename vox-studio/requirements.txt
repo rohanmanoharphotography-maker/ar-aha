@@ -1,0 +1,7 @@
+numpy==2.5.4
+soundfile==0.14.0
+kokoro-onnx==0.6.1
+sherpa-onnx==1.13.8
+pillow==13.0.0
+# optional: topic -> script with Claude (scripts/py/write_storyboard.py)
+# anthropic

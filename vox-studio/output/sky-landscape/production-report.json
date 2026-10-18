@@ -1,0 +1,179 @@
+{
+  "started": "2026-10-18T19:54:18.716Z",
+  "args": {
+    "script": "input/examples/script.txt",
+    "title": "Why the sky is blue",
+    "slug": "sky-landscape",
+    "duration": "20",
+    "format": "landscape"
+  },
+  "stages": [
+    {
+      "name": "Script & storyboard",
+      "status": "done",
+      "detail": "auto-storyboard from script (generic scene templates)"
+    },
+    {
+      "name": "Textures & SFX",
+      "status": "done",
+      "detail": "procedural paper, grain, 7 synthesised SFX"
+    },
+    {
+      "name": "Voiceover",
+      "status": "done",
+      "detail": "Kokoro am_michael @ 1.12x, 20.98s speech"
+    },
+    {
+      "name": "Alignment & subtitles",
+      "status": "done",
+      "detail": "22 caption groups, ASR word coverage 97.7%"
+    },
+    {
+      "name": "Scene plan",
+      "status": "done",
+      "detail": "4 scenes, 677 frames"
+    },
+    {
+      "name": "Music & mix",
+      "status": "done",
+      "detail": "original synthesised bed, 7 SFX, voice/music separation 20 dB, -16 LUFS"
+    },
+    {
+      "name": "Render",
+      "status": "done",
+      "detail": "Remotion master in 134s"
+    },
+    {
+      "name": "Delivery encode",
+      "status": "done",
+      "detail": "output/sky-landscape/final-video.mp4 (29.8 MB) in 44s"
+    },
+    {
+      "name": "Quality control",
+      "status": "passed with warnings",
+      "detail": "17/18 checks, 1 warning"
+    }
+  ],
+  "limitations": [
+    "QC warning — Duration vs target: 22.57s vs 20s target (±2.5s) — length fixed by the supplied script/voice",
+    "Narration is synthetic (Kokoro am_michael); for flagship releases record a human voiceover and pass --voice.",
+    "Storyboard has no `sources` list — on-screen claims have not been fact-checked by this pipeline.",
+    "Automated QC checks format, sync, loudness and blank frames; cropping/overflow is judged by reviewing contact-sheet.jpg (done for this run only if stated in the delivery notes)."
+  ],
+  "qc": {
+    "passed": true,
+    "checks": [
+      {
+        "name": "MP4 exists",
+        "ok": true,
+        "detail": "29.8 MB"
+      },
+      {
+        "name": "Resolution",
+        "ok": true,
+        "detail": "1920×1080 (expected 1920×1080)"
+      },
+      {
+        "name": "Frame rate",
+        "ok": true,
+        "detail": "30.00 fps"
+      },
+      {
+        "name": "Video codec",
+        "ok": true,
+        "detail": "h264 High yuv420p"
+      },
+      {
+        "name": "Audio stream",
+        "ok": true,
+        "detail": "aac 48000 Hz 2ch"
+      },
+      {
+        "name": "Duration matches plan",
+        "ok": true,
+        "detail": "22.57s (plan 22.57s)"
+      },
+      {
+        "name": "Duration vs target",
+        "ok": false,
+        "detail": "22.57s vs 20s target (±2.5s) — length fixed by the supplied script/voice",
+        "warn": true
+      },
+      {
+        "name": "Decodes cleanly",
+        "ok": true,
+        "detail": "no decoder errors"
+      },
+      {
+        "name": "No black segments",
+        "ok": true,
+        "detail": "none ≥0.3s"
+      },
+      {
+        "name": "No frozen video (>3s)",
+        "ok": true,
+        "detail": "motion throughout"
+      },
+      {
+        "name": "No audio dropouts",
+        "ok": true,
+        "detail": "no silence ≥1.5s"
+      },
+      {
+        "name": "Loudness",
+        "ok": true,
+        "detail": "-16.1 LUFS integrated (target −16)"
+      },
+      {
+        "name": "All scenes present",
+        "ok": true,
+        "detail": "4 scenes, 122–227 frames each"
+      },
+      {
+        "name": "Assets present",
+        "ok": true,
+        "detail": "textures, grain, mix"
+      },
+      {
+        "name": "Representative frames extracted",
+        "ok": true,
+        "detail": "4 frames → output/sky-landscape/contact-sheet.jpg"
+      },
+      {
+        "name": "Frames have content",
+        "ok": true,
+        "detail": "every scene frame has full tonal range"
+      },
+      {
+        "name": "Subtitle sync vs speech",
+        "ok": true,
+        "detail": "98% words matched; onset error median 29 ms, p95 132 ms"
+      },
+      {
+        "name": "SRT export",
+        "ok": true,
+        "detail": "output/sky-landscape/subtitles.srt"
+      }
+    ],
+    "contactSheet": "/home/user/ar-aha/vox-studio/output/sky-landscape/contact-sheet.jpg",
+    "thumbnail": "/home/user/ar-aha/vox-studio/output/sky-landscape/thumbnail.jpg",
+    "frames": [
+      "scene_01_s1.png",
+      "scene_02_s2.png",
+      "scene_03_s3.png",
+      "scene_04_s4.png"
+    ]
+  },
+  "finished": "2026-10-18T19:58:14.630Z",
+  "elapsedSeconds": 236,
+  "outputs": {
+    "video": "output/sky-landscape/final-video.mp4",
+    "subtitles": "output/sky-landscape/subtitles.srt",
+    "narration": "output/sky-landscape/narration.wav",
+    "storyboard": "output/sky-landscape/storyboard.json",
+    "script": "output/sky-landscape/script.txt",
+    "plan": "output/sky-landscape/plan.json",
+    "contactSheet": "output/sky-landscape/contact-sheet.jpg",
+    "thumbnail": "output/sky-landscape/thumbnail.jpg"
+  }
+}
